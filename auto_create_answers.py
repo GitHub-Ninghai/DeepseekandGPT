@@ -5,7 +5,7 @@ from tqdm import tqdm  # 进度条库
 
 # 配置DeepSeek API
 openai.api_base = "https://api.deepseek.com/v1"
-openai.api_key = "sk-a5457b7547314c93b76801027067cd49"
+openai.api_key = "sk-xxx"
 
 
 def get_deepseek_answer(question):
@@ -61,4 +61,4 @@ def process_jsonl(input_file, output_file):
 
 
 # 执行处理
-process_jsonl("test.jsonl", "test_updated.jsonl")
+process_jsonl("./data/test.jsonl", "./data/test_updated.jsonl")
