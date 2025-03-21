@@ -3,6 +3,7 @@ import argparse
 import pandas as pd
 import torch
 from evaluators.chatgpt import ChatGPT_Evaluator
+from evaluators.deepseek import DeepSeek_Evaluator
 from evaluators.Yi import Yi_Evaluator
 from evaluators.chatglm import ChatGLM_Evaluator
 from evaluators.Baichuan import Baichuan_Evaluator
@@ -16,6 +17,13 @@ def main(args):
 
     if "turbo" in args.model_name or "gpt-4" in args.model_name:
         evaluator=ChatGPT_Evaluator(
+            choices=choices,
+            k=args.ntrain,
+            api_key=args.openai_key,
+            model_name=args.model_name
+        )
+    elif "deepseek" in args.model_name:
+        evaluator=DeepSeek_Evaluator(
             choices=choices,
             k=args.ntrain,
             api_key=args.openai_key,
