@@ -10,8 +10,7 @@ name_en2zh = {'Middle_School_Chemistry': '初中化学', 'Middle_School_History'
               'Middle_School_Mathematics': '初中数学', 'Middle_School_Physics': '初中物理',
               'Middle_School_Biology': '初中生物', 'Middle_School_English': '初中英语',
               'Middle_School_Chinese': '初中语文', 'Primary_School_Mathematics': '小学小学数学',
-              'Primary_School_Science': '小学小学科学', 'Primary_School_English': '小学小学英语',
-              'Primary_School_Chinese': '小学小学语文', 'Primary_School_Ethics': '小学道德与法治',
+              'Primary_School_English': '小学小学英语','Primary_School_Chinese': '小学小学语文',
               'High_School_Chemistry': '高中化学', 'High_School_History': '高中历史',
               'High_School_Geography': '高中地理', 'High_School_Politics': '高中政治',
               'High_School_Mathematics': '高中数学', 'High_School_Physics': '高中物理',
@@ -26,7 +25,7 @@ class DeepSeek_Evaluator(Evaluator):
 
     def format_example(self, line, include_answer=True, cot=False):
         # 保持原有格式处理逻辑不变
-        example = line['question']
+        example = line['prompt']
         for choice in self.choices:
             example += f'\n{choice}. {line[f"{choice}"]}'
 
@@ -119,11 +118,14 @@ class DeepSeek_Evaluator(Evaluator):
 
             # 答案提取逻辑保持不变
             if cot:
-                ans_list = re.findall(r"答案是(.+?)。", response_str)
+                ans_list = re.findall(r"答案(?:应该|可能)?是?\s?(?:选项)?\s?([A-D])", response_str, re.IGNORECASE)
                 if not ans_list:
-                    ans_list = re.findall(r"答案为(.+?)。", response_str)
+                    ans_list = re.findall(r"选项\s?([A-D])", response_str, re.IGNORECASE)
                 if not ans_list:
-                    ans_list = re.findall(r"选项(.+?)是正确的。", response_str)
+                    ans_list = re.findall(r"(?:正确|对应)(?:选项|答案)?\s?([A-D])", response_str, re.IGNORECASE)
+                if not ans_list:
+                    # 提取所有大写字母选项
+                    ans_list = re.findall(r'\b([A-D])\b', response_str)
 
                 correct = 1 if ans_list and self.exact_match(ans_list[-1], row["answer"]) else 0
             else:
@@ -148,8 +150,8 @@ class DeepSeek_Evaluator(Evaluator):
         return correct_ratio
 
     # 以下方法保持与原始代码相同
-    def extract_ans(self, response_str):
-        pattern = [
+    def extract_ans(self,response_str):
+        pattern=[
             r"^选([A-D])",
             r"^选项([A-D])",
             r"答案是\s?选?项?\s?([A-D])",
@@ -168,15 +170,12 @@ class DeepSeek_Evaluator(Evaluator):
             r"答案应为：\s?选?项?\s?([A-D])",
             r"答案：\s?选?项?\s?([A-D])",
         ]
-        ans_list = []
-        if response_str and response_str[0] in ["A", 'B', 'C', 'D']:
+        ans_list=[]
+        if response_str[0] in ["A",'B','C','D']:
             ans_list.append(response_str[0])
         for p in pattern:
-            if not ans_list:
-                ans_list = re.findall(p, response_str)
+            if len(ans_list)==0:
+                ans_list=re.findall(p,response_str)
             else:
                 break
         return ans_list
-
-    def exact_match(self, prediction, answer):
-        return prediction.strip() == answer.strip()

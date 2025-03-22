@@ -10,7 +10,7 @@ name_en2zh = {'Middle_School_Chemistry': '初中化学', 'Middle_School_History'
 class ChatGPT_Evaluator(Evaluator):
     def __init__(self, choices, k, api_key,model_name):
         super(ChatGPT_Evaluator, self).__init__(choices, model_name, k)
-        openai.api_base = "https://api.xi-ai.cn/v1"
+        openai.api_base = "https://api.gptsapi.net/v1"
         openai.api_key = api_key
 
     def format_example(self,line,include_answer=True,cot=False):
@@ -94,11 +94,14 @@ class ChatGPT_Evaluator(Evaluator):
                 response_str = response['choices'][0]['message']['content']
             # print(response_str)
             if cot:
-                ans_list=re.findall(r"答案是(.+?)。",response_str)
-                if len(ans_list)==0:
-                    ans_list=re.findall(r"答案为(.+?)。",response_str)
-                if len(ans_list)==0:
-                    ans_list=re.findall(r"选项(.+?)是正确的。",response_str)
+                ans_list = re.findall(r"答案(?:应该|可能)?是?\s?(?:选项)?\s?([A-D])", response_str, re.IGNORECASE)
+                if not ans_list:
+                    ans_list = re.findall(r"选项\s?([A-D])", response_str, re.IGNORECASE)
+                if not ans_list:
+                    ans_list = re.findall(r"(?:正确|对应)(?:选项|答案)?\s?([A-D])", response_str, re.IGNORECASE)
+                if not ans_list:
+                    # 提取所有大写字母选项
+                    ans_list = re.findall(r'\b([A-D])\b', response_str)
 
                 if len(ans_list)==0:
                     correct=0

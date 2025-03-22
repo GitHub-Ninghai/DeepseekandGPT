@@ -15,14 +15,14 @@ choices = ["A", "B", "C", "D"]
 
 def main(args):
 
-    if "turbo" in args.model_name or "gpt-4" in args.model_name:
+    if "o3-mini-2025-01-31" in args.model_name:
         evaluator=ChatGPT_Evaluator(
             choices=choices,
             k=args.ntrain,
             api_key=args.openai_key,
             model_name=args.model_name
         )
-    elif "deepseek" in args.model_name:
+    elif "deepseek-reasoner" in args.model_name:
         evaluator=DeepSeek_Evaluator(
             choices=choices,
             k=args.ntrain,
@@ -88,12 +88,12 @@ def main(args):
     print(subject_name)
     val_file_path=os.path.join('data/val',f'{subject_name}_val.csv')
     val_df=pd.read_csv(val_file_path)
-    test_file_path=os.path.join('data/test_with_ans',f'{subject_name}_test_with_ans.csv')
+    test_file_path=os.path.join('data/test',f'{subject_name}_test.csv')
     test_df=pd.read_csv(test_file_path)
     if args.few_shot:
-        dev_file_path=os.path.join('data/dev',f'{subject_name}_dev.csv')
-        dev_df=pd.read_csv(dev_file_path)
-        correct_ratio = evaluator.eval_subject(subject_name, test_df, dev_df, few_shot=args.few_shot,save_result_dir=save_result_dir,cot=args.cot)
+        # dev_file_path=os.path.join('data/dev',f'{subject_name}_dev.csv')
+        # dev_df=pd.read_csv(dev_file_path)
+        correct_ratio = evaluator.eval_subject(subject_name, test_df ,dev_df,few_shot=args.few_shot,save_result_dir=save_result_dir,cot=args.cot)
     else:
         correct_ratio = evaluator.eval_subject(subject_name, test_df, few_shot=args.few_shot,save_result_dir=save_result_dir)
     print("Acc:",correct_ratio)

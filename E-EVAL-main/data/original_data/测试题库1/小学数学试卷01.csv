@@ -1,4 +1,4 @@
-﻿id,prompt,A,B,C,D,answer,analysis,difficulty,knowledge_domain,knowledge_tree,task_grade,task_semester,task_subject,task_type
+id,prompt,A,B,C,D,answer,analysis,difficulty,knowledge_domain,knowledge_tree,task_grade,task_semester,task_subject,task_type
 616ce58c9a1d41d98c2e1da86135de02,"一根木头长$$8{m}$$，要把它平均分成$$4$$段．每锯下一段需要$$7$$分钟，锯完一共需要（   ）分钟．
 ",$$28$$,$$14$$,$$21$$,,C,"本题考查锯木头问题．把一根木头平均分成$$4$$段，需要锯$$3$$次，每锯下一段需要$$7$$分钟，锯完一共要花$$7\times 3=21$$ （分钟）．
 
