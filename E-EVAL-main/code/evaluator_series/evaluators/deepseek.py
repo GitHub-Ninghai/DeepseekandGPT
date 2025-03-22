@@ -78,7 +78,11 @@ class DeepSeek_Evaluator(Evaluator):
         else:
             few_shot_prompt = [{
                 "role": "system",
-                "content": f"你是一个中文人工智能助手，以下是中国关于{name_en2zh[subject_name]}考试的单项选择题，请选出其中的正确答案。"
+                "content": f"你是中国{name_en2zh[subject_name]}考试解题专家，请按以下要求作答：\n"
+            "1. 用<think>包裹详细推理过程\n"
+            "2. 用中文介绍这道题属于的difficulty,knowledge_domain,knowledge_tree,task_grade,task_semester,task_subject\n"
+            "3. 最后用单独一行'答案：X'输出结果,其中X为ABCD其中一个单一的英文大写字母\n"
+
             }]
 
         answers = list(test_df['answer'])
@@ -87,9 +91,7 @@ class DeepSeek_Evaluator(Evaluator):
             full_prompt = few_shot_prompt + question
 
             if not few_shot:
-                full_prompt[-1][
-                    "content"] = f"以下是中国关于{name_en2zh[subject_name]}考试的单项选择题，请选出其中的正确答案。\n\n" + \
-                                 full_prompt[-1]["content"]
+                full_prompt[-1]["content"] = f"你是中国{name_en2zh[subject_name]}考试解题专家，请按以下要求作答：\n1. 用<think>包裹详细推理过程\n2. 用中文介绍这道题属于的difficulty,knowledge_domain,knowledge_tree,task_grade,task_semester,task_subject\n3. 最后用单独一行'答案：X'输出结果,其中X为ABCD其中一个单一的英文大写字母\n" + full_prompt[-1]["content"]
 
             response = None
             timeout_counter = 0

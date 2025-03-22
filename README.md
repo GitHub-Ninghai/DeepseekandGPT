@@ -172,3 +172,15 @@ def fact_check_with_gpt(pred, ref):
 
 ## 五、快速使用
 
+进入E-EVAL-main文件夹下
+
+```
+cd E-EVAL-main
+```
+
+运行测试脚本
+
+```
+python code/evaluator_series/eval.py --openai_key sk-xxxxx --model_name deepseek-reasoner -s "High_School_Mathematics" --cot
+```
+
