@@ -1,139 +1,393 @@
-id,question,A,B,C,D
-0,—May Day is coming. How are you going to celebrate it? —We will ________ a short play.,put away,put up,put off,put on
-1,He is the only student in our class ________ wants to be a policeman.,whose,who,whom,which
-2,— I feel really ________ before the interview. — Take it easy. Sure you’re the best.,patient,serious,nervous,cool
-3,"When water is made cold enough, it ________ ice.",turns on,turns down,turns off,turns into
-4,"Tom and ____ will go to see our teacher, for ___ is ill.",I; she.,me; she,I; her,me; her
-5,—All the kids in our class took the exam ________ Tim. Why? —Because he was ill that day.,with,after,beside,except
-6,Look at your dirty hands. You should go and wash your hands ________ you have lunch.,after,before,while,although
-7,Try your best ________ with your parents and they will understand your decision.,to play,talk,to talk,play
-8,Where’s my English ________ / bʊk /? I can’t find it.,back,book,bake,bike
-9,Over _________ readers got the gifts from the company.,ten thousand,thousands of,five hundred of,hundreds of
-10,The tomato soup ______ very delicious.,looked,sounded,felt,tasted
-11,—________ go to Shanghai Botanical Garden tomorrow? —That&apos;s a good idea.,What about,Why not,Why not you,Why don&apos;t
-12,—________ Lucy good at volleyball? —No. She ________ play volleyball well.,Does; doesn’t,Does; isn’t,Is; doesn’t,Is; isn’t
-13,Sun Yang _________ the other swimmers and ________ the gold medal in the 400-meter freestyle.,beat; won,won; beat,won; beats,wins; beat
-14,We all enjoy _____ on Sunday.,go fishing,going boat,go swimming,going hiking
-15,Let’s go to school together.,with each other,every day,once a week,alone
-16,—Whose is this toy truck?  —It _________ belong to Dick. He was the only little kid at the picnic.,can’t,must,could,need
-17,The company has set up a team to ________ the problem.,look up,look over,look at,look into
-18,Mike found ________ in a very dangerous situation when climbing last year.,myself,yourself,itself,himself
-19,"—Hello! This is David. Can I speak to Tom?  —Yes, _________.",Tom is me,This is Tom speaking,I am Tom,My name is Tom
-20,—Can you tell me ________ at 6:00 p.m. last evening?  —Yes. I was having an English class online.,what you were doing,what were you doing,where you were going,where were you going
-21,Please open a window _________ turning on air conditioning.,instead of,instead,not,rather
-22,"—Did you go to the cinema last night? —No. ___________ seeing a film, I just stayed at home and read The Story of the Stone（《红楼梦》）.",Instead of,Because of,Instead,Because
-23,Her hair ________ black and long.,has,am,is,are
-24,"We often take ________ , and we do morning ________ every day.",exercise; exercises,exercises; exercises,exercise; exercise,exercises; exercise
-25,—It’s very cool today. Let’s go cycling in Zhongshan Park. —________,"Yes, please.",Don’t worry.,Sounds great.,That’s all right.
-26,—________are you? —I’m fine.,How old,How,Who,What
-27,I have only two tickets for the concert. ________ you ________ he can go with me.,Either; or,Neither; nor,Both; and,Not only; but also
-28,—I’d like a cup of tea ________ nothing in it. —OK. What else?,have,has,with,and
-29,________ my father and ________my mother.,This’s; that’s,This is; that’s,This’s; that,This is; that
-30,"I think we should put the sofa ________ the window. If so, there will be much space in the room.",during,against,through,between
-31,"— Shall we go to Beijing for vacation, Linda? —  _________ . It’s my childhood dream.",Don’t worry,My pleasure,Never mind,I can’t agree more
-32,He often helps me ________ my Chinese.,for,on,to,with
-33,"Jeff likes English best, and he is good ________it.",to,for,with,at
-34,"You’d better go over your test paper carefully, _______ you won’t get a good mark.",so,and,but,or
-35,Spring is my favorite season. It’s a time to ________ the beauty of flowers.,spread,admire,support,connect
-36,Look at (看) the ________！ We can see a girl and a dog in it.,picture,jacket,phone,friend
-37,"In China, people have the ________ of shousui on New Year’s Eve.",education,tradition,condition,decision
-38,It’s not a good habit to ______ what you can do today till tomorrow.,take off,put off,get off,turn off
-39,I believe that humans will ________ more secrets of nature in the future.,discover,wish,order,invent
-40,— _____ do you usually do on the Internet?  —Search for information.,When,Where,What,Who
-41,The air ________ is very serious here now. Please stop ________ it.,pollute; pollution,pollution; polluting,pollution; to pollute,pollution; pollution
-42,"—Would you like ________ with me, Susan? —Sure, Mom.",to go shopping,go shopping,to shopping,going to shopping
-43,—Do you know ________ Binhai Cultural Centre? —Next Sunday.,when will we visit,how will we visit,when we will visit,how we will visit
-44,"If you find my watch, please call me _______ 138-6687.",of,at,on,in
-45,"Peter is good at ________ stories, and he is good ________ children.","talking, at","saying, with","speaking, at","writing, with"
-46,—How long _______ you _______ your hometown?         —For five years.,have; left,has; left,have; been away from,has; been away from
-47,"—Don’t forget to return the book before Friday, Jack.  —_________. I know I can only ________ it for five days.",No. I won’t；borrow,OK. I will；borrow,No. I will；keep,OK. I won’t；keep
-48,—What’s the cook doing? —He is _______ a carrot. It looks like a rose.,making,creating,shaping,cooking
-49,——How soon will he come back?    ——___________ two days.,Before,After,In,For
-50,"—I have to leave early to prepare for tomorrow’s interview, do you mind?  —No, ________. I know it is very important to you.",help yourself,go ahead,that’s right,don’t mention it
-51,"—Is this ________ tape player?        —Yes, it is.",a,an,the,/
-52,Don’t ________ because he needs a good rest.,wake up him,wake him up,to wake up him,to wake him up
-53,David is a tennis player. He _____ to play tennis when he was six.,begins,will begin,began,has began
-54,Jackie Chen and Jet Li have much ________. And they often play similar roles in the movies.,in common,at least,for example,at first
-55,"—What is the most popular(最流行的) way to communicate(联系) in China now? —WeChat(微信). One of its ________ is that it can send words, pictures as well as voices(声音).",questions,prices,changes,advantages
-56,— Nice to meet you. —________.,Good morning,"Fine, thank you",How do you do,"Nice to meet you, too."
-57,—It’s a nice day. What about taking a walk along the lake?  —________. Let’s go.,The same to you,It’s a pleasure,Good idea,Well done
-58,"Do you know I saw yesterday? It was my favorite star, Jackie.",when,where,whom,how
-59,It’s raining outside. Why not ________ this umbrella with you?,take,taking,took,to take
-60,There is a map ________ the world ________ our classroom.,of; in,to; of,at; in,in; at
-61,________ exciting news! The Chinese team successfully arrived at the peak of Qomolangma.,What,What an,How,How an
-62,"I ________ be late, so don’t wait for me to start the meeting.",mustn’t,needn’t,can,may
-63,—I want to ask my teacher ________ my books. —You can call her ________ 18055687325.,of; at,for; in,of; to,for; at
-64,Susan   her friend’s invitation because of an important meeting.,took down,put down,turned down,wrote down
-65,The small self-service book store on campus has been open ________.,in five years’ time,for the time being,by the end of last year,for five years
-66,Bill Gates became interested in computers ________ in those days they were not very common.,because,although,unless,so that
-67,Mike is a ________ boy.,12-year-old,12-years-old,12 year old,12 years old
-68,"Liu Genghong is very _________ online, because he teaches people to exercise.",popular,silent,nervous,noisy
-69,"On sunny days, ________ people come and have fun in the new park.",hundred of,hundreds of,two hundreds,two hundred of
-70, ---We can use QQ to talk with each other on the Internet. ---Really? Will you please show me  it?,what to use,how to use,how can I use,what can I use
-71,That maths problem is ________ difficult ________ nobody can work it out.,too; to,very; that,so; that,very; but
-72,—What do you think of the talk yesterday? —It was  . Many students felt so   that they even fell asleep while listening.,bored; bored,bored; boring,boring; bored,boring; boring
-73,That’s the man ________ house was destroyed in the storm.,that,whose,who,which
-74,"—Daming, can you teach ________ how to use chopsticks? —Sure. We use chopsticks every day and it is ________ Chinese tradition.","me, our","my, your","me, ours","mine, our"
-75,The mother always ________ her daughter too much.,worry about,worries about,be worried about,is worried
-76,It has the most ________ [ˈkʌmftəbl] seats in Blue Moon.,come,choose,comfortable,careful
-77,He didn’t ________ his mistakes in his homework until the teacher told him.,look for,found,invent,discover
-78,—Don&apos;t forget to come to our school assembly(集会)tomorrow morning. —I won&apos;t. I was___________ just now.,reminded,promised,allowed,required
-79,There are quite ________ people in Kuanhouli on weekends.,few,a few,little,a little
-80,You shouldn’t eat ___ junk food.,much too,too many,too much,many too
-81,—Shall we go sailing in the sea tomorrow? —_________. It’s reported that there will be a hurricane tomorrow.,"Yes, I’d love do",We’d better not,Good idea,All right
-82,Tom is from ________. He is ________.,America; American,American; America,America; Americans,Americans; America
-83,She lost her temper with a customer and shouted at him.,became bored,was patient,became angry,was satisfied
-84,"He promised ________ with me in Europe during the summer holidays. However, he broke his promise.",to travel,traveling,to traveling,travel
-85,We are too tired. Let’s stop ________ a good rest.,to have,have,having,to having
-86,There are six ________ in my classroom.,desk,chair,windows,teacher
-87,Is that an _______ ?,map,pen,English book,key
-88,—Would you like to come to my birthday party this Saturday? —I’d love to. But I ________ to visit my grandparents.,promise,will promise,have promised,am promising
-89,Only in this place ________ such beautiful water and mountains.,can we find,we can find,we found,found we
-90,"—Can your brother _________ ? —Yes, he loves English songs very much.",swim,dance,sing,draw
-91,It’s foolish ________ him to do so.,for,of,to,with
-92,Why ________ a picnic this Sunday?,don’t go for,not go out for,not go out at,not to go out for
-93,"If I ________ free tomorrow, I ________ go there with you.",will be; will,am; will,am; /,am; would
-94,Tom is one of ________ in my class.,the tallest student,tallest students,the tallest students,taller students
-95,When you move somewhere new，the first thing is to find a place ________.,to live,living in,to live in,living
-96,—Where does your best friend sit? —He sits next to me.,beside,behind,after,before
-97,—Could you please take out the rubbish? —________.,Good idea.,That’s OK.,"Yes, sure.",I don’t mind.
-98,Stop drinking coffee for ______ days and you’ll feel better soon.,a few,few,little,a little
-99,—This math exercise is so difficult ________ I can’t work it out. —Come on! Use your head and you will find a way.,why,that,what,which
-100,"— Do you mind my smoking here? — ________. Look at the sign. It says, “No smoking”.",Never mind,Of course not,You’d better not,That’s right
-101,Both of _______ heard a loud noise .It was _______  thunder.,us ; like,us ; likes,we ; like,us likes
-102,Mr. Wang is a friend of my______ .,name,number,family,school
-103,Chinese tea________ to many countries around the world every year.,sends,sent,is sent,was sent
-104,I ________ with Hanmeimei on the phone _______ the light went out.,am talking; while,was talking; when,talked; when,was talking; while
-105,—What ________ your parents? —They’re both teachers.,do,are,is,does
-106,"— Did John get Number 1 in the math exam? — Yes, no one did so ________ as him.",good,well,better,best
-107,There are lots of ________  on the ground.,some leaves,leaf,leaves,a leaf
-108,I want to be a successful writer ________ my hard work.,at,for,through,as
-109,"Allen, you ________ do your homework today. Leave it for tomorrow.",need,need to,don’t need,don’t need to
-110,"—What animals can you find on the farm?  —I can find some ________, many ________ and cows.",gooses; sheeps,geese; sheeps,goose; sheep,geese; sheep
-111,Hurry up! The film  for half an hour.,has begun,began,was beginning,has been on
-112,________ shining the little girl is in her traditional Chinese dress on the stage!,What,What a,How,How an
-113,We will have two parties this autumn. One is at Halloween and ________ is at Thanksgiving.,other,the other,another,the others
-114,"—Have you visited the Science Museum in London? —Yes, I went there last year. It’s ________ wonderful museum.",a,an,the,/
-115,—Would you like________football with us? —Sure. I like________football very much.,play; to play,playing; to play,to play; playing,playing; playing
-116,"—What does the ________ on the board say, Dad? —It says we can’t turn left here from 4:00 p.m. to 5:30 p.m.",sign,note,message,postcard
-117,—Can you believe ________ little children can finish ________ a difficult problem in ________ little time?  —I can’t believe it until I see it with my own eyes.,so; so; such,so; such; such,such; so; so,such; such; so
-118,—Do you mind my taking this seat? —________. It’s for Mr Green.,Not at all,Better not,Of course not,"Yes, please"
-119,—My family had ________ enjoyable weekend at West Lake in Hangzhou. —Wow! It is ________ great place for a family trip.,a; an,an; a,an; the,a; the
-120,The photos that won the first place in the competition will be ________ on the website.,put away,put off,put on,put up
-121,"I’m short, ________ my sister is tall.",and,so,but,or
-122,Jim prefers_________ at home to ______ shopping on weekends.,"stay, going","staying, going","to stay, go","to stay, to go"
-123,People come from all over to our village to see views that cannot _______ anywhere else.,enjoy,be enjoyed,are enjoyed,be enjoying
-124,"You need to ________ the questions quickly, then you can easily answer all of them.",look through,look up,look out,look for
-125,【2017年山东泰安】–It rained ______ and lasted for a long time yesterday. --Too bad! Even some streets were full of water.,hardly,strongly,terrible,heavily
-126,I am too busy to listen to her ________ talk. She has talked for about two hours.,hopeless,endless,homeless,careless
-127,—______you come to my party on Sunday?  —Sure，I&apos;d love to.,Must,Can,Should,Need
-128,"Playing computer is ________ for my grandparents, but it’s really easy for me.",relaxing,interesting,difficult,boring
-129,The young man is very ________. It’s easy for him to move the heavy box.,short,free,strong,weak
-130,"He is certain to come. ________, he’s already accepted the invitation.",So far,For example,Ever since,After all
-131,Frank doesn’t like the party. He thinks it’s ________.,fun,cool,relaxing,boring
-132,"— Where did you go this summer vacation, Peter？ — I ________ to Vietnam with my family.It was an adventurous trip.",go,went,did,do
-133,—I&apos;ve ________ finished the English paper. What about you? —I finished it ________ too.,just; just now,just now; just,only; just now,almost; just
-134,Tom ________ Mary in 2000.,gets married to,got married with,gets married with,got married to
-135,—We would like to buy electric cars because they produce less air _________. —That’s great! They are friendly to the environment.,production,resolution,pollution,prediction
-136,"Not only ________ dance well, but he sings very well.",he does,does he,does,he
-137,"—Would you like some juice, Simon? —Yes, please. And I also want some cakes. I am so ________!",thirsty,hungry,busy,tired
+id,prompt,A,B,C,D,answer,analysis,difficulty,knowledge_domain,knowledge_tree,task_grade,task_semester,task_subject,task_type
+166d2378bf0d420899fbbc2b84330ca8,"That boy is David Green. David is his ­ $$\underline{}$$ .
+",family name,last name,first name,full name,C,"考查文化常识。西方国家的名字表达方式是：名在前姓在后，所以David为名，即first name。A．姓；B．姓；C．名；D．全名。故答案为C。
+",较易,初中;英语;知识点;基础知识;文化常识,语言知识运用,初中,上学期,英语,单选
+612d3b37f2764e4081eb1001cbeaa643,"We should help him $$\underline{}$$ her because she is in danger.
+",rather than,while,refer to,refer,A,"考查关联词。句意：我们应该帮助他而不是她，因为她有危险。 A. rather than 而不是；B. while 正在；C. refer to 涉及；D. refer 参考。根据句意，可知空格处为前后两句话的衔接词，结合 ""because she"" ，可知空格处有转折的意思。故选：A。
+",较易,初中;英语;知识点;基础知识;词汇,语言知识运用,初中,上学期,英语,单选
+b870d835341547478911f3e075a91a16,"There is $$\underline{}$$ ""r"" , $$\underline{}$$ ""u"" , $$\underline{}$$ ""l"" and $$\underline{}$$ ""e"" in $$\underline{}$$ word ""rule"".
+",a; an; a; an; a,an; a; an; an; the,a; a; an; an; the,an; a; a; an; a,B,"考查冠词。根据语境，在单词rule里有一个r，一个u，一个l和一个e，可知前四个空应不定冠词表泛指；最后一空应用定冠词the表特指，可排除A、D选项；又根据元音发音应用an，字母r，l和e为元音发音应用an，字母u为辅音发音应用a。故答案选B。
+",易,初中;英语;题型;填空题;填空题,语言知识运用,初中,上学期,英语,单选
+0b4692229f1b451ba05791b47399aed4,"—What does the weather report say? 
+
+—It says it will be $$\underline{}$$ next week and there will also be a lot of $$\underline{}$$ .
+",windy; rain,wind; rainy,windy; rainy,wind; rain,A,"考查词性转换。句意：—天气预报怎么说？—它说下周将会是有风的，而且将会有很多雨。wind风，名词; windy有风的，多风的，形容词; rain雨，名词; rainy有雨的，形容词。第一个空前be是系动词，后面用形容词作表语，填windy; 第二句话使用了there be句型的将来时态，a lot of 许多，后面跟名词，是句子的主语。故答案为A。
+",易,初中;英语;知识点;基础知识;词性转换,单项选择,初中,上学期,英语,单选
+691b2008521b4cd384f7df4b76abf029,"He will go $$\underline{}$$ in New York next month.
+",for holiday,on a holiday,on holiday,to holiday,C,"考查固定搭配。go for a holiday=go on holiday意为 ""去度假"" ，句意：下个月他将去纽约度假。故选C。
+",较易,初中;英语;知识点;基础知识;固定搭配,基础知识-固定搭配,初中,上学期,英语,单选
+628ebe3b380b4d4e8be3ccf64b710085,"— $$\underline{}$$ do you $$\underline{}$$ your name? 
+
+—B-I-L-L.
+",What; say,What; spell,How; spell,How; say,C,"本题考查特殊疑问句。句意：—你如何拼读你的名字？—B-I-L-L。What 什么，How如何，say说，spell拼读。根据B-I-L-L.可知，此处询问如何拼读名字，故选C。
+",较易,初中;英语;知识点;句法;句子分类（语气）,单项选择,初中,上学期,英语,单选
+161dae7cddde4abdae5dbb7867f475e2,"Bob, you $$\underline{}$$ in this city since 2018. How do you like it? 
+",lived,live,have lived,,C,"考查动词时态。句意：鲍勃，你从2018年起就住在这个城市了。你觉得怎么样？A选项为一般过去时；B选项为一般现在时；C选项为现在完成时。根据句意和题干中的时间状语为since 2018可知，本句的时态为现在完成时。故选C。
+",较易,初中;英语;知识点;词法;动词时态,单项选择,初中,,英语,单选
+85e30fdf4f8641c29d7bd0d6076d9c15,"智力测试
+
+Two men, starting at the same point, walk in opposite directions for 4 meters, turn left and walk another 3 meters. What is the distance between them? 
+",6 meters.,10 meters.,12.5 meters.,14 meters.,B,"这道题实际上是几何题，已知直角三角形的两条直角边，求斜边的长。本题求的是两个斜边的长，利用勾股定理就可以得到答案是10米。故选B。
+",较易,初中;英语;题型;英文数学/智力题;英文数学/智力题,语言知识运用,初中,上学期,英语,单选
+02ed28b01a9348519cc6a25527e1744d,"你喜欢阅读吗？请你以 ""Reading—A good Habit"" 为题写一篇100词左右的倡议书，向同学们发出”好读书，读好书“的倡议。
+
+内容包括：
+
+1. 阅读带给你什么益处（至少两点）。
+
+2. 存在的问题：玩手机，上网等占用大部分时间。
+
+3. 号召大家多读书，读经典好书，向世界传播中国传统文化，让读书成为生活的一部分。
+
+$$\centerline{Reading—A Good Habit}centerlineendflag",我会了。,我不会。,,,A,"参考文章：$$\centerline{}centerlineendflag
+
+Are you a fan of reading? Personally, I'm fond of reading. I believe that cultivating a strong reading habit is essential for personal growth, as it allows us to expand our knowledge and broaden our perspectives.
+
+Unfortunately, many students today spend excessive time on their phones or playing video games, leaving little room for reading in their daily routines.
+
+That's why I strongly encourage everyone to make reading a priority, especially when it comes to exploring classic literature. By doing so, we can help to promote and preserve our rich Chinese cultural heritage.
+
+So why not start today? Let's make reading a regular part of our lives and gain the many benefits that come with it.
+",中档,初中;英语;题型;书面表达;书面表达,语言知识运用,初中,,英语,单选
+3d230137182c4670a5b8ba473aefd91a,"大写字母F的第二画是 $$\underline{}$$ ，小写字母d一共有 $$\underline{}$$ 画。
+",—；1,L；2,—﹔2,L；1,C,"考查字母。根据题意可知，第一空，大写字母F共3画，第二画是—，故排除B和D；小写字母d一共有2画，故排除A，故选C。
+",易,初中;英语;知识点;基础知识;字母,语言知识运用,初中,上学期,英语,单选
+c906acb7deb642438fc3fb1d53a56bb6,"He has been to $$\underline{}$$ university to visit his professor for several times since graduation.
+",the,a,/,an,A,"考查冠词。句意：毕业后，他多次到大学去拜访他的教授。the定冠词，修饰名词表示特指；a和an是不定冠词，修饰名词表示泛指一个……，an用于发音以元音音素开头的单词前。根据句意可知，这里特指 ""他"" 读过大学，应用定冠词修饰。故选A。
+",较易,初中;英语;知识点;词法;冠词,词法-冠词-定冠词-the+表地点、方向、时间、方式等的名词,初中,,英语,单选
+cbde0ca01d6947e081ef72a427064a3d,"At 8:30 p.m., the performers  $$\underline{}$$  their make-up and costumes and began their act.
+",put on,put off,put out,put up,A,"句意：晚上8点半，表演者们化上妆，穿上戏服，开始表演。
+考查动词短语的辨析。put on穿上，涂，抹；put off推迟，拖延；put out扑灭；put up张贴，挂起。根据后面began their act可知，此空应填动词的过去式，结合句意可知，此空是“化妆，穿上”的意思，应填put on，故选A。
+",较易,初中;英语;知识点;词法;动词及动词短语,词法-动词及动词短语-动词短语-动词短语的辨析,初中,上学期,英语,单选
+5509760e30a44a718d7e87e7bce2a56e,"—Does Jim $$\underline{}$$ a tennis ball? 
+
+—Yes, he does. And my friend also $$\underline{}$$ one.
+",have; has,has; has,have; have,has; have,A,"考查动词形式转换。句意：—吉姆有网球吗? —是的，他有。我的朋友也有一个。第一空前为助动词，此句为一般疑问句，主语是Jim，助动词do改为三单形式does，助动词后加动词原形，填入have；第二空前主语为My friend，为第三人称，故谓语动词采用三单形式，填入has。故选A。
+",较易,初中;英语;知识点;句法;句子分类（语气）,句法-句子分类（语气）-疑问句-一般疑问句-一般现在时的一般疑问句,初中,上学期,英语,单选
+d85bd9c6e917493594f58c438c8d4778,"The noise of the construction $$\underline{}$$ me $$\underline{}$$ sleeping well at night.
+","stop, from","keep, from","get, from","remove, from",D,"考查固定搭配。A选项阻止某人做某事，B选项保持不让某人做某事，C选项从。。。得到，D选项不让 根据句意 ""建筑噪音晚上不让我好好睡觉。"" 故答案为D。
+",易,初中;英语;题型;信息匹配;信息匹配,基础知识-中考常用短语与句型,初中,上学期,英语,单选
+724d475c809b464d9da35ae975568715,"It was the middle of the night  $$\underline{}$$  the sound of the piano woke me up.
+",because,if,when,although,C,"句意：当钢琴声把我吵醒时，正是午夜。A.因为；B.是否；C.当……时；D.虽然。选项C符合题意。故选C。
+",较易,初中;英语;知识点;句法;句法,句法-句子分类（结构）-复合句-状语从句-时间状语从句,初中,上学期,英语,单选
+713d13e4dc224f42a7ccc2993bb6a35a,"—ls your home $$\underline{}$$ our school? 
+
+—No. Walking to our school only $$\underline{}$$ me 15 minutes.
+",far away from; take,far away from; takes,away from; takes,away from; take,B,"考查far away from与away from的区别以及动名词短语做主语谓语单复数。句意：—你家离我们学校远吗？—不远，走路到我们学校只花十五分钟。根据be far away from远离，away from为副词短语，不能跟在be动词后，可排除C、D选项；又根据动名词短语做主语，谓语动词用单数，可排除A选项。故答案选B。
+",较易,初中;英语;知识点;句法;主谓一致,单项选择,初中,上学期,英语,单选
+350d1a4723de473183de20c6e5122dfb,"—I don't like drama series. It's a waste of time.
+
+— $$\underline{}$$ . It usually takes weeks or even months to know the end.
+",So do I,Neither do I,So I do,Neither I do,B,"考查倒装句。当前文提到的情况也适用于另外一人时，可用so/neither引起的部分倒装句表述，排除C、D。so引起的部分倒装句表示 ""……也如此"" ；neither引起的部分倒装句表示 ""……也不"" 。句意：—我不喜欢电视连续剧。这是浪费时间。—我也不喜欢。通常需要几周甚至几个月才能知道电视剧的结果。故答案为B。
+",较易,初中;英语;知识点;句法;特殊句式,语言知识运用,初中,上学期,英语,单选
+1c4a24d3302d4f51b8dd2eff1f1f6af9,"一 $$\underline{}$$ you $$\underline{}$$ your homework yet? 
+
+—Yes. I $$\underline{}$$ it a moment ago.
+",Did; do; finished,Have; done; finished,Have; done; have finished,Will; do; finish,B,"根据问句中的yet可知此句是现在完成时的一般疑问句形式，即：Have/Has+主语+过去分词+其他？根据答语中的a moment ago可知第二个空要用一般过去时。
+",较易,初中;英语;知识点;词法;动词时态,语言知识运用,初中,上学期,英语,单选
+cf143ad3038743d392d0ed8e90432b30,"—Frank, this is my friend Tom.
+
+— $$\underline{}$$ 
+","Yes, he is.",What's your name?,Good.,Nice to meet you.,D,"考查情景交际。句意：—弗兰克，这是我的朋友汤姆。—很高兴见到你。A. 是的，他是；B. 你叫什么名字；C. 好；D. 很高兴见到你。根据前句可知此处是介绍朋友汤姆，回答应表示 ""很高兴见到你"" 。故选：D。
+",易,初中;英语;题型;书面表达;书面表达,单项选择,初中,上学期,英语,单选
+2b798e8663e548a2884ffd4db37cc0ba,"Which of the following numbers is right? 
+",two million three hundred and fourty-nine,nine hundred and thirty four,fifty-two hundred and sixty-seven,"one thousand, two hundred and ninety-six",D,"考查数字的读法。句意：下列哪个数字是正确的？4个选项数字分别是A.2，000，349；B.934；C.5267；D.1，296。A选项 fourty-nine拼写错误，应该是 "" forty-nine"" ，排除；B选项thirty four表达错误，十位数和个位数之间要用连字符号，排除；C选项表达错误，千位以上的数字表达，从数字的右端向左端数起，每三位数加一个逗号 ""，"" ，从右开始，第一个 ""，"" 前面的数字读thousand，不能以hundred为单位划分；D选项单位划分正确，百位数与十位数之间有and连接，十位数和个位数之间有连字符号，单词拼写正确。故选D。
+",较易,初中;英语;知识点;词法;数词,单项选择,初中,上学期,英语,单选
+dfff8cdd6051428985b869fbc6e4310f,"—Are those $$\underline{}$$ keys, Jack? 
+
+—No, they aren't. They're Uncle $$\underline{}$$ .
+",yours; Sam,yours; Sam's,your; Sam,your; Sam's,D,"考查代词及名词所有格。句意为：—那是你的钥匙吗，杰克？——不，它们不是。它们是山姆大叔的。第一空表示你的钥匙，后接名词，应该使用形容词性物主代词，为your；第二空表示是山姆大叔的，应该使用名词所有格，应该在Sam后面加's，为Sam's。故答案为D。
+",较易,初中;英语;知识点;词法;名词,词法-代词-物主代词-形容词性物主代词-单数形容词性物主代词,初中,上学期,英语,单选
+9004bd7199db4c549e70a22a7a7ec310,"We suggest that Tom $$\underline{}$$ his homework at first.
+",doing,does,to do,do,D,,易,初中;英语;知识点;词法;虚拟语气,do,初中,上学期,英语,单选
+7b17a5e6877c464bb71e27299eff45f3,"— Dad, what is the loudspeaker saying ?
+
+— It is to the  $$\underline{}$$ . The flight to Wuhan is boarding now.
+",customers,passengers,members,tourists,B,"句意“——爸爸，喇叭上正在说什么？——这是说给乘客的。飞往武汉的飞机正在登机”。A.顾客；B.乘客；C.成员；D.游客。根据句意可知，在飞机场，登机的应该是乘客。故选B。
+",较易,初中;英语;知识点;词法;名词,词法-名词-名词辨析,初中,,英语,单选
+2e3bb39fcc0b40228b547feab05a65e6,How does Yifan prepare before a tournament?,She works hard and spends much time practicing.,She usually does nothing but sleep early.,She studies some of the games of her opponents.,She tries to relax herself by talking with her parents.,C,"细节理解题。题干关键词为 How 和 prepare，根据文章中第四段第一句：To prepare for each game, Yifan may study some of the games of her opponents， 可知侯逸凡会在比赛前研究对手，故答案为 C。
+
+【错因分析】根据文章中第四段第二句： However, she doesn't spend too much time practicing before a tournament， 可知侯逸凡在比赛前不会花太多时间练习， 故 A 项错误。B 项和 D 项在文中没有提到， 属于无中生有，故 B 项和 D 项错误。
+",较易,初中;英语;考查方式;阅读理解;阅读理解,阅读理解-事实细节题,初中,,英语,单选
+604e3aa58c2e4990802fa7ee50022aba,"Jack, you are going to the mountain village to help the children, $$\underline{}$$ ? 
+",don't you,do you,aren't you,are you,C,"考查反义疑问句。句意：Jack，你打算到山村去帮助那些孩子，是吗？空格上所填的是反义疑问句的后半部分。在反义疑问句中，当陈述句为肯定句时，疑问部分用否定形式，因此可排除B和D。若陈述句部分的谓语动词为be动词时，疑问部分应重复be动词。故选C。
+",较易,初中;英语;知识点;句法;句子分类（语气）,句法-句子分类（语气）-疑问句-反义疑问句,初中,,英语,单选
+c6cda525141f44f1a26679515122b292,"She was a woman of $$\underline{}$$ talent and determination.
+",useful,helpful,wonderful,unusual,D,"考查形容词。Unique,独特的。和D. unusual，不同寻常的，为同义词。A. useful，有用的。B. helpful，有帮助的。C. wonderful，完美的。
+",易,初中;英语;题型;口语;口语,口语-语音跟读,初中,上学期,英语,单选
+8cb93d78edd24b0c957300a4a738f767,"It's raining heavily. I'd suggest you $$\underline{}$$ a taxi home now.
+",would call,will call,call,calling,C,,较易,初中;英语;知识点;词法;虚拟语气,词法-虚拟语气-(should) do的虚拟,初中,上学期,英语,单选
+296be60a98954539a7f5faedd6eb8c48,"She $$\underline{}$$ heavy and $$\underline{}$$ curly brown hair.
+",has; is,is; has,have; is,is; have,B,"考查be动词与实义动词。句意：她很重，且有着卷曲的棕色头发。heavy为形容词，此时在be动词后做表语；hair为名词， ""有着卷曲的棕色头发"" 应用实义动词have，此处She做主语，用第三人称单数形式。故选：B。
+",较易,初中;英语;知识点;句法;主谓一致,单项选择,初中,下学期,英语,单选
+f778df1c60ee4e088fcfdf4e8c63e957,"单词辨音，在A、B、C、D四个选项中找出一个读音与其他三个不同的单词。
+",h$$\underline{}$$,d$$\underline{}$$n,n$$\underline{}$$,kn$$\underline{}$$,D,"how怎样；down向下；now现在；know知道。在A、B和C三个选项中，字母组合ow的发音是/au/；而在D选项中的发音是/əʊ/，故应选D。
+",易,初中;英语;题型;填空题;填空题,how,初中,上学期,英语,单选
+ad10083195bb41368f0536bb8aa7f318,"Look! There are some people $$\underline{}$$ a thief.
+",run after,to run after,running after,ran after,C,"考查后置定语。句意：看！很多人在追一个贼。run after 作后置定语限定宾语people，people和run after之间是主动关系，所以用ing形式表主动。
+",较易,初中;英语;知识点;词法;非谓语动词,run after,初中,上学期,英语,单选
+2bf53ed3a84c42038727e0aa1fa308a0,"Claire's bees fly 80, 000 kilometers and visit about three $$\underline{}$$ flowers to make a kilo of honey. She hopes to keep $$\underline{}$$ of bees.
+",million; million,millions; millions,million; millions,millions; million,C,"考查数词。million为数词，意为“百万”，前面有具体的数字修饰时不用变复数，millions of为固定短语，意为“成千上万，无数”。句意：克莱尔的蜜蜂要飞行8万公里，采300万朵花才能生产一公斤蜂蜜。她希望能养数百万只蜜蜂。故选C项。
+",较易,初中;英语;知识点;词法;数词,单项选择,初中,下学期,英语,单选
+2f52b4cf947a416095f60cfa02aae7b6," $$\underline{}$$ is my key and $$\underline{}$$ are my rulers.
+",This; that,This; those,These; those,,B,"考查指示代词。句意：这是我的钥匙，那些是我的尺子。This这、这个﹔that那、那个；those那些；These这些；根据主谓一致的原则，空格1在is前，判断用单数的指示代词this或that，所以排除C；空格2在are前，判断用复数的指示代词these或those，所以排除A，故选B。
+",较易,初中;英语;知识点;词法;代词,语言知识运用,初中,上学期,英语,单选
+8aac49074e724b45014e8c0339a86106,"Wendy managed $$\underline{}$$ a company when she was only 15 years old.
+",run,to run,running,ran,B,"考查固定搭配。run为动词，意为 ""经营"" ；manage to do sth. 表示 ""设法完成某事"" 。句意：温迪在她只有15岁的时候就成功地经营了一家公司。故选B项。
+",较易,初中;英语;知识点;词法;非谓语动词,单项选择,初中,上学期,英语,单选
+444db5f0e5884992a6ea45db4637d3d6," $$\underline{}$$  Tony  $$\underline{}$$  Frank likes the CD. They think the music is too noisy.
+",Neither；nor,Either； or,Both；and,Not only；but also,A,"考查固定搭配。句意：Tony和Frank都不喜欢CD，他们认为音乐太吵了。Neither ... nor两者都不； Either ... or或者……或者； Both ... and两者都；Not only ... but also不仅……而且。根据句意可知，选A。
+",较易,初中;英语;知识点;基础知识;基础知识,基础知识-固定搭配,初中,上学期,英语,单选
+c40766f73ade4caea27b596072bb5e8a,"There $$\underline{        }$$ a birthday party for the teacher tomorrow.
+",have,are having,had,is going to be,D,"句意：明天将为老师举行生日聚会。考查there be 句型。结合There可知，此处是there be结构，不能与have混用，排除A/B/C选项，句中的时间是 ""tomorrow"" ，句子应用一般将来时，故选D。
+",较易,初中;英语;题型;语法选择;语法选择,语法选择,初中,上学期,英语,单选
+df468cba42334f90897056eb3cd65a32,"Emma's parents always tell her­ $$\underline{}$$ hands before a meal.
+",wash,washing,to wash,to washing,C,"本题考查固定搭配。句意：Emma 的爸爸妈妈总是告诉她饭前洗手。tell sb. to do sth. 意为 ""告诉某人做某事"" ，故答案为C。
+",较易,初中;英语;知识点;基础知识;固定搭配,wash,初中,下学期,英语,单选
+c0727da25af84c07942f0b859da08f3e,"Helen's family $$\underline{}$$ /'fəʊtəʊ/ is in her bookcase.
+",photo,phone,plane,player,A,"考查名词。根据所给音标结合句意可知空白处应填写名词photo；句意：海伦的全家福在她的书柜里。故选A。
+",较易,初中;英语;知识点;基础知识;词汇,语言知识运用,初中,上学期,英语,单选
+28f4d5665d93476e9ddbd837cb58b9fd,"We are talking about $$\underline{}$$ .
+",who is fit for the job,what should we do next,how will we help the childless elderly people,where are we going to spend this weekend,A,"考查宾语从句。句意：我们正在谈论谁适合这项工作。根据谓语动词talk about 后缺少宾语，可知空格处为宾语从句。由于宾语从句要用陈述语序，应主语在前谓语在后，可排除BCD选项。故答案选A。
+",较易,初中;英语;知识点;句法;主谓一致,语言知识运用,初中,上学期,英语,单选
+8f9981ebef4c4eebad2bda18e1c6be52,"—Do you have a $$\underline{}$$ after the meeting? 
+
+—Yes. It lasts about 20 minutes.
+",talk,rest,look,,B,"考查名词。break=rest，休息。开会之后你休息了吗？
+",易,初中;英语;文体;记叙文;记叙文,语言知识运用,初中,上学期,英语,单选
+3e398567e3374c80b8f06cc41336ef56,"He looked through the paper $$\underline{}$$ many times to make sure his answers were $$\underline{}$$ right.
+",so; complete,such; completely,so; completely,such; complete,C,"考查短语和形容词副词用法。句意：为了确保他的答案完全正确，他浏览了试卷许多次。so many为固定搭配，后面加可数名词复数，可以排除B、D选项。complete形容词，完全的，completely副词，完全地；第二个空 ""right"" 为形容词，应该用副词修饰，排除A项。故答案为C。
+",较易,初中;英语;知识点;基础知识;固定搭配,单项选择,初中,下学期,英语,单选
+296be60a98954539a7f5faedd6eb8c48,"She $$\underline{}$$ heavy and $$\underline{}$$ curly brown hair.
+",has; is,is; has,have; is,is; have,B,"考查be动词与实义动词。句意：她很重，且有着卷曲的棕色头发。heavy为形容词，此时在be动词后做表语；hair为名词， ""有着卷曲的棕色头发"" 应用实义动词have，此处She做主语，用第三人称单数形式。故选：B。
+",较易,初中;英语;知识点;句法;主谓一致,单项选择,初中,下学期,英语,单选
+4c10f196b1724545abe5e3df569e0541,"Don't eat $$\underline{}$$ sweets, Benny! There is $$\underline{}$$ sugar in them.
+",too much; too much,too many; too many,too many; too much,too much; too many,C,"考查too many与too much。句意：贝尼，不要吃太多糖果。糖果中有很多糖分。根据too many太多，修饰可数名词复数，too much太多，修饰不可数名词，可知第一空修饰可数名词sweet的复数sweets，需用too many，第二空修饰不可数名词sugar，需用too much。故答案选C。
+",较易,初中;英语;知识点;词法;量词,单项选择,初中,上学期,英语,单选
+318e3263b4814fae9136303fbefc0c1b,"In the factory, there are 200 girls. About $$\underline{}$$ of workers are girls. So fifty workers are boys.
+",three quarter,three quarters,three four,,B,"考查分数表达法。句意：工厂里有200名女工。大约四分之三的工人是女孩。50个工人是男孩。分数由基数词和序数词构成，分子用基数词，分母用序数词，分子超过 ""1"" 时，分母用复数，C项three和four都是基数词，可排除。quarter是可数名词，表示1/4；three需接复数名词，quarter需用复数形式。故答案为B。
+",较易,初中;英语;知识点;词法;数词,词法-数词-基序混用-小数、分数和百分数,初中,上学期,英语,单选
+293cbb64521941e7874c68e66497def2,".…I had a good time during the last National Day holiday. My classmates and I went to the Great Wall. We took a bus there in the early morning. I was very excited because I had never been there. On our way to the Great Wall, we saw lots of new buildings, nice views and lots of visitors. We think that Beijing is changing a lot. It is becoming more and more beautiful. It $$\underline{}$$ us about two hours and a half to get to the Great Wall.
+",took,cost,spent,paid,A,"考查固定句式。It takes/took sb.+时间段+to do sth. 意为 ""做某事花了某人……时间"" 。文章介绍的是去年国庆节期间的情况，因此应用一般过去时，take的过去式为took，故选A。
+",易,初中;英语;考纲话题;节假日活动;节假日活动,记叙文,初中,,英语,单选
+c0727da25af84c07942f0b859da08f3e,"Helen's family $$\underline{}$$ /'fəʊtəʊ/ is in her bookcase.
+",photo,phone,plane,player,A,"考查名词。根据所给音标结合句意可知空白处应填写名词photo；句意：海伦的全家福在她的书柜里。故选A。
+",较易,初中;英语;知识点;基础知识;词汇,语言知识运用,初中,上学期,英语,单选
+92a4e77381d84c5aa694a5295826fd06,"There are about  $$\underline{}$$  students in Weiyu International School.
+",hundreds of,two hundred of,two hundred,two hundreds,C,"句意：在薇羽国际学校有大约两百名学生。
+
+考查数词。hundreds of数以百计的；two hundred of形式错误；two hundred两百；two hundreds形式错误。根据句意可知，这句话介绍的是该学校学生的数量，A选项只表示一个约数，不是具体的数目，与空前的about不能搭配，A选项不对。故选C。
+",较易,初中;英语;知识点;词法;数词,词法-数词-基数词-普通数字,初中,上学期,英语,单选
+0ac80dbc47fc4da49a17ef9a5ead1ae5,"Let's go for an outing this coming weekend,  $$\underline{}$$ ?
+",don't we,won't we,shall we,will you,C,"本题考查反义疑问句。固定搭配，当前面陈述句为let's do sth...，后面反义疑问句用shall we，故选C。
+",较易,初中;英语;知识点;句法;句法,句法-句子分类（语气）-疑问句-反义疑问句,初中,上学期,英语,单选
+691b2008521b4cd384f7df4b76abf029,"He will go $$\underline{}$$ in New York next month.
+",for holiday,on a holiday,on holiday,to holiday,C,"考查固定搭配。go for a holiday=go on holiday意为 ""去度假"" ，句意：下个月他将去纽约度假。故选C。
+",较易,初中;英语;知识点;基础知识;固定搭配,基础知识-固定搭配,初中,上学期,英语,单选
+5509760e30a44a718d7e87e7bce2a56e,"—Does Jim $$\underline{}$$ a tennis ball? 
+
+—Yes, he does. And my friend also $$\underline{}$$ one.
+",have; has,has; has,have; have,has; have,A,"考查动词形式转换。句意：—吉姆有网球吗? —是的，他有。我的朋友也有一个。第一空前为助动词，此句为一般疑问句，主语是Jim，助动词do改为三单形式does，助动词后加动词原形，填入have；第二空前主语为My friend，为第三人称，故谓语动词采用三单形式，填入has。故选A。
+",较易,初中;英语;知识点;句法;句子分类（语气）,句法-句子分类（语气）-疑问句-一般疑问句-一般现在时的一般疑问句,初中,上学期,英语,单选
+09f73aab9f214aba9d3cf025203682f3,"—What's twenty and sixty? 
+
+—It's $$\underline{}$$ .
+",sixty,seventy,eighty,ninety,C,"本题考查数字计算能力。根据题干中的 ""二十和六十"" 可推断，它们的和是八十，故答案为C。
+",较易,初中;英语;题型;英文数学/智力题;英文数学/智力题,seventy,初中,下学期,英语,单选
+4d125d7bd25541be80c357ca473fd4de,"与Gg相邻的两个字母是（  ）
+",Ee; Ff,Ff; Hh,Ff; Dd,Ff; Ii,B,"考查字母排序。与Gg相邻的两个字母是：Ff和Hh，故答案为B。
+",易,初中;英语;知识点;基础知识;字母,基础知识-字母,初中,上学期,英语,单选
+3f4cb57316fd4bdcab04711e36a9542b,"—I'm afraid the work is too hard for me.
+
+— $$\underline{}$$ 
+",Thank you. I won't.,That's a good idea.,Don't give up.You can make it.,I will take your advice.,C,"句意：—恐怕这项工作对我来说太难了。—不要放弃，你可以的。Thank you. I won't.谢谢，我不会；That's a good idea.那是一个好主意；Don't give up. You can make it.不要放弃，你可以做到；I will take your advice.我会采纳你的建议。根据上文 ""I'm afraid the work is too hard for me."" 可知，这里是鼓励不要放弃。故选C。
+",较易,初中;英语;知识点;基础知识;基础知识,基础知识-情景交际,初中,,英语,单选
+28f4d5665d93476e9ddbd837cb58b9fd,"We are talking about $$\underline{}$$ .
+",who is fit for the job,what should we do next,how will we help the childless elderly people,where are we going to spend this weekend,A,"考查宾语从句。句意：我们正在谈论谁适合这项工作。根据谓语动词talk about 后缺少宾语，可知空格处为宾语从句。由于宾语从句要用陈述语序，应主语在前谓语在后，可排除BCD选项。故答案选A。
+",较易,初中;英语;知识点;句法;主谓一致,语言知识运用,初中,上学期,英语,单选
+8e55bbf131204635b0383f8d5c6f6601,"—Why didn't you answer my phone just now? I needed your help badly.
+
+—I was taking a shower $$\underline{}$$ my phone rang. What happened? 
+",when,while,before,,A,"考查连词。时间状语从句连接词when用于表示一个动作发生，另一个动作正在发生，while用于延续性动词。before在……之前。句意：—刚才你为什么不接我电话？我急需你的帮助。—当我的电话响起的时候，我正在洗澡，发生什么了呢？故选：A。
+",较易,初中;英语;知识点;句法;句子分类（结构）,语言知识运用,初中,下学期,英语,单选
+4eb94ac961754a0a80a03541f58bf139,"—Does Ted tell you if he $$\underline{}$$ next Sunday? 
+
+—No, he doesn't. But if he $$\underline{}$$ , I will give you a ring.
+",will come; will come,will come; comes,comes; comes,,B,"考查一般将来时和一般现在时表示一般将来时。句意：—Ted有没有告诉你他下星期天是否会来？—不，他没有。但是如果他来的话，我会给你打电话的。第一空中if引导的是宾语从句，根据空格后 ""next Sunday"" 可知时态用一般将来时；第二空中if引导条件状语从句，从句时态用一般现在表将来的动作，B项符合语境。故答案为：B。
+",较易,初中;英语;题型;单项选择;单项选择,单项选择,初中,上学期,英语,单选
+317568e333e842f4b57cefe3e760af89,"In China, the color red is the  $$\underline{}$$  of good luck.
+",dream,way,symbol,reason,C,"句意：在中国，红色是好运的象征。考查名词辨析。A. dream梦想；B. way方式、方法；C. symbol象征；D. reason理由。根据常识可知在中国，红色象征着好运，所以symbol符合题意，其它选项均与句意不符，故答案选C。
+",易,初中;英语;知识点;词法;名词,词法-名词-名词辨析,初中,,英语,单选
+4775aa788da54d07ba081a7686df6a54,"John is good at English, so he $$\underline{}$$ makes mistakes in English grammar. Which of the following is correct for the underlined word in the sentence?
+",/'reɪlɪ/,/'reəlɪ/,/'ri:əlɪ/,/'rɪleɪ/,B,"句意：约翰擅长英语，所以他几乎没有在英语语法上犯错误。句子中带下划线的单词下面哪个选项的读音是正确的。本题考查单词的读音。rarely音标为/'reəlɪ/，很少地。故选B。
+",较易,初中;英语;知识点;基础知识;语音,基础知识-语音-音素,初中,,英语,单选
+a8dc52d2a12d4a9c96f5b24f24c4e76c,"We arrived at the top of the mountain $$\underline{}$$ two hours later.
+",success,succeed,successful,successfully,D,"考查副词。句意：我们两小时后成功地到达山顶。结合句意可知空着的词修饰动词arrived，修饰动词要用副词，因此填副词successfully，成功地。故选D。
+",易,初中;英语;知识点;基础知识;词性转换,基础知识-词性转换,初中,上学期,英语,单选
+36ba9648a88f41839d02ce3684ea37d7,"— $$\underline{}$$ did you tell Mary about the story? 
+
+—By $$\underline{}$$ an e-mail.
+",How; sending,How; send,What; sending,What; send,A,"考查特殊疑问词及固定搭配。句意：—玛丽怎么告诉你这个故事的？—通过发邮件。根据句意，第一空处需补充 ""怎么"" 一词，即how；第二空处位于by介词后面，需用介宾形式，需动名词。故答案为A。
+",较易,初中;英语;知识点;基础知识;词性转换,单项选择,初中,,英语,单选
+0980e774e64d457d808b8108bb3c9e93,"He has two sons, $$\underline{}$$ work as chemists.",two of whom,both of whom,both of which,all of whom,B,,较易,初中;英语;题型;单项选择;单项选择,语言知识运用,初中,上学期,英语,单选
+a8dc52d2a12d4a9c96f5b24f24c4e76c,"We arrived at the top of the mountain $$\underline{}$$ two hours later.
+",success,succeed,successful,successfully,D,"考查副词。句意：我们两小时后成功地到达山顶。结合句意可知空着的词修饰动词arrived，修饰动词要用副词，因此填副词successfully，成功地。故选D。
+",易,初中;英语;知识点;基础知识;词性转换,基础知识-词性转换,初中,上学期,英语,单选
+76b4dab473e04990b054138edda9858a,"—Could you tell me $$\underline{}$$ ? 
+
+—I'm so sorry. I checked it twice but didn't notice the fault.
+",what you would do to avoid making a mistake,how you made such a foolish mistake,who made the foolish mistake,,B,"考查宾语从句。句意：—你能告诉我你怎么犯了这么愚蠢的错误吗？—我很抱歉。我检查了两次，但没有注意到错误。what you would do to avoid making a mistake你会做什么来避免犯错误；how you made such a foolish mistake你怎么会犯这么愚蠢的错误；who made the foolish mistake谁犯了这个愚蠢的错误；根据句意理解及后句I checked it twice but didn't notice the fault.可知，这里表达的应该是询问怎么会犯错误，故选B。
+",较易,初中;英语;知识点;句法;句子分类（结构）,句法-句子分类（结构）-复合句-名词性从句-宾语从句-宾语从句的连接词,初中,,英语,单选
+612d3b37f2764e4081eb1001cbeaa643,"We should help him $$\underline{}$$ her because she is in danger.
+",rather than,while,refer to,refer,A,"考查关联词。句意：我们应该帮助他而不是她，因为她有危险。 A. rather than 而不是；B. while 正在；C. refer to 涉及；D. refer 参考。根据句意，可知空格处为前后两句话的衔接词，结合 ""because she"" ，可知空格处有转折的意思。故选：A。
+",较易,初中;英语;知识点;基础知识;词汇,语言知识运用,初中,上学期,英语,单选
+dae831a4d6c54a49a9dfab2df30468ea,"Please keep the secret  $$\underline{}$$  me and I'll keep your secret  $$\underline{}$$  myself.
+","to, for","to, to","for, for","for, to",D,"for“为，为了”；to“朝、给、对于”，二者都是介词。因keep the secret for sb“为某人保守秘密”，keep your secret to myself.“保守你的秘密”。由题干“请替我保守这个秘密，我就保守你的秘密。”可知，空格用for，第二个空格用to，因此答案应是for；to。故选：D。
+",较易,初中;英语;知识点;词法;介词及介词短语,词法-介词及介词短语-介词辨析,初中,上学期,英语,单选
+54bafab2dcd54fb99a37e6f7da5931e0,"——I'm sorry. I'm late for the film.
+
+—— $$\underline{}$$  . There is still a little time.
+",Bad luck.,That's right.,Never mind.,All right.,C,"考查情景交际。句意：——很抱歉，电影我迟到了。——没关系，还有一点时间。A项意为运气不好，B项意为对，C项意为没关系，D项意为好吧。前句表示道歉，因此回答没关系。故选C。
+",易,初中;英语;题型;语法选择;语法选择,语法选择,初中,上学期,英语,单选
+5354650bf20045ebac7f77d025c05483,"—Where $$\underline{}$$ your friends $$\underline{}$$ ? 
+
+—Australia.
+",are; from,do; from,do; come,is; from,A,"考查疑问句。句意：—你的朋友们来自哪里？—澳大利亚。表示 ""来自哪里"" 用be动词加from。由于friends是复数，因此be动词用are。故答案为A。
+",较易,初中;英语;知识点;句法;句子分类（语气）,语言知识运用,初中,下学期,英语,单选
+0ac80dbc47fc4da49a17ef9a5ead1ae5,"Let's go for an outing this coming weekend,  $$\underline{}$$ ?
+",don't we,won't we,shall we,will you,C,"本题考查反义疑问句。固定搭配，当前面陈述句为let's do sth...，后面反义疑问句用shall we，故选C。
+",较易,初中;英语;知识点;句法;句法,句法-句子分类（语气）-疑问句-反义疑问句,初中,上学期,英语,单选
+d44e1a258ec64a1a88487c2f09fafd4a," $$\underline{}$$ mother usually cooks for $$\underline{}$$ at the weekend.
+",Lily and Nick; their,Lily's and Nick's; them,Lily and Nick's; their,Lily and Nick's; them,D,"考查名词所有格。A and B's C表示共有关系，A's and B's Cs表示各有关系，根据mother为单数名词，可知此处应表示共有关系，可排除A、B选项；又根据cook for + sb.，此处应用人称代词宾格。故答案选D。
+",较易,初中;英语;知识点;词法;名词,词法-名词-名词所有格-'s所有格-共有所有格A and B's,初中,下学期,英语,单选
+591bd362c9154809bdcbb1d1a370303b,"I failed to catch the last bus on that cold winter night. I couldn't feel $$\underline{}$$ then.
+",more excited,more terrible,the most excited,the most terrible,B,"该题目考查形容词副词最高级用法。根据I couldn't feel $$\underline{     }$$ then，本题考查否定词couldn't + 比较级表示“再……不过了”，结合前文I failed to catch the last bus.没有赶上车，故选B。
+",易,初中;英语;知识点;词法;形容词和副词,词法-形容词和副词-形容词和副词常用短语及句型,初中,,英语,单选
+c5cf96f517544d79a70055fccae94872,"The model Sydney Opera House looks $$\underline{}$$ the real one in Australia.
+",as wonderful as,as wonderfully as,so wonderful as,so wonderfully as,A,"这个悉尼歌剧院的模型看起来和澳大利亚的真的歌剧院一样美。根据The model Sydney Opera House looks  $$\underline{}$$  the real one in Australia可知，这是两者model和real one之间的比较；又因为The model Sydney Opera House looks可知，此处应该是形容词作表语，构成主系表句式；此处应该是as +形容词或副词原级+as结构，表示二者一样，此处表示“模型和真的一样美”，故选A。
+",较易,初中;英语;知识点;词法;形容词和副词,单项选择,初中,,英语,单选
+d753c6bce70c4adfacc565bf25d13ccb,"
+	There $$\underline{}$$ a tree and some flowers near my
+house.  
+
+",am,are,is,be,C,"此题考查主谓一致，there be句型中遵循 ""就近原则"" ，a tree为单数，故谓语动词用单数第三人称形式，故选C。
+",易,初中;英语;题型;口语;口语,口语-语音跟读,初中,下学期,英语,单选
+00a671b8308449e48ddb09a403cd0e43,"— Do you know Tian'anmen Square?
+
+— Sure. It is right  $$\underline{}$$  Beijing.
+",next to,at the foot of,in the centre of,far away from,C,"句意：——你知道天安门广场吗？——当然。它就在北京市中心。
+考查介词短语辨析。A. next to 紧邻、在……近旁；B. at the foot of在……脚下；C. in the centre of在……中心；D. far away from远离……。根据常识可知，天安门广场在北京市中心。故选C。
+",较易,初中;英语;知识点;词法;介词及介词短语,词法-介词及介词短语-介词短语及其辨析,初中,下学期,英语,单选
+040b2125202749718cb6efad52dc0f8a,"— Have you ever been to Shanghai, Betty?
+
+— Yes, I  $$\underline{}$$  there with my uncle last month.
+",go,went,will go,have gone,B,"考查动词的时态。句意：——贝蒂，你去过上海吗？ ——是的，我上个月和我叔叔去那儿。A项为一般现在时；B项为一般过去时；C项为一般将来时；D为现在完成时。根据last month可知，应该使用一般过去时，故选B。
+",较易,初中;英语;知识点;词法;动词时态,词法-动词时态-一般过去时-一般过去时表过去发生,初中,上学期,英语,单选
+5f4ce86f4e2f47aea4222fe92029341e,"— Did Jeff go to the zoo by subway or by taxi yesterday?
+
+—  $$\underline{}$$ 
+","Yes, he went there by subway.","No, he went there by bus.",He went there by taxi.,He went there to see animals.,C,"考查选择疑问句。问句为选择疑问句，给了两个选择，所以答句不能用yes或no开头，问句问的是交通方式，所以C为答案。
+",较易,初中;英语;知识点;句法;句子分类（语气）,语言知识运用,初中,下学期,英语,单选
+57d2c645770a4593b4843bb6e6c73938,"Look, the building over there is the landmark of our city. It is $$\underline{}$$ high.
+",fifty-five metre,fifty-five metres,fifty-five-metre,fifty five metres,B,"句意：看，那里的这个建筑物是我们城市的地标。它有55米高。考查表语以及数词表达。fifty-five metre形式错误，应改为fifty-five metres；fifty-five metres 55米，作表语；fifty-five-metre 55米高的，作定语；fifty five metres形式错误，应改为fifty-five metres。C项只能作定语，可用于it is a fifty-five-metre high building。fifty-five metres译为“55米高”，用于“数词+单位名词+tall/ high”等结构。故选B。
+",较易,初中;英语;知识点;基础知识;中考常用短语与句型,基础知识-中考常用短语与句型,初中,上学期,英语,单选
+38874d1a318f4d9190fbffd9e50e052d,"My favorite saying is "" $$\underline{}$$ "" . Because you can know what you are like from him or her.
+",A friend in need is a friend indeed.,A good friend is like a mirror.,Friends are like books.,,B,"考查谚语辨析。句意：我最喜欢的一句话是 ""一个好朋友就像一面镜子。因为你可以从他或她那里知道你是什么样的人。A. A friend in need is a friend indeed 患难见真情；B. A good friend is like a mirror 好朋友就像一面镜子；C. Friends are like books 朋友如书。根据所给选项和后句中的know what you are like from him or her可知，B项与其意义相近。故选：B。
+",易,初中;英语;知识点;基础知识;谚语,语言知识运用,初中,上学期,英语,单选
+9472b36ed3d4489584f07e96f0b65983,"— Why didn't you tell me earlier?
+
+— Why  $$\underline{}$$  I? I want to have my own secret.
+",can,may,should,shall,C,"句意：——你为什么不早点告诉我？——我为什么应该早点告诉你？我想有自己的秘密。
+考查情态动词辨析。can能，会；may可以；should应该；shall用于第一人称疑问句中，表示征求意见。根据对话的情景“I want to have my own secret.”可知，说话人表示自己没有义务告诉对方，应用should。故选C。
+",较易,初中;英语;知识点;词法;词法,词法-动词及动词短语-情态动词-should,初中,,英语,单选
+23cb9f79ce714e8bb86704ccd060cffa,"Only when I am allowed to make choices for myself $$\underline{}$$ a chance to achieve my dream.
+",will I have,will have I,I will have,,A,"考查倒装句。句意：只有当我被允许为自己做出选择的时候我才有机会实现我的梦想。副词only置于句首，强调方式状语、条件状语、地点状语、时间状语等状语时，主句要进行部分倒装。如果被only所强调的状语为状语从句，该状语从句不倒装，只对主句进行倒装。本句中only强调when引导的状语从句，所以只对主句进行部分倒装，将谓语动词 ""will have"" 中的助动词will放到主语 ""I"" 之前。故选A。
+",较易,初中;英语;知识点;句法;特殊句式,语言知识运用,初中,上学期,英语,单选
+b1a363bea7554f51a6730efb4ba50dd8,"—Do you still remember Jane? 
+
+—Yes. I just went shopping with her $$\underline{}$$.
+",not long ago,in the present,all the way,,A,"考查副词短语。A选项意为不久前，B选项意为目前，C选项意为总是一直，原文中recently意为最近地，故选A。句意：-你还记得Jane吗？-是的，我最近还和她一起逛街了。
+",较易,初中;英语;题型;填空题;填空题,语言知识运用,初中,,英语,单选
+5dd86346b228410ea1303685b04c468b,"—New kinds of morning exercise like doing dancing are becoming popular.
+
+— $$\underline{}$$ can help us keep fit and have fun.
+",We,You,They,It,C,"句意：——各种新型的晨练像跳舞变得越来越流行了。——它们能帮助我们保持健康，并且有乐趣。We我们，人称代词主格形式；You你，你们，人称代词；They他/她/它们，人称代词主格形式。根据对话的意思可知，这个空指代上句话中的New kinds of morning exercise，应用第三人称复数，故选C。
+",较易,初中;英语;知识点;词法;词法,词法-代词-人称代词-主格,初中,下学期,英语,单选
+92a4e77381d84c5aa694a5295826fd06,"There are about  $$\underline{}$$  students in Weiyu International School.
+",hundreds of,two hundred of,two hundred,two hundreds,C,"句意：在薇羽国际学校有大约两百名学生。
+
+考查数词。hundreds of数以百计的；two hundred of形式错误；two hundred两百；two hundreds形式错误。根据句意可知，这句话介绍的是该学校学生的数量，A选项只表示一个约数，不是具体的数目，与空前的about不能搭配，A选项不对。故选C。
+",较易,初中;英语;知识点;词法;数词,词法-数词-基数词-普通数字,初中,上学期,英语,单选
+1084fc7cd7814218825685b389c09e15,"— When and where were you born?
+
+— I was born $$\underline{}$$ October 1$$^{st}$$,1998 $$\underline{}$$ Suzhou.
+",on; on,in; in,on; in,in; on,C,"考查介词。根据October 1$$^{st}$$具体到天，介词用on，另根据Suzhou是大地点，介词用in。故答案选C。
+",易,初中;英语;题型话题;书面表达;书面表达,单项选择,初中,上学期,英语,单选
+b5d4fc6adcfe4c55a6b8cd02af5cbead,"Dick has $$\underline{}$$ friends and he $$\underline{}$$ plays with them after school.
+",lots of; never,a little; sometimes,few; usually,a few; often,D,"考查限定词和副词辨析。lots of许多；never从不；a little一点；sometimes有时；few几乎没有；usually通常；a few几个；often经常；根据第一空的修饰词friends复数名词可知，排除B选项，再根据句意理解可知，A/ C选项前后矛盾，故排除。句意：迪克有几个朋友，他经常放学后和他们一起玩。故选D。
+",较易,初中;英语;知识点;词法;量词,语言知识运用,初中,上学期,英语,单选
+3c56cc853bd9444f8426298a165a1801,"$$\underline{}$$ the new film called Venom? 
+",How do you think of,What do you like,How do you think,How do you like,D,"考查同义句型。句意：你觉得新电影《毒液》怎么样？What do you think of…是你认为……怎么样，同义句型是How do you like…，所以答案为D。
+",较易,初中;英语;知识点;基础知识;词汇,语言知识运用,初中,上学期,英语,单选
+5dd6906fc38248e7a38d17e0b373c51f,"—Dad, I won a prize in China's GotTalent last week.
+
+— $$\underline{}$$ . I hope you can do better next time.
+",No problem,You did a good job,I didn't mind it,,B,"考查交际用语。根据I won a prize in China's Got Talentlast week可知，下面应该是夸奖对方的句子。故选B，意思是""你做得非常好"" 。
+",较易,初中;英语;知识点;基础知识;情景交际,基础知识-情景交际,初中,上学期,英语,单选
+691b2008521b4cd384f7df4b76abf029,"He will go $$\underline{}$$ in New York next month.
+",for holiday,on a holiday,on holiday,to holiday,C,"考查固定搭配。go for a holiday=go on holiday意为 ""去度假"" ，句意：下个月他将去纽约度假。故选C。
+",较易,初中;英语;知识点;基础知识;固定搭配,基础知识-固定搭配,初中,上学期,英语,单选
+cb181264aaf8479596442034d943568b,"—Is this $$\underline{}$$ ruler? 
+
+—No. $$\underline{}$$ is in the schoolbag.
+","she, Hers","her, Hers","her, Her","hers, Her",B,"句意：—这是她的尺子吗？—不，她的在书包里。根据修饰名词ruler可知填形容词性物主代词her，根据做主语可知填名词性的物主代词Hers；故选B。
+",较易,初中;英语;知识点;词法;代词,词法-代词-物主代词-形容词性物主代词,初中,上学期,英语,单选
+4775aa788da54d07ba081a7686df6a54,"John is good at English, so he $$\underline{}$$ makes mistakes in English grammar. Which of the following is correct for the underlined word in the sentence?
+",/'reɪlɪ/,/'reəlɪ/,/'ri:əlɪ/,/'rɪleɪ/,B,"句意：约翰擅长英语，所以他几乎没有在英语语法上犯错误。句子中带下划线的单词下面哪个选项的读音是正确的。本题考查单词的读音。rarely音标为/'reəlɪ/，很少地。故选B。
+",较易,初中;英语;知识点;基础知识;语音,基础知识-语音-音素,初中,,英语,单选
+ccc84812dbaf4ab1bbc995024fbe23b3,"I usually play $$\underline{}$$ tennis with my uncle every Sunday afternoon.
+",a,an,the,/,D,"句意：我通常在每周日的下午和我舅舅打网球。考查零冠词用法。a一个，不定冠词；an一个，不定冠词；the定冠词；/零冠词。play后接球类运动时，不加冠词。故选D。
+",较易,初中;英语;知识点;词法;冠词,词法-冠词-零冠词-三餐、球类、棋牌类等前不用冠词,初中,,英语,单选
+cb7bf1faaafa474591fbfca4121e6054,"Jack always $$\underline{}$$ with his brother.
+",play badminton,plays football,playing basketball,to play badminton,B,"句意：杰克总是和他哥哥打羽毛球。
+考查时态。play badminton原形，一般现在时；plays football一般现在时、单三形式；playing basketball动名词；to play badminton不定式；根据句中频度副词always可知句子是一般现在时，主语Jack是单数第三人称，谓语动词用单三形式；故选B。
+",较易,初中;英语;知识点;词法;动词时态,词法-动词时态-一般现在时-一般现在时表状态,初中,,英语,单选
+113087af0a3d44118e5142f5fffc1840,"—I am so happy that you are going to propose（求婚）to Alice. Good Luck!
+
+—Thank you, but don't $$\underline{}$$
+",find out the truth,tell others the secret,keep it as a secret,,B,"考查句意理解。句意：—我很高兴你要向Alice求婚了。祝你好运！—谢谢你，但是不要泄露秘密。根据第1句句意可知，某人打算向Alice求婚，求婚不能被对方事先知道，需要保留惊喜，再结合划线短语前的否定don't，可推断出划线短语意为 ""泄露秘密"" ；A项意为 ""找出真相"" ，B项意为 ""告诉别人秘密"" ，C项意为 ""保守秘密"" ，B项符合语境。故答案为：B。
+",易,初中;英语;知识点;基础知识;谚语,基础知识-谚语,初中,,英语,单选
+4957a428765f4267aafea6f33c3141c8,"To my $$\underline{}$$ , I found all the windows in my room $$\underline{}$$ .
+",surprised; open,surprise; close,surprise; open,surprising; closed,C,"考查名词及形容词。空格一，根据空格前的形容词性物主代词可知空格处为名词，to one's surprise意为 ""令某人惊讶的是"" 。空格二，find sth.+adj.意为 ""发现某物处于某种状态"" ，空格处由形容词作补语，形容词closed意为 ""关闭的"" ，形容词open意为 ""打开的"" 。句意：令我吃惊的是，我发现我房间里所有的窗户都开着。结合句意可知答案为C。
+",较易,初中;英语;知识点;基础知识;词性转换,词法-形容词和副词-形容词-形容词的句法功能-形容词作补语,初中,上学期,英语,单选
+0eaad6c398584daeb541b42b10ed037e,"There is a famous saying in China ""Good things never go out, bad news $$\underline{}$$ far away"".
+",spreads,is spread,is spreading,,A,"考查时态辨析。选项分析：A. spreads 一般现在时三单形式；B. is spread 一般现在时的被动语态；C. is spreading 现在进行时。根据前一句的谓语go out，可知时态为 ""一般现在时"" ，而且spread是不及物动词，消息传播是主动无被动，排除选项BC。句意：中国有句名言 ""好事不出门，坏事传千里"" 。故正确答案为 ：A。
+",易,初中;英语;知识点;基础知识;谚语,单项选择,初中,上学期,英语,单选
+af11030a7f844f138877ffb3571bac1a,"—Mary doesn't like fish $$\underline{}$$ chicken.
+
+—Ben doesn't like fish, $$\underline{}$$ he likes chicken very much.
+",and; but,or; but,or; and,and; or,B,"考查连词。根据Mary doesn't like fish玛丽不喜欢鱼，后面提到chicken鸡，所以是既不喜欢吃鱼，也不喜欢吃鸡肉，否定句中or表示 ""和"" ，and用于肯定句表示 ""和"" 。Ben doesn't like fish本不喜欢鱼，后面提到he likes chicken very much他非常喜欢鸡肉，前后句意出现转折，用but。故选：B。
+",较易,初中;英语;知识点;词法;连词,单项选择,初中,,英语,单选
+54bafab2dcd54fb99a37e6f7da5931e0,"——I'm sorry. I'm late for the film.
+
+—— $$\underline{}$$  . There is still a little time.
+",Bad luck.,That's right.,Never mind.,All right.,C,"考查情景交际。句意：——很抱歉，电影我迟到了。——没关系，还有一点时间。A项意为运气不好，B项意为对，C项意为没关系，D项意为好吧。前句表示道歉，因此回答没关系。故选C。
+",易,初中;英语;题型;语法选择;语法选择,语法选择,初中,上学期,英语,单选
+ebbbbdd667384a7c9b86616378b621fc,"Mary and Gina are my friends. $$\underline{}$$ father works in NO.1 Middle School
+",Their,their,They,,A,"考查代词辨析。句意：Mary和Gina是我的朋友，她们的父亲在第一中学工作。Their她/它/他们的，形容词性物主代词；They她/它/他们，人称代词主格。因为本空位于句首，所以所填单词首字母要大写，所以排除B选项。分析句子成分结构可知，本空应填Their做定语修饰名词father，所以排除C选项。故选：A。
+",易,初中;英语;知识点;基础知识;书写,单项选择,初中,上学期,英语,单选
+49197b4af5724489911397ad6986acc0,"Beijing, $$\underline{}$$ capital of China, has $$\underline{}$$ long history.
+",a; a,the; /,the; a,/; the,C,"考查冠词，句意：北京是中国的首都，有着一段悠长的历史。第一空特指中国的首都，需要用定冠词the；第二个空为泛指，且有 ""一"" 的概念，故用不定冠词a，答案为C。
+",较易,初中;英语;知识点;词法;冠词,语言知识运用,初中,上学期,英语,单选
+4f66f1c3d4024f05ae8d9c60b4ecb5c7,"—I can't find the magazine I bought this morning.
+
+—Well, Jack is reading $$\underline{}$$ over there. Why not go and see if it is yours? 
+",it,that,one,some,C,"代词的考查， it 指代上文提到的唯一的事物，说话人都清楚说话的内容， that 指代上文提到的某样物品，one 是指同类物品中的任何一个。some， 一些或是某一个。在本题中Jack正在读的一份，是同类物品的中的任一个，没有进行特指。所以选one。
+",较易,初中;英语;知识点;词法;代词,词法-代词-不定代词-普通不定代词-one/ones,初中,,英语,单选
+49151980aae34bc694db00408e749041,"They are looking for someone who is familiar  $$\underline{}$$  computer.
+",to,with,at,for,B,"本题考查介词辨析。句意为：他们在寻找一个对电脑熟悉的人。be familiar with意为对……熟悉，符合题意，故本题正确答案为B。
+",较易,初中;英语;知识点;词法;词法,词法-介词及介词短语-介词短语及其辨析,初中,上学期,英语,单选
+17ac728b51c64d9dbbb462eabd6e1c0a,"The New Year Concert was so amazing that $$\underline{}$$ left in the middle of it.
+",everybody,anybody,nobody,somebody,C,"句意：新年音乐会太精彩了，没有人中途离开。
+A. everybody每人；B. anybody任何人；C. nobody没有人；D. somebody某人。根据上文The New Year Concert was so amazing可知下文是说没有人离开。根据题意，故选C。
+",较易,初中;英语;知识点;词法;词法,词法-代词-不定代词,初中,上学期,英语,单选

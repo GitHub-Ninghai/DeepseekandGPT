@@ -788,7 +788,30 @@ task_semester：第二学期
 task_subject：英语  
 
 答案：C",1
-,,,,,,,,,,,,,,,,
+ace870fa73a247bda2022e180b6db3bb,"选出每组中不同类的一项。
+",cousin,bus,plane,,A,,易,小学;英语;题型;分类题;分类题,基础知识-词汇-辨析,小学,,英语,单选,"<think>
+这道题需要从四个选项中选出不同类的一项。首先分析每个选项的类别：
+
+A. cousin（表亲，家庭成员）
+B. bus（公交车，交通工具）
+C. plane（飞机，交通工具）
+D. nan（可能指“奶奶”的昵称或“馕”）
+
+B和C明确属于交通工具，A是家庭成员。D的类别需要进一步判断：
+1. 若D是“奶奶”的昵称（如nana的简写），则属于家庭成员，此时A和D同类，B和C同类，题目无解。
+2. 若D是“馕”（一种食物），则属于食物类，与其他选项类别不同。
+
+根据小学英语考试常见的词汇范围和题目设计意图，D更可能被设定为“馕”（naan），属于食物类。因此，A（家庭成员）、B（交通工具）、C（交通工具）为同一类，D（食物）为不同类。
+</think>
+
+difficulty: 简单  
+knowledge_domain: 词汇分类  
+knowledge_tree: 名词类别识别（家庭成员、交通工具、食物）  
+task_grade: 小学三年级  
+task_semester: 下学期  
+task_subject: 英语  
+
+答案：D",0
 65dad1ce1ad84dd58c76620f5feec10a,"—What is the weather like?
 
 — $$\underline{}$$.
