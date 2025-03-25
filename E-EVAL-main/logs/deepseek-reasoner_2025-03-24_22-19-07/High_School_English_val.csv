@@ -1,0 +1,1811 @@
+id,prompt,A,B,C,D,answer,analysis,difficulty,knowledge_domain,knowledge_tree,task_grade,task_semester,task_subject,task_type,model_output,correctness
+d850c97f4d204dc7abd65dd79a5adc0a,"The company has got $$\underline{}$$ from many users both at home and abroad for top-quality products and services.
+",benefit,apology,credit,envy,C,"考查名词的辨析。根据句意是""得到国内外用户的好评""。benefit""利益，好处""；apology""道歉""；credit ""信誉，信用"" ；envy ""羡慕，嫉妒"" 。get credit for ""因……而得到好评"" ，故答案为C。
+",较易,高中;英语;知识点;词法;名词,单项选择,高中,上学期,英语,单选,"<think>
+题目要求选择一个合适的名词填入句中，表示公司因优质产品和服务获得来自用户的某种反馈。分析各选项：
+- A. benefit（利益）通常指公司获得的利益，但搭配“from users”不太自然，用户通常不会给予公司“利益”。
+- B. apology（道歉）与语境矛盾，优质产品无需道歉。
+- C. credit（信誉/好评）符合语境，固定搭配“get credit”表示获得认可或赞誉，与用户因满意而给予好评的逻辑一致。
+- D. envy（嫉妒）虽可能涉及用户情感，但公司通常不会因优质服务主动获得“嫉妒”，更可能得到积极评价。
+综上，C为最佳选项。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 词汇辨析与固定搭配  
+knowledge_tree: 名词词义及语境应用  
+task_grade: 高中  
+task_semester: 全学年  
+task_subject: 英语  
+
+答案：C",1
+a1f10b122d3945caae84c375f02055d9,"The audience was $$\underline{}$$ to turn their cell phones off in the theatre.
+",selected,recognized,respected,reminded,D,"考查动词辨析。句意：在剧院里，有人提醒观众把手机关掉。A. select 选择；B. recognize 辨认；C. respect 尊重；D. remind 提醒。结合句意故选D。
+",较易,高中;英语;知识点;词法;动词及动词短语,单项选择,高中,上学期,英语,单选,"<think>
+这道题考察的是动词的辨析和被动语态的使用。句子结构为被动语态（was + 过去分词），需要选择符合语境的动词。句意是""观众在剧院里被____关闭手机""。选项D""reminded""构成固定搭配be reminded to do（被提醒做某事），符合""剧院需要提醒观众关手机""的常识逻辑。其他选项：A（被选择）不符合场景，B（被认出）和C（被尊重）均与句意无关。故选D。
+</think>
+
+difficulty: 中等难度  
+knowledge_domain: 动词辨析与固定搭配  
+knowledge_tree: 被动语态/动词短语应用  
+task_grade: 高中  
+task_semester: 全学年  
+task_subject: 英语  
+
+答案：D",1
+e494648856f548baab6dae52c702faa0,"It was the typhoon $$\underline{}$$ was called Tiange $$\underline{}$$ hit Zhuhai and Macao.
+",which; that,what; which,that; who,that; which,A,"考查定语从句和强调句型。句意：是被叫作 ""天鸽"" 的台风袭击了珠海和澳门。故选A。
+",较易,高中;英语;知识点;句法;特殊句式,句法-特殊句式-强调句-It is…that（who）...强调句型,高中,上学期,英语,单选,"<think>
+这道题考察的是强调句型和定语从句的结合使用。首先，句子结构为""It was the typhoon __ was called Tiange __ hit Zhuhai and Macao.""，需要填入两个连接词。
+
+1. **第一个空分析**：  
+   此处是定语从句修饰""typhoon""，指物且从句缺少主语，需用关系代词that或which。选项A和D的第二个空分别为that和which，但根据强调句型规则，第二个空必须用that，因此排除D的第二个空（which）。因此，第一个空可用which或that，选项A（which）和D（that）均可能。
+
+2. **第二个空分析**：  
+   全句为强调句型""It was...that...""，无论被强调部分是人是物，均用that引导。因此第二个空必须填that，排除选项B（which）、C（who）、D（which），仅A和D的第二个空可能。但D的第二个空为which，错误，故排除D。
+
+最终，选项A（which; that）符合条件：第一个空用which引导定语从句，第二个空用that构成强调句型。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 语法  
+knowledge_tree: 强调句型与定语从句的综合运用  
+task_grade: 高中  
+task_semester: 全学年  
+task_subject: 英语  
+
+答案：A",1
+975c0cccd3a24bf49bfe6c0a0fc2f696,"— $$\underline{}$$ either Christina or you going to attend the meeting this afternoon? 
+
+—No, neither she nor I $$\underline{}$$ .
+",Is; is,Are; am,Are; is,Is; am,D,"考查主谓一致。句意：—今天下午不是克里斯蒂娜就是你要去开会吗? —不，她和我都不是。either…or…遵循 ""就近原则"" ，故第一空中谓语动词由Christina决定，用第三人称单数形式，填is；neither… nor…遵循 ""就近原则"" ，故第二空中谓语动词由 I 决定，用am。故选D。
+",较易,高中;英语;知识点;句法;主谓一致,句法-主谓一致-就近一致,高中,下学期,英语,单选,"<think>
+这道题考察主谓一致中的就近原则。第一个空所在的问句使用either...or结构连接Christina和you，根据就近原则，谓语应与最近的you一致，使用are。第二个空的回答使用neither...nor结构，谓语应与最近的I一致，使用am。选项中符合这两个条件的只有B选项（Are; am）。
+</think>
+
+difficulty：中等  
+knowledge_domain：语法  
+knowledge_tree：主谓一致/就近原则  
+task_grade：高中  
+task_semester：全学年  
+task_subject：英语  
+
+答案：B",0
+78281962a5254e92b9b25d4df4cf81e5,"The pear tree in the yard bore $$\underline{}$$ pears last year.
+",a great many of,a great many,a great deal,a great deal of,B,"考查短语辨析。句意：去年院子里的那棵梨树结了许多梨。a great many 许多，后加可数名词复数，不需要加of；a great deal of 许多，后加不可数名词；a great deal 非常，修饰动词。pears为可数名词复数，故答案为B。
+",较易,高中;英语;知识点;词法;量词,词法-量词,高中,下学期,英语,单选,"<think>
+这道题考查的是量词短语的用法。首先，句子中的""pears""是可数名词复数形式。选项分析如下：
+
+A. a great many of：后面需要接限定词+名词（如the/those pears），但原句没有限定词
+B. a great many：直接修饰可数名词复数，符合语法
+C. a great deal：后面需要接不可数名词，且缺少介词of
+D. a great deal of：修饰不可数名词，而pears是可数名词
+
+正确选项是B，因为""a great many""直接修饰可数复数名词，符合句子结构要求。
+</think>
+
+difficulty: 中等难度
+knowledge_domain: 英语语法
+knowledge_tree: 量词短语用法
+task_grade: 高中
+task_semester: 全学年
+task_subject: 英语
+
+答案：B",1
+380262d435e045f2bfacc02cbcb376b3,"Six-year-old Alice is building a magical kingdom brick by brick, imagining fairy-tale castles and fire-breathing dragons. This fantasy is helping her take first steps towards creativity. Minutes later, when she is playing board games with her brother, she's learning to follow rules and take turns with a partner. Although she isn't aware of it, this will play an important role in her adult life.
+
+""Play in all its rich variety is one of the highest achievements of the human species, "" says Dr. David Whitebread from the University of Cambridge. He's also mindful of the worldwide decline of play."" The opportunities for free play, which I experienced almost every day of my childhood, are becoming increasingly scarce now, "" he says. Outdoor play is restricted by parents' perceptions of risk to do with traffic, as well as their increased wish to protect their children from being the victims of crime, and by their emphasis on ""earlier is better"" which is leading to greater competition in academic learning and schools.
+
+What is the purpose of the first paragraph? 
+",To illustrate the benefits of too much spare time.,To describe a kid's peaceful and happy childhood.,To present the importance of a rich variety of play.,To introduce the distinctive functions of different toys.,C,"推理判断题。根据第一段“Six-year-old Alice is building a magical kingdom brick by brick, imagining fairy-tale castles and fire-breathing dragons. This fantasy is helping her take first steps towards creativity. Minutes later, when she is playing board games with her brother, she's learning to follow rules and take turns with a partner. Although she isn't aware of it, this will play an important role in her adult life.”（六岁的爱丽丝正在一砖一瓦地建造一个神奇的王国，想象着童话中的城堡和喷火龙。这种幻想帮助她迈出了创造的第一步。几分钟后，当她和弟弟玩桌游时，她学会了遵守规则，和一个伙伴轮流玩。虽然她没有意识到这一点，但这将在她的成年生活中发挥重要作用。）可知，第一段目的是为了呈现丰富多样的玩耍的重要性。故选C。
+",中档,高中;英语;题型;阅读理解;阅读理解,说明文,高中,,英语,单选,"<think>
+第一段描述了Alice参与两种不同类型的游戏：建造魔法王国（促进创造力）和玩棋盘游戏（学习规则和合作）。这些例子展示了不同游戏形式对儿童发展的多方面益处。第二段引用专家观点，强调多样化游戏的重要性及其减少的趋势。因此，第一段的目的是通过具体例子引出“多样化游戏的重要性”这一主题，对应选项C。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 阅读理解（主旨题）  
+knowledge_tree: 英语考试阅读理解技巧/段落目的分析  
+task_grade: 高中  
+task_semester: 全学年  
+task_subject: 英语  
+
+答案：C",1
+8a9e2bbaa37e45fcb35f617a33804f02,"He tried his best $$\underline{}$$ and finally he succeeded in $$\underline{}$$ the first prize.
+",to practice; to win,to practice; winning,practicing; to win,practicing; winning,B,"考查动词不定式以及动名词。句意：他努力练习，最后他终于获得了一等奖。第一空固定用法：try one's best to do sth. ""尽某人最大努力做某事"" ；第二空固定用法：succeed in doing sth. ""成功做某事"" 。故选：B。
+",较易,高中;英语;知识点;基础知识;固定搭配,基础知识-固定搭配,高中,上学期,英语,单选,"<think>
+首先分析第一个空格：""He tried his best ___""。动词""try""接不定式时表示""努力做某事""(try to do)，接动名词时表示""尝试做某事""(try doing)。结合""tried his best""(尽全力)的语境，应使用""try to do""结构，因此第一个空应填""to practice""，排除C、D选项。
+
+接着分析第二个空格：""succeeded in ___""。动词短语""succeed in""后必须接名词或动名词形式，固定搭配为""succeed in doing""，因此第二个空应填""winning""，排除A选项。综上，正确答案为B选项。
+</think>
+
+difficulty: 中等难度  
+knowledge_domain: 动词非谓语形式  
+knowledge_tree: 动词不定式与动名词的用法区别  
+task_grade: 高中  
+task_semester: 全学年  
+task_subject: 英语  
+
+答案：B",1
+29bca481605841bdaabf53f9e49a0b12,"Could I speak to $$\underline{}$$ is in charge of International Sales, please? 
+",who,those who,whoever,whomever,C,"考查疑问代词。句意：我可以和负责国际销售的任何一个人通话吗？whoever意为""任何人、无论谁""，引导宾语从句，作介词to的宾语，同时whoever在从句中作主语。B选项根据后面的is可以排除，D选项不能作从句的主语。故选C。
+",较易,高中;英语;知识点;词法;代词,单项选择,高中,下学期,英语,单选,"<think>
+这道题考察宾语从句中连接代词的选择。句子结构为“Could I speak to ___ is in charge...”，介词to后接宾语从句。分析如下：
+
+1. B选项""those who""结构错误，因介词后不能接""those""作宾语
+2. D选项""whomever""宾格形式错误，从句中需要主语
+3. A选项""who""虽然可以引导从句，但此处需要表达""任何负责人""的泛指含义
+4. C选项""whoever""符合语法要求，既引导宾语从句又在从句中作主语，同时具有""anyone who""的泛指意义
+</think>
+
+difficulty：中等难度
+knowledge_domain：语法知识
+knowledge_tree：名词性从句/连接代词
+task_grade：高中三年级
+task_semester：上学期
+task_subject：英语语法
+
+答案：C",1
+dbe9e82158d04bf28ea481bd6a5fe541,"Nowadays, cycling, along with jogging and swimming, $$\underline{}$$ as one of the best all-round forms of exercise.
+",is regarded,regard,are regarded,regards,A,,较易,高中;英语;知识点;句法;主谓一致,语言知识运用,高中,上学期,英语,单选,"<think>
+题目要求选择正确的动词形式填空。句子主语是“cycling”，后面接“along with jogging and swimming”。根据语法规则，当主语后接“along with”短语时，谓语动词的数与主语一致。此处主语“cycling”是单数，因此谓语动词需用单数形式。选项中，A（is regarded）和D（regards）是单数。由于句子表达被动意义（“被认为”），需用被动语态“be regarded”，因此排除主动形式的D，正确答案为A。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 英语语法  
+knowledge_tree: 主谓一致与被动语态  
+task_grade: 高中  
+task_semester: 全学年  
+task_subject: 英语  
+
+答案：A",1
+8690186b338d45ca9240502aa503f866,"She is now determined to push further and keep on going $$\underline{}$$ she once felt like giving up.
+",where,as,in case,now that,A,"考查连接词辨析和状语从句。句意：现在，她决定要进一步努力，在自己曾经想要放弃的地方继续前行。where在……地方；as按照，正如；in case以防万一；now that既然，由于。结合句意，她是想从曾经想要放弃的地方继续前行，表示地点用where。故选A。
+",较易,高中;英语;知识点;词法;连词,单项选择,高中,上学期,英语,单选,"<think>
+这道题考查连词的选择。句子结构为：主句“She is...keep on going”需要一个连词连接从句“she once felt like giving up”。分析逻辑关系，主句表达""坚持前行""的现在决心，从句描述""曾经想放弃""的过去状态。根据选项：
+
+A.where可引导地点状语从句，符合“在曾经想放弃的地方继续前行”的语义逻辑；
+B.as表原因/时间/方式，与上下文逻辑不符；
+C.in case表预防，不符合语义；
+D.now that表因果，但主从句并非因果关系。
+
+正确选项应为A.where，表示地点上的转折对比。
+</think>
+
+difficulty: 中等难度  
+knowledge_domain: 状语从句  
+knowledge_tree: 英语语法/连词用法  
+task_grade: 高中  
+task_semester: 全学期通用  
+task_subject: 英语  
+
+答案：A",1
+8f095b666b77489bad978f65da403088,"In his new book, the writer has $$\underline{}$$ from his usual poet style to a plainer manner.
+",swapped,switched,shrunk,simplified,B,"考查动词辨析。swap交换；switch转变，改变；shrink缩小；simplify简化。句意：在他的新书中，这位作家已从他通常的诗人风格转变为更朴实的风格。故选Ｂ。
+",较易,高中;英语;知识点;基础知识;基础知识,单项选择,高中,上学期,英语,单选,"<think>
+题目要求选择正确的动词过去式填入空格，句子描述的是作家在新书中从一贯的诗意风格转向更朴素的写法。关键点在于动词与介词""from""的搭配以及语义的合理性。
+
+**选项分析：**
+- **A. swapped** 意为“交换”，通常搭配结构为""swap A for B""或""swap with""，强调两者互换，但此处""from...to...""结构更强调单向转变而非互换，搭配不够自然。
+- **B. switched** 搭配""switch from...to...""是固定用法，表示“从……转换到……”，符合句意（风格转变），且语法正确。
+- **C. shrunk** 意为“收缩”，""shrink from""表示“退缩”，与“风格转变”语义不符。
+- **D. simplified** 意为“简化”，需直接接宾语（如""simplify the method""），无法与""from...to...""搭配。
+
+综上，**B. switched** 是唯一符合语法和语义的选项。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 词汇与搭配  
+knowledge_tree: 动词短语辨析与固定搭配  
+task_grade: 高中  
+task_semester: 全学年  
+task_subject: 英语  
+
+答案：B",1
+5a8e585d7bb140fab543d9c6f68ad89a,"It's necessary that children ask for their parents' $$\underline{}$$ before going out from their homes.
+",devotion,protection,cooperation,permission,D,"考查名词词义辨析。句意：孩子们离开家之前必须征得父母的同意。A. devotion奉献，忠诚；B. protection保护；C. cooperation合作，协作；D. permission允许。分析语境可知，选D。
+",易,高中;英语;知识点;词法;名词,语言知识运用,高中,下学期,英语,单选,"<think>
+这道题考察的是名词的辨析及固定搭配。句子大意为“孩子们在离家外出前必须征得父母的____。”需要选择一个与“ask for”搭配且符合语境的词。
+
+分析选项：
+- A. devotion（奉献）：通常指投入或忠诚，与征求同意无关。
+- B. protection（保护）：逻辑不符，外出前不需要“请求保护”。
+- C. cooperation（合作）：强调共同协作，与父母允许外出的场景不直接相关。
+- D. permission（许可）：固定搭配“ask for permission”（请求许可）完全符合句意，表示孩子需要父母的批准才能外出。
+
+因此正确答案是D。
+</think>
+
+difficulty：中等  
+knowledge_domain：词汇辨析与固定搭配  
+knowledge_tree：英语基础词汇/动词短语搭配  
+task_grade：高中  
+task_semester：全学年通用  
+task_subject：英语  
+
+答案：D",1
+7888ecabda7646d69bc2747a408bc908,"Their flight  $$\underline{}$$  due to bad weather. They would like to know when the flight will take off.
+",had been delayed,was delayed,has been delayed,will be delayed,C,"考查现在完成时。现在完成时表示“过去的动作对现在的影响或结果”或“过去的动作一直持续到现在”。本题中，航班被耽搁已经发生，航班还未起飞，可见对现在产生了影响，故用现在完成时的被动语态。故选C。
+",较易,高中;英语;知识点;词法;词法,delay,高中,,英语,单选,"<think>
+这道题考察时态的正确使用。句子后半部分提到“他们想知道航班何时起飞”，说明航班延误的情况对现在仍有影响，因此需要用现在完成时（has been delayed）来表示动作的持续影响。选项C正确。其他选项中，A是过去完成时，需有另一个过去时间参照；B是过去时，仅说明过去发生但未强调影响；D是将来时，与当前情况不符。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 英语语法  
+knowledge_tree: 动词时态  
+task_grade: 高中  
+task_semester: 全学期  
+task_subject: 英语  
+
+答案：C",1
+3ed0b4f1eb144508b69de102610825d8,"If you don't $$\underline{}$$ your smoking, I will $$\underline{}$$ your supply.
+",cut up; cut down,cut down; cut off,cut in; cut off,cut in; cut up,B,"考查短语辨析。句意：如果你不减少吸烟，我就切断你的香烟供应。cut up切碎，剁碎；cut down削减，减少；cut off停止，中断（供给）；cut in打断（谈话），插嘴。根据句意可知，此处应选""cut down smoking""表示 ""减少抽烟"" ，""cut off supply""表示 ""切断供应"" 。故答案为B。
+",较易,高中;英语;知识点;词法;介词及介词短语,语言知识运用,高中,下学期,英语,单选,"<think>
+题目考查动词短语的辨析。句子结构为条件句，前半句表示“如果不减少吸烟”，后半句威胁要“切断供应”。分析选项：
+- A选项cut up（切碎）和cut down（减少），前者与吸烟不搭配；
+- B选项cut down（减少）和cut off（切断）符合逻辑；
+- C/D选项的cut in（插嘴）与吸烟无关；
+确定B选项正确：前空用cut down表示减少吸烟，后空用cut off表示切断供应，构成合理的条件关系。
+</think>
+
+difficulty：中等难度  
+knowledge_domain：动词短语辨析  
+knowledge_tree：动词短语搭配与语境应用  
+task_grade：高中  
+task_semester：全学年通用  
+task_subject：英语  
+
+答案：B",1
+84831ad2c8f44ae3b9804ee587adcc3e,"The employee you had been thinking highly $$\underline{}$$ dishonest.
+",of proving,of proved,of to prove,of being proved,B,"考查动词时态。句意：那个你评价很高的面试者被证明是不诚实的人。you have been thinking highly of是定语, 用来修饰前面的employee，think highly of是评价高的意思, of对后面的动词没有作用。prove是 ""被证实"" 的意思, employee是单数, 动词在这里用单数形式或过去式，故选B
+",较易,高中;英语;知识点;句法;句子成分,单项选择,高中,上学期,英语,单选,"<think>
+题目中的句子结构分析如下：主句主语是""The employee""，后面接一个定语从句""you had been thinking highly __""，空格处需填入适当的成分，之后接形容词""dishonest""。关键点在于：
+
+1. **固定搭配**：""think highly of"" 是固定短语，因此空格前必须有""of""。
+2. **定语从句逻辑**：原句实为""The employee (whom) you had been thinking highly of ______ dishonest""，空格处需要连接定语从句和主句的谓语动词。
+3. **动词选择**：此处需用动词""prove""的过去式""proved""，表示员工""被证明不诚实""，构成""proved dishonest""（形容词作表语）。选项B的""of proved""符合语法：定语从句""you had been thinking highly of""修饰""employee""，而""proved""是主句的谓语动词。
+4. **排除其他选项**：
+   - A选项""proving""（现在分词）无法单独作谓语。
+   - C选项""to prove""（不定式）缺乏时态呼应。
+   - D选项""being proved""（被动进行式）语态错误，此处无需被动。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 英语语法  
+knowledge_tree: 定语从句与动词时态的综合应用  
+task_grade: 高中  
+task_semester: 全学期  
+task_subject: 英语  
+
+答案：B",1
+4007db741050443d9d0f2f3ea5063784,"Your support is important to our work. $$\underline{}$$ you can do helps.
+",However,Whoever,Whatever,Wherever,C,"考查主语从句。句意：你的支持对我们的工作很重要。无论你能做什么，都会对我们有帮助。分析句子结构可知，所填词引导主语从句，且在从句中作do的宾语。所以C项whatever（无论什么）符合语境。故选C。
+",较易,高中;英语;题型;单项选择;单项选择,语言知识运用,高中,下学期,英语,单选,"<think>
+这道题考查的是连接代词的用法。句子结构为“Your support is important to our work. _____ you can do helps.” 第二个句子的主语部分是一个从句，空格处需要填入一个连接代词引导该主语从句，并在从句中充当成分。
+
+分析选项：
+A. However（无论如何，副词，不能作宾语）
+B. Whoever（无论谁，主格，指人）
+C. Whatever（无论什么，宾格，指事物）
+D. Wherever（无论哪里，地点副词）
+
+从句中“you can do”中的do是及物动词，需要宾语。因此引导词需要充当do的宾语，且指代事物。只有Whatever符合要求，既引导主语从句，又在从句中作do的宾语。句意为“你能做的任何事情都有帮助”。
+</think>
+
+difficulty: 中等难度  
+knowledge_domain: 英语语法  
+knowledge_tree: 名词性从句/连接代词  
+task_grade: 高中  
+task_semester: 全学年通用  
+task_subject: 英语  
+
+答案：C",1
+b061a15172584036b3514976ac82c314,"We must $$\underline{}$$ our unity in protection of blue sky from pollution.
+",lose,strengthen,divide,ban,B,"考查动词词义辨析。句意：我们只有加强团结合作，才能保护蓝天远离污染。A. lose失去；B. strengthen加强；C. divide（使）分开，分散；D. ban明令禁止。故选B。
+",中档,高中;英语;题型;单项选择;单项选择,语言知识运用,高中,上学期,英语,单选,"<think>
+题目中的句子需要选择一个动词与""our unity""搭配，表达在保护蓝天免受污染中的行动。句子结构是""We must [verb] our unity in protection of blue sky from pollution."" 需要选出符合语境的动词。
+
+- **选项A. lose**（失去）：""失去团结""与后文""保护蓝天""的积极目标矛盾，不符合逻辑。
+- **选项B. strengthen**（加强）：""加强团结""符合保护环境需要集体努力的语境，是合理选项。
+- **选项C. divide**（分裂）：""分裂团结""与目标完全相反，直接排除。
+- **选项D. ban**（禁止）：""禁止团结""不符合语法和语义，无法成立。
+
+因此，正确答案是B。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 词汇与语法  
+knowledge_tree: 动词辨析与语境搭配  
+task_grade: 高中  
+task_semester: 全学期  
+task_subject: 英语  
+
+答案：B",1
+340febec7a234671bc4c696be238b9da," $$\underline{}$$ the message to its leg, he sets the bird $$\underline{}$$ , which immediately flies into the air and disappears in the dark.
+",Attaching; loose,To attach; loosely,Attached; loose,Having attached; loosely,A,"考查非谓语动词和形容词。根据sets为句中谓语动词，可知此处attach为非谓语动词，同时句子的主语he和attach为主动关系，所以应填attach的现在分词形式；又根据作宾语补足语修饰the bird可知应选择形容词形式loose。句意：把一张纸绑在它的腿上后，他把那只鸟放走了。故选：A。
+",较易,高中;英语;知识点;词法;形容词和副词,单项选择,高中,下学期,英语,单选,"<think>
+这道题考查非谓语动词和形容词/副词的选择。首先分析第一个空：句子主语是he，与attach是主动关系，需用现在分词。若动作在主句之前完成，需用完成式Having attached，否则用一般式Attaching。根据逻辑，绑消息应先于放飞鸟，故完成式更合理。但英语中若动作连续发生且时间间隔短，可用一般式。因此，Attaching也可接受。第二个空考查宾语补足语，set sth + adj.表示状态，应选形容词loose，而非副词loosely。选项A的Attaching和loose均正确，且逻辑连贯。选项D的loosely错误，排除。C的Attached为被动，不符主动语境。故选A。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 语法  
+knowledge_tree: 非谓语动词（分词作状语）、形容词与副词用法  
+task_grade: 高中  
+task_semester: 高三  
+task_subject: 英语  
+
+答案：A",1
+b9a4fd474a3b4e59b352d3b7c4c05556,"The match has been cancelled $$\underline{}$$ the bad weather conditions.
+",apart from,due to,except for,instead of,B,"考查介词短语辨析。选项分析：A. apart from 除……之外 ；B. due to 由于；C. except for 除了……以外；D. instead of 代替；而不是…。根据句意，前后是因果关系，应为due to。句意：由于天气恶劣，比赛被取消了。故正确答案为：B。
+",易,高中;英语;题型;填空题;填空题,词法-介词及介词短语-介词短语及其辨析,高中,下学期,英语,单选,"<think>
+题目要求选择一个合适的短语填入句子，使句意通顺。原句是“The match has been cancelled ______ the bad weather conditions.”，句意为“比赛因恶劣天气条件被取消”。空格处需填入表示原因的短语。
+
+**选项分析：**
+- **A. apart from**：意为“除了……之外还有”，用于补充信息，不表示原因。例如：“Apart from the rain, the wind was also strong.”（除了下雨，风也很大）。此处比赛取消的原因不是补充信息，排除A。
+- **B. due to**：意为“由于”，直接连接原因，符合句意。例如：“The flight was delayed due to fog.”（航班因雾延误）。此选项符合“比赛因天气取消”的逻辑。
+- **C. except for**：意为“除了……之外”，用于排除部分情况。例如：“The room was clean except for a few papers.”（房间很干净，除了几张纸）。此处需说明原因而非排除，排除C。
+- **D. instead of**：意为“代替/而不是”，表示替代关系。例如：“We walked instead of driving.”（我们步行而非开车）。与句意不符，排除D。
+
+**结论：** 只有B选项能正确表达“因天气取消”的因果关系。
+</think>
+
+difficulty：中等  
+knowledge_domain：英语语法与词汇  
+knowledge_tree：介词短语辨析  
+task_grade：高中  
+task_semester：全学期通用  
+task_subject：英语  
+
+答案：B",1
+057a72f1bddc49978fb337ee397b64bd,"It remains to be seen $$\underline{}$$ the newly formed committee's policy can be put into practice.
+",that,which,whether,what,C,"考查名词性从句的连接词。句意：新成立的委员会的政策是否能付诸实施人们将拭目以待。it作形式主语，真正主语是… the newly formed…从句，该从句不缺任何成分，所以排除B、D。It remains to be seen意思是""有待见证或说明""，说明人们采取的是观望态度。所以whether是否，放在此处符合题意，故选C。
+",较易,高中;英语;知识点;词法;代词,语言知识运用,高中,下学期,英语,单选,"<think>
+题目考查引导名词性从句的连接词选择。主句是""It remains to be seen""，形式主语it指代后面的从句内容。从句""the newly formed committee's policy can be put into practice""本身是完整陈述句，但结合主句""有待观察""的语义，需要表达""是否""的疑问含义。whether用于引导表示""是否""的名词性从句，且不需要在从句中充当成分。that引导陈述性内容，which需要选择范围，what需在从句中作成分，均不符合语境。因此正确选项为C。
+</think>
+
+difficulty: 中等难度  
+knowledge_domain: 英语语法  
+knowledge_tree: 名词性从句/主语从句  
+task_grade: 高三  
+task_semester: 上学期  
+task_subject: 英语  
+
+答案：C",1
+d2436389a0ae4be89acc56c71390b2a0,"When we saw the road $$\underline{}$$ with snow, we decided to spend the holiday at home.
+",block,to block,blocking,blocked,D,"考查非谓语动词。句意：当我们看到路被大雪阻塞的时候，我们决定这个假期就呆在家里了。 根据句子结构可知，此处的road和block之间存在着被动关系，应用过去分词作宾语补足语。故选D。
+",较难,高中;英语;题型;单项选择;单项选择,词法-非谓语动词-分词-分词作补语-过去分词作补语,高中,下学期,英语,单选,"<think>
+这道题考查的是动词的非谓语形式作宾语补足语的用法。句子结构为“we saw the road __ with snow”，其中road是宾语，空格处需填入动词的正确形式作为宾语补足语。关键在于判断road与block之间的逻辑关系：道路是被雪“阻塞”的，属于被动关系，因此应使用过去分词形式blocked表示被动和完成状态。选项C的现在分词blocking表示主动进行，而选项D的blocked符合被动语义，故正确答案为D。
+</think>
+
+difficulty: 中等难度  
+knowledge_domain: 英语语法  
+knowledge_tree: 非谓语动词/分词作宾语补足语  
+task_grade: 高中  
+task_semester: 全学期适用  
+task_subject: 英语  
+
+答案：D",1
+055d404174544412b96275de43d27a9c,"Arriving late for an interview gives a very negative $$\underline{}$$ to interviewers.
+",impression,impressed,impressive,impress,A,"考查词义辨析。句意：面试迟到给面试官留下一个负面的印象。impression印象，impress使……有印象，impressive印象深刻的。分析句子结构可知，此处应用名词。故选A。
+",较易,高中;英语;知识点;基础知识;词汇,语言知识运用,高中,上学期,英语,单选,"<think>
+题目中的空格位于句子“Arriving late for an interview gives a very negative ____ to interviewers.”，需填入正确词性和形式的单词。句子结构为主语（动名词短语） + 谓语（gives） + 间接宾语（a very negative ___） + 直接宾语（to interviewers）。动词“give”后需接名词作宾语，因此空格处应为名词形式。选项分析如下：
+
+- **A. impression**：名词，意为“印象”，符合句意“留下负面印象”，且搭配“give a...impression”为固定表达。
+- **B. impressed**：过去分词或形容词，无法直接作宾语。
+- **C. impressive**：形容词，无法直接作宾语。
+- **D. impress**：虽可作名词（如“印记”），但此语境中“impression”更符合“印象”的常用表达。
+
+综上，正确答案为A。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 词汇与语法  
+knowledge_tree: 词性辨析与固定搭配  
+task_grade: 高中  
+task_semester: 全学年  
+task_subject: 英语  
+
+答案：A",1
+dcc3bb9ab90444c0b85e5c6b231e2a0a,"Tom did not $$\underline{}$$ easily, but was willing to accept any helpful advice for a worthy cause.
+",approach,wrestle,compromise,communicate,C,"考查动词辨析。句意：Tom不轻易妥协，但是为了一份有价值的事业他愿意接受有益的意见。A. approach接近；B. wrestle搏斗；C. compromise妥协；D. communicate交流。根据句意及选项可知，C项符合语境。故选C。
+",较易,高中;英语;知识点;词法;动词及动词短语,语言知识运用,高中,上学期,英语,单选,"<think>
+题目要求选择适当的动词填入句子中，形成合理的逻辑转折。句子前半部分“Tom did not ___ easily”表示汤姆不容易做某事，后半部分“but was willing to accept any helpful advice for a worthy cause”则通过“but”形成转折，说明他愿意为有价值的事业接受建议。
+
+1. **选项分析**：
+   - **A. approach**（接近/处理）：若选此词，句意为“汤姆不容易接近或处理问题”，但后半句“愿意接受建议”可能与之矛盾，因为接受建议通常意味着主动处理问题，逻辑转折不清晰。
+   - **B. wrestle**（斗争）：常与介词连用（如wrestle with），直接搭配“easily”结构不自然，且“不轻易斗争”与“接受建议”的关联性较弱。
+   - **C. compromise**（妥协）：搭配“easily”表示“容易妥协”，句意为“汤姆不轻易妥协，但愿意为有价值的事业接受建议”。不妥协通常体现固执，而接受建议体现灵活性，形成合理转折，逻辑紧密。
+   - **D. communicate**（交流）：若选此词，句意为“汤姆不轻易交流，但愿意接受建议”，但“接受建议”本身需要一定沟通，逻辑稍显矛盾。
+
+2. **关键逻辑**：后半句的“接受建议”暗示汤姆在特定条件下愿意调整立场，而前半句需体现其通常的“不轻易让步”。因此，“compromise”最符合语境。
+
+综上，正确答案为**C. compromise**。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 词汇辨析与语境逻辑  
+knowledge_tree: 动词词义及搭配、转折关系理解  
+task_grade: 高中  
+task_semester: 全学期  
+task_subject: 英语  
+
+答案：C",1
+f51ac9ec84f746728f8082e8d44a85a1," $$\underline{}$$ being intelligent, he is also diligent and warm-hearted, which $$\underline{}$$ him everyone's respect in the team.
+",Except; provided,Apart from; provided,Apart from; earned,Except; earned,C,"考查介词和动词辨析。句意：除了聪明之外，他也很勤奋热心，这为他赢得了队里每个人的尊重。except除……之外；provide提供；apart from除……之外，还有……；earn赢得。根据句意，故选C。
+",较易,高中;英语;考查方式;完形填空;完形填空,语言知识运用,高中,下学期,英语,单选,"<think>
+首先分析第一个空，需要表示“除了...之外还有”的意思。句子中的“also”提示后面的内容是补充说明，因此应使用包含在内的“Apart from”，而“Except”通常表示排除，不包含在内。因此排除选项A和D。第二个空需要表示“赢得”尊重的意思，动词应选择“earned”，而“provided”意为“提供”，不符合句意。因此排除选项B，最终确定正确答案为C选项。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 英语语法与词汇  
+knowledge_tree: 介词用法及动词辨析  
+task_grade: 高中  
+task_semester: 全学年  
+task_subject: 英语  
+
+答案：C",1
+27263fc20867491d886c152fb77ec9a2,"Later $$\underline{}$$ word came that Dolly $$\underline{}$$ sheep had become seriously ill.
+",a; a,the; the,/; the,/; /,C,"考查冠词。句意：后来有消息说Dolly羊病得很重。word意为""消息""时，是不可数名词，不可数名词表泛指时，不加冠词，sheep特指Dolly羊，应在sheep前面用the表特指。故选C项。
+",较易,高中;英语;知识点;词法;冠词,语言知识运用,高中,下学期,英语,单选,"<think>
+这道题考察冠词的使用。第一个空，""word""在此指“消息”，作为不可数名词，通常前面不加冠词，如“word came that...”。第二个空，Dolly是特定的羊的名字，结构类似“the singer Taylor Swift”，需用定冠词the修饰“sheep”，因此正确答案为C选项：/; the。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 英语语法  
+knowledge_tree: 冠词用法  
+task_grade: 高中  
+task_semester: 全学年  
+task_subject: 英语  
+
+答案：C",1
+d2436389a0ae4be89acc56c71390b2a0,"When we saw the road $$\underline{}$$ with snow, we decided to spend the holiday at home.
+",block,to block,blocking,blocked,D,"考查非谓语动词。句意：当我们看到路被大雪阻塞的时候，我们决定这个假期就呆在家里了。 根据句子结构可知，此处的road和block之间存在着被动关系，应用过去分词作宾语补足语。故选D。
+",较难,高中;英语;题型;单项选择;单项选择,词法-非谓语动词-分词-分词作补语-过去分词作补语,高中,下学期,英语,单选,"<think>
+这道题考察的是非谓语动词在宾语补足语中的用法。句子结构为“When we saw the road ______ with snow”，其中road是宾语，空格处需要填入非谓语动词作宾语补足语。关键在于分析road与动词block之间的逻辑关系：路是被雪堵塞的，因此需要用被动语态。过去分词blocked表示被动和完成状态，符合语境。选项A（block）是动词原形，用于主动动作，不适用被动场景；B（to block）是不定式，表目的或将来，与当前已发生的状态不符；C（blocking）是现在分词，表主动进行，但block是及物动词，此处无主动动作；D（blocked）是过去分词，正确表达被动含义，与with snow共同构成“被雪堵塞”的状态，因此选D。
+</think>
+
+difficulty: 中等难度  
+knowledge_domain: 英语语法  
+knowledge_tree: 非谓语动词（过去分词作宾语补足语）  
+task_grade: 高中  
+task_semester: 全学年通用  
+task_subject: 英语  
+
+答案：D",1
+055d404174544412b96275de43d27a9c,"Arriving late for an interview gives a very negative $$\underline{}$$ to interviewers.
+",impression,impressed,impressive,impress,A,"考查词义辨析。句意：面试迟到给面试官留下一个负面的印象。impression印象，impress使……有印象，impressive印象深刻的。分析句子结构可知，此处应用名词。故选A。
+",较易,高中;英语;知识点;基础知识;词汇,语言知识运用,高中,上学期,英语,单选,"<think>
+这道题目考查的是名词的用法和固定搭配。句子结构为“give a negative ___ to interviewers”，其中空格前有形容词“negative”，后面需要一个名词作宾语。选项中A选项impression是名词，意为“印象”，符合句意和语法结构。其他选项B（过去分词/形容词）、C（形容词）和D（动词原形）均不符合名词的语法要求。因此正确答案为A。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 词汇与语法  
+knowledge_tree: 名词的用法与固定搭配  
+task_grade: 高中  
+task_semester: 全学期通用  
+task_subject: 英语  
+
+答案：A",1
+dcc3bb9ab90444c0b85e5c6b231e2a0a,"Tom did not $$\underline{}$$ easily, but was willing to accept any helpful advice for a worthy cause.
+",approach,wrestle,compromise,communicate,C,"考查动词辨析。句意：Tom不轻易妥协，但是为了一份有价值的事业他愿意接受有益的意见。A. approach接近；B. wrestle搏斗；C. compromise妥协；D. communicate交流。根据句意及选项可知，C项符合语境。故选C。
+",较易,高中;英语;知识点;词法;动词及动词短语,语言知识运用,高中,上学期,英语,单选,"<think>
+题目要求填入一个动词，构成句子的谓语部分。句子结构为“Tom did not ______ easily, but...”，后半句表示转折，说明Tom愿意接受有益的建议。分析选项：
+
+1. **A. approach**（接近，靠近）：通常需要宾语，如“approach the problem”，此处结构不符。
+2. **B. wrestle**（搏斗，斗争）：常与介词搭配（如wrestle with），单独使用不符合语境。
+3. **C. compromise**（妥协）：可作为不及物动词，表示“让步”，与“不轻易”形成合理搭配，且后半句“接受建议”与“妥协”逻辑一致。
+4. **D. communicate**（交流）：需接宾语或介词短语（如communicate with），单独使用不自然。
+
+根据句意，Tom“不轻易妥协”但“愿为有价值的事业接受建议”更符合逻辑，故选C。
+</think>
+
+difficulty：中等  
+knowledge_domain：词汇与语法  
+knowledge_tree：动词词义辨析及语境应用  
+task_grade：高中  
+task_semester：全学期  
+task_subject：英语  
+
+答案：C",1
+a9dff43f63b74dd0bd7b81b826f40cf3,"Film has a much shorter history, especially when $$\underline{}$$ such art forms as music and painting.
+",having compared to,comparing to,compare to,compared to,D,,较易,高中;英语;知识点;词法;词法,单项选择,高中,,英语,单选,"<think>
+这道题考察的是分词作状语时的用法。句子主干是“Film has a much shorter history”，后面接when引导的状语从句。由于主句主语是film，when引导的状语从句需要与主句主语保持一致逻辑关系。此处表达的是“当电影与音乐、绘画等艺术形式比较时”，film是“被比较”的对象，因此应使用过去分词表被动。选项D“compared to”正确，相当于“when it is compared to”的省略形式。其他选项中，A的having compared和B的comparing都表示主动比较，与被动语义矛盾；C的compare to是动词原形，无法直接构成状语。
+</think>
+
+difficulty：中等  
+knowledge_domain：语法  
+knowledge_tree：非谓语动词/分词结构  
+task_grade：高中  
+task_semester：全学年通用  
+task_subject：英语  
+
+答案：D",1
+8d7c39dee5bf4b1aabbff18641fc82d4,"— What did your sister want to know, Mary?
+
+—  $$\underline{}$$  that I could finish reading the story.
+",It was,Where was it,It was when,When it was,D,"考查强调句型。本题中强调的是特殊疑问词，带有特殊疑问词的强调句，特殊疑问词要放在句首，又因为是陈述句，所以用陈述语序，答案是D。
+",中档,高中;英语;知识点;句法;句法,句法-特殊句式-强调句,高中,,英语,单选,"<think>
+题目要求补全对话中Mary的回答。原句为“— What did your sister want to know, Mary? —  $$\underline{}$$ that I could finish reading the story.”。分析如下：
+
+1. **句子结构分析**：回答部分需要补全“姐姐想知道的内容”，即一个宾语从句。宾语从句需用陈述语序，排除B（疑问语序）。
+
+2. **选项筛选**：
+   - **A. It was**：若用强调句结构“It was...that...”，需明确被强调部分（如时间、地点）。但原句的“that I could finish...”未体现强调对象，无法构成完整逻辑。
+   - **C. It was when**：强调句型需完整形式“It was when...that...”，但原句缺少“that”前的被强调时间点，结构不完整。
+   - **D. When it was**：正确选项。此处“when it was”是陈述语序的宾语从句，结合“that I could finish...”构成隐含的强调结构（完整形式为“She wanted to know when it was that I could finish...”），强调时间点。
+
+3. **结论**：D选项符合宾语从句的语序和隐含强调结构的逻辑。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 语法（名词性从句与强调句）  
+knowledge_tree: 宾语从句的语序规则、强调句结构辨析  
+task_grade: 高中  
+task_semester: 全学年  
+task_subject: 英语  
+
+答案：D",1
+c8cb4cf379d8446681955dd9a3a37ed0,"It may be necessary to stop $$\underline{}$$ in the learning process and go back to the difficult points in the lessons.
+",at intervals,at random,at ease,at length,A,"选A。考查介词短语。at intervals不时；at random随意地；at ease舒适、不拘束；at length最后。句意：在学习中有必要时不时地停下来去回顾课程中的难点。
+",较易,高中;英语;知识点;词法;介词及介词短语,语言知识运用,高中,下学期,英语,单选,"<think>
+题目要求选择正确的短语填入句子中。句子的大意是“在学习过程中可能需要停下来______，并回到课程中的难点。”需要填入的短语应表示“间隔地、定期地”暂停学习以复习难点。分析选项：
+
+- **A. at intervals**（每隔一段时间）符合逻辑，强调学习过程中需要周期性暂停。
+- **B. at random**（随机地）不符合学习计划通常有规律的特点。
+- **C. at ease**（轻松地）与“停下来复习难点”的认真态度矛盾。
+- **D. at length**（详细地/最后）无法匹配“暂停后复习”的动作逻辑。
+
+因此，正确答案为A。
+</think>
+
+difficulty：中等  
+knowledge_domain：固定短语辨析  
+knowledge_tree：介词短语用法  
+task_grade：高中  
+task_semester：全学年通用  
+task_subject：英语  
+
+答案：A",1
+a5680a6af02f44c29e930c62b7f433ae,"Mr. Smith found himself $$\underline{}$$ the whole company while the boss was ill in hospital.
+",in exchange for,in favor of,in the charge of,in charge of,D,"考查介词短语辨析。in exchange for交换；in favor of喜欢；in the charge of在……的管理下；in charge of管理。句意，当老板生病住院时，史密斯先生发现他自己在管理公司。所以根据句意选D。
+",易,高中;英语;考查方式;完形填空;完形填空,语言知识运用,高中,上学期,英语,单选,"<think>
+这道题考查介词短语的用法。句子意思是“当老板住院时，Smith先生发现自己要负责整个公司”。关键在区分“in charge of”（主动掌管）和“in the charge of”（被动由他人掌管）。主语Mr. Smith是主动管理者，因此应选D选项。选项B（支持）、A（交换）明显不符合语境，C选项的被动语态与主语逻辑矛盾。
+</think>
+
+difficulty：中等  
+knowledge_domain：英语语法与词汇  
+knowledge_tree：介词短语辨析  
+task_grade：高中  
+task_semester：全学年通用  
+task_subject：英语  
+
+答案：D",1
+e0cda57bfade457baeec21ede1834cff,"I $$\underline{}$$ to go to Hawall today, but when the fortune-teller warned me not to travel, I postponed the trip.
+",was intending,was intended,would intend,had intended,D,"考查虚拟语气。表示 ""本打算，本希望"" 这一概念时，一般用 had intended 或 had hoped，后面接动词不定式。句意：我原打算今天去伦敦，可是算命先生警告我不要外出，我就推迟了这次旅程。故选 D。
+",较易,高中;英语;知识点;词法;虚拟语气,词法-虚拟语气,高中,上学期,英语,单选,"<think>
+题目考查动词时态的用法。句子的时间线是：原本打算去夏威夷（发生在过去）→ 算命师警告（过去动作）→ 推迟行程（过去动作）。根据""过去的过去""原则，""打算""发生在""算命师警告""之前，需用过去完成时。选项D（had intended）符合这一时态要求，且intend属于""过去未实现意图""类动词，常用过去完成时表达。选项A（was intending）是过去进行时，无法准确体现时间先后；选项B（was intended）是被动语态，与主语I矛盾；选项C（would intend）表示过去习惯性动作，不符合语境。
+</think>
+
+difficulty: 中等
+knowledge_domain: 英语语法
+knowledge_tree: 动词时态/过去完成时
+task_grade: 高中
+task_semester: 全学年
+task_subject: 英语
+
+答案：D",1
+293921805a6140128fda63403417ca3a,"Which of the following United States Presidents survived an assassination? 
+",James Garfield,John F kenned,Abraham Lincoln,Franklin D. Roosevelt,D,"考查文化常识。句意：以下哪位美国总统躲过暗杀？A项，詹姆斯·加菲尔德；B项，约翰·肯尼迪；C项，亚伯拉罕·林肯；D项，富兰克林罗斯福。根据常识可知，只有富兰克林罗斯福躲过了暗杀，其余三位均因受到暗杀而身亡。故答案选：D。
+",易,高中;英语;知识点;基础知识;文化常识,基础知识-文化常识,高中,上学期,英语,单选,"<think>
+这道题考查美国总统遇刺的历史知识。题目要求找出在刺杀中幸存的总统。分析各选项：
+
+A. 詹姆斯·加菲尔德（James Garfield）：1881年遇刺，中弹后存活80天，但因感染和内出血最终死亡。严格来说，他并未“幸存”，因为刺杀导致了他的死亡。
+
+B. 约翰·肯尼迪（John F. Kennedy）：1963年遇刺当场身亡，排除。
+
+C. 亚伯拉罕·林肯（Abraham Lincoln）：1865年遇刺，次日死亡，排除。
+
+D. 富兰克林·D·罗斯福（Franklin D. Roosevelt）：1933年2月15日，在迈阿密遭遇刺杀未遂。刺客的子弹击中了芝加哥市长安东·赛尔马克，但罗斯福本人未受伤，成功躲过刺杀。因此，罗斯福是选项中唯一明确在刺杀中幸存且未因刺杀死亡的总统。
+
+最终，正确答案为D选项。
+</think>
+
+difficulty：中等  
+knowledge_domain：历史常识  
+knowledge_tree：美国总统遇刺事件  
+task_grade：高中  
+task_semester：全年级通用  
+task_subject：英语（综合知识题）  
+
+答案：D",1
+d2436389a0ae4be89acc56c71390b2a0,"When we saw the road $$\underline{}$$ with snow, we decided to spend the holiday at home.
+",block,to block,blocking,blocked,D,"考查非谓语动词。句意：当我们看到路被大雪阻塞的时候，我们决定这个假期就呆在家里了。 根据句子结构可知，此处的road和block之间存在着被动关系，应用过去分词作宾语补足语。故选D。
+",较难,高中;英语;题型;单项选择;单项选择,词法-非谓语动词-分词-分词作补语-过去分词作补语,高中,下学期,英语,单选,"<think>
+这道题考察的是动词非谓语形式在感官动词后的用法。句子结构为“saw the road ___ with snow”，需要判断宾语补足语的正确形式。关键点在于：
+
+1. 感官动词see后接宾语补足语时，可用现在分词表主动/进行，过去分词表被动/完成
+2. 主语""the road""与""block""的关系是被动关系（路被雪堵住）
+3. ""with snow""暗示完成状态
+4. 选项分析：
+   - A.block（原形）：只能用于主动语态，不符合被动关系
+   - B.to block（不定式）：表目的或将来，与已发生的状态不符
+   - C.blocking（现在分词）：表主动进行，但此处需要被动
+   - D.blocked（过去分词）：正确表达被动完成状态
+</think>
+
+difficulty: 中等  
+knowledge_domain: 英语语法  
+knowledge_tree: 非谓语动词/感官动词用法  
+task_grade: 高中  
+task_semester: 高二下  
+task_subject: 英语  
+
+答案：D",1
+055d404174544412b96275de43d27a9c,"Arriving late for an interview gives a very negative $$\underline{}$$ to interviewers.
+",impression,impressed,impressive,impress,A,"考查词义辨析。句意：面试迟到给面试官留下一个负面的印象。impression印象，impress使……有印象，impressive印象深刻的。分析句子结构可知，此处应用名词。故选A。
+",较易,高中;英语;知识点;基础知识;词汇,语言知识运用,高中,上学期,英语,单选,"<think>
+题目中的句子结构为：主语（动名词短语Arriving late for an interview） + 谓语（gives） + 间接宾语（a very negative __） + 直接宾语（to interviewers）。根据冠词a和形容词negative可知，空格处需要填入名词作宾语。选项中：
+
+A.impression（名词）符合语法要求，且""give a...impression to sb""是固定搭配；
+B.impressed（过去分词/形容词）无法与冠词a搭配；
+C.impressive（形容词）同样无法与冠词a搭配；
+D.impress（动词原形）不能作宾语。
+
+因此正确答案为A选项。
+</think>
+
+difficulty: 简单  
+knowledge_domain: 词汇与语法  
+knowledge_tree: 名词辨析/固定搭配  
+task_grade: 高中  
+task_semester: 全学期  
+task_subject: 英语  
+
+答案：A",1
+dcc3bb9ab90444c0b85e5c6b231e2a0a,"Tom did not $$\underline{}$$ easily, but was willing to accept any helpful advice for a worthy cause.
+",approach,wrestle,compromise,communicate,C,"考查动词辨析。句意：Tom不轻易妥协，但是为了一份有价值的事业他愿意接受有益的意见。A. approach接近；B. wrestle搏斗；C. compromise妥协；D. communicate交流。根据句意及选项可知，C项符合语境。故选C。
+",较易,高中;英语;知识点;词法;动词及动词短语,语言知识运用,高中,上学期,英语,单选,"<think>
+题目要求选择一个动词填入空格，使句子逻辑通顺。句子结构为“Tom did not __ easily, but...”，后半句转折表示他愿意接受建议。关键点在于前后行为的对立性。
+
+选项分析：
+- **A. approach**（接近/处理）：""did not approach easily"" 表示“不易接近或处理”，与后半句“接受建议”关联较弱。
+- **B. wrestle**（斗争）：通常需搭配介词（如with），且“不轻易斗争”与“接受建议”无明显逻辑联系。
+- **C. compromise**（妥协）：“不轻易妥协”与“愿接受建议”形成合理对比（妥协可能涉及让步，接受建议可视为妥协的表现）。
+- **D. communicate**（沟通）：“不轻易沟通”与“接受建议”有一定关联，但不如“妥协”的对比强烈。
+
+结合语境“for a worthy cause”（为了有价值的事业），妥协更符合为达成目标而调整立场的逻辑，因此正确答案为C。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 词汇与语境理解  
+knowledge_tree: 动词辨析与逻辑关联  
+task_grade: 高中  
+task_semester: 全学年  
+task_subject: 英语  
+
+答案：C",1
+aeba0b20bee54a94a78ef7482f7eceb8,"The activity ­ $$\underline{}$$ by the Student Union is quite popular among us.
+",to organize,organizing,which organized,organized,D,"考查非谓语动词。根据主被动判定activity和organize之间是被动关系，故用过去分词organized作定语。故选D。
+",较易,高中;英语;知识点;词法;非谓语动词,词法-非谓语动词-分词-分词作定语-过去分词作定语,高中,上学期,英语,单选,"<think>
+题目要求选择正确的形式来填空，句子结构为“The activity ______ by the Student Union is quite popular among us”。分析如下：
+
+1. **被动语态**：主语“activity”是被学生会组织的，需用被动语态（be + 过去分词）。
+2. **选项分析**：
+   - **A. to organize**：不定式表目的或将来，不符合已完成动作的语境。
+   - **B. organizing**：现在分词表主动进行，但此处需被动。
+   - **C. which organized**：定语从句缺少被动结构（应为which was organized）。
+   - **D. organized**：过去分词可直接作后置定语，表被动，符合“活动被组织”的语义。
+3. **简化结构**：过去分词短语作定语时，可视为省略了“which was”的定语从句（即“the activity (which was) organized by...”）。因此，D选项正确。
+</think>
+
+difficulty：中等  
+knowledge_domain：语法（非谓语动词与被动语态）  
+knowledge_tree：英语语法体系中的分词作定语、定语从句简化规则  
+task_grade：高中  
+task_semester：全学期适用  
+task_subject：英语  
+
+答案：D",1
+4dfd976ae4354c7683361848c13b2be8,"They are trying to make sure that 5G terminals $$\underline{}$$ by 2022 for the Beijing Winter Olympics.
+",will install,will have been installed,are installed,have been installed,B,"考查动词时态和语态。句意：他们正努力确保在2022年北京冬奥会之前安装完5G终端。表示在将来某一时间以前已经完成或一直持续的动作，用将来完成时。 ""5G terminals"" 和 ""install"" 之间是被动关系，用被动语态。故选B。
+",较易,高中;英语;知识点;词法;词法,词法-被动语态-将来完成时的被动语态,高中,,英语,单选,"<think>
+这道题考查动词时态和语态的正确使用。句子主干为现在进行时（are trying），从句需用适当时态表达“到2022年完成安装”的语义。关键点如下：
+
+1. **被动语态**：5G终端是被安装的对象，排除主动语态选项A；
+2. **时间状语by 2022**：表示“截止到将来某个时间点完成的动作”，需用完成时态；
+3. **主从句时态逻辑**：主句为现在进行时（表示当前努力的目标），从句动作需在2022年前完成，属于“现在到将来”的时间范畴，应用将来完成时（will have done）；
+4. **选项分析**：
+   - B选项（will have been installed）符合“将来完成时被动语态”，精准匹配时间状语by 2022的语法要求；
+   - C选项（一般现在时被动）无法体现“截止时间前完成”的语义；
+   - D选项（现在完成时被动）暗示动作已结束，与主句“正在努力确保”的未完成性矛盾；
+   
+综上，正确答案为B。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 英语语法  
+knowledge_tree: 动词时态与被动语态  
+task_grade: 高中  
+task_semester: 全学年  
+task_subject: 英语  
+
+答案：B",1
+420ed99432534de8ae1fe627f42092e3,"Congratulations! You $$\underline{}$$ in English this term.
+",are making a progress,made great progresses,are making progress,have made a rapid progress,D,"考查现在完成时和动词词组。句意：祝贺！你这学期在英语上取得了飞速的进步。根据句意可知，这种进步是过去发生并且延续到现在的，并且对现在造成了影响，故用现在完成时。make a adj. progress为固定词组，意为 ""取得……的进步""。故选D。
+",较易,高中;英语;知识点;词法;冠词,语言知识运用,高中,下学期,英语,单选,"<think>
+首先，题目中的句子需要填入合适的动词时态和搭配。关键点在于“progress”是不可数名词，因此不能加复数或使用不定冠词“a”。选项B中的“progresses”和D中的“a rapid progress”均违反了这一规则，排除。选项A的“a progress”同样错误。选项C“are making progress”使用现在进行时，符合“this term”表示的持续动作，且“progress”不可数无需冠词，因此正确。
+</think>
+
+difficulty：中等  
+knowledge_domain：语法与词汇  
+knowledge_tree：不可数名词用法、动词时态（现在进行时）  
+task_grade：高中  
+task_semester：全学年适用  
+task_subject：英语  
+
+答案：C",0
+0f78c844cbc743f1aed1771d6b0b9f3e,"After the earthquake, the first thing the local government did was to provide $$\underline{}$$ for the homeless families.
+",accommodation,career,creativity,challenge,A,"考查名词辨析。句意：地震后，当地政府做的第一件事就是为无家可归的家庭提供住宿。A. accommodation 住宿；B. career 事业；C. creativity 创造力；D. challenge 挑战。根据句意故选A。
+",较易,高中;英语;知识点;词法;名词,单项选择,高中,上学期,英语,单选,"<think>
+题目大意是：地震后，当地政府做的第一件事是为无家可归的家庭提供什么。关键词是“homeless families”（无家可归的家庭）和“provide”（提供）。根据常识，地震后最紧急的需求是住所，因此需要填入与“住所”相关的词汇。分析选项：A. accommodation（住宿）符合语境；B. career（职业）与紧急需求无关；C. creativity（创造力）明显不相关；D. challenge（挑战）不符合政府救灾的正面行为。因此正确选项为A。
+</think>
+
+difficulty: 简单  
+knowledge_domain: 词汇应用  
+knowledge_tree: 名词词义辨析与语境匹配  
+task_grade: 高中  
+task_semester: 全学年通用  
+task_subject: 英语  
+
+答案：A",1
+c2afd47356d34642be1e9d789116fdc8,"—Mom, is it really necessary to remove those smaller weeds from the flowerbed? 
+
+—Yes, they are $$\underline{}$$ destructive to the flowers.
+",little more,no less,not a bit,not in the least,B,"考查词组。A. little more 稍多；B. no less不相上下；C. not a bit 一点也不；D. not in the least一点也不，绝不。—妈妈，真的有必要从花坛移除那些较小的杂草吗？—是的，他们对鲜花的破坏也一样大。故答案为B。
+",易,高中;英语;考查方式;完形填空;完形填空,完形填空-短语辨析,高中,上学期,英语,单选,"<think>
+题目要求选择正确的短语填入空格，使句子逻辑通顺。对话中，孩子质疑是否需要移除小花坛中的小杂草，母亲肯定回答，并指出这些杂草对花朵有破坏性。需要选择一个合适的副词短语来修饰形容词destructive。
+
+分析选项：
+A. little more：通常结构应为""a little more""，表示“稍微更多”，但此处缺少冠词，且与上下文逻辑不符。若用此选项，句意为“它们对花的破坏性稍微更多”，但母亲强调的是小杂草同样有害，而非更严重。
+B. no less：固定搭配""no less...than""表示“和...一样”，此处单独使用""no less destructive""意为“破坏性不亚于（其他杂草）”，符合母亲强调小杂草同样有害的语境。
+C. not a bit：意为“一点也不”，若选此选项，句意变为“它们对花完全没有破坏性”，与母亲肯定的回答矛盾。
+D. not in the least：与C类似，表示“丝毫不”，同样导致语义矛盾。
+
+综上，B选项""no less""既能体现比较关系（小杂草与大杂草破坏性相当），又符合语义逻辑。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 英语语法与词汇  
+knowledge_tree: 副词短语辨析与否定结构  
+task_grade: 高中  
+task_semester: 全学年  
+task_subject: 英语  
+
+答案：B",1
+851e2f6cea26441e80ea83d606c06432," $$\underline{}$$ your letter, I would have written back two days ago.
+",If I received,If I should receive,If I had received,If I could have received,C,"考查虚拟语气。句意：如果我收到你的信，我两天前就给你回信了。根据主句中的would have written可知，表示的是对过去的虚拟，所以if从句要用过去完成时。故选C。
+",较易,高中;英语;知识点;词法;虚拟语气,语言知识运用,高中,下学期,英语,单选,"<think>
+这道题考察的是与过去事实相反的虚拟语气。主句""I would have written back two days ago""使用了""would have + 过去分词""结构，表明这是对过去情况的虚拟。根据虚拟语气规则，对应的条件从句需要使用过去完成时（had + 过去分词）。选项C（If I had received）符合这一语法结构，其他选项中：A为一般过去时对应现在虚拟，B是未来可能性假设，D的could have received不符合虚拟条件句的基本结构。
+</think>
+
+difficulty: 中等难度  
+knowledge_domain: 语法  
+knowledge_tree: 虚拟语气/条件句  
+task_grade: 高中  
+task_semester: 全学年通用  
+task_subject: 英语  
+
+答案：C",1
+32beb7ced6bf49a799f2e3301062bd00,"The number of the students who took part in the competition ­ $$\underline{}$$ 500, but only a small number of them ­ $$\underline{}$$ chosen.
+",was; were,was; was,were; were,were; was,A,"考查主谓一致。句意：参加竞赛的学生数量有500，但是只有少量学生被选中。The number of……的数量，谓语动词用第三人称单数；a small number of少量的，谓语动词用复数。故选A。
+",较易,高中;英语;知识点;句法;主谓一致,句法-主谓一致-语法一致,高中,上学期,英语,单选,"<think>
+题目要求选择正确的动词形式填空。第一个空的主语是""The number of the students""，中心词是""number""，单数，所以用""was""。第二个空的主语是""a small number of them""，""a number of""修饰复数名词，主语为复数，因此用""were""。选项A符合这一分析。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 英语语法  
+knowledge_tree: 主谓一致  
+task_grade: 高中  
+task_semester: 全学年  
+task_subject: 英语  
+
+答案：A",1
+4243def9ff1f4aed8dace8754c1eb4f4,"The best method to $$\underline{}$$ the goal of containing the epidemic is to unite as many people as possible and form a powerful team.
+",accept,accelerate,accomplish,abandon,C,"考查动词辨析。accept 接受；accelerate 加速；accomplish 完成；实现；abandon 抛弃。根据横线后 goal 一词可知，此处指 ""实现目标"" ，用 accomplish 表示。句意：要实现遏制疫情的目标，最好的办法就是团结尽可能多的人，组成一个强大的队伍。故答案选：C。
+",较易,高中;英语;知识点;词法;动词及动词短语,单项选择,高中,下学期,英语,单选,"<think>
+这道题需要选择正确的动词来搭配""the goal""。句子表达的是“实现控制疫情目标的最佳方法是团结人们组成团队”。选项分析：
+- A. accept（接受）目标，但句意强调达成而非接受；
+- B. accelerate（加速）通常接过程而非目标；
+- C. accomplish（完成/实现），常与goal搭配，符合语境；
+- D. abandon（放弃）与句意矛盾。
+因此，正确答案是C。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 词汇与搭配  
+knowledge_tree: 动词辨析及固定搭配  
+task_grade: 高中  
+task_semester: 全学年  
+task_subject: 英语  
+
+答案：C",1
+10292049b8e443a69ef80e83b8ba6f97,"He was $$\underline{}$$ a teacher. He did what he could to help any student in trouble.
+",more than,no more,not more,more,A,"考查固定搭配。more than 不只是，超过。句意：他不仅仅是个老师。他尽其所能帮助任何有困难的学生。根据后句可知，他做得事情远远超过老师的身份，故选A。
+",较易,高中;英语;知识点;基础知识;词汇,基础知识-词汇-辨析,高中,下学期,英语,单选,"<think>
+题目要求选择正确的短语填空，句子表达“他不仅仅是老师，还尽力帮助学生”。分析选项：
+- A. more than：表示“不仅仅是”，符合语境，强调超出老师身份。
+- B. no more：表示“不再是”，与后半句帮助学生的行为矛盾。
+- C. not more：需搭配比较对象（如“than”），结构不完整。
+- D. more：单独使用需接than，结构不成立。
+根据句意和结构，选A最合理。
+</think>
+
+difficulty：中等  
+knowledge_domain：英语语法与词汇  
+knowledge_tree：固定短语与比较结构  
+task_grade：高中  
+task_semester：全学年  
+task_subject：英语  
+
+答案：A",1
+988c8a55556e44d9834636a32e8d67b6," $$\underline{}$$ us prepare for the exam, the teacher suggested reading through our notes.
+",To help,Helped,Helping,Being helped,A,"考查动词不定式。句意：为了帮助我们备考，老师建议通读笔记。根据句可知，此处为to do不定式作目的状语，表“为了……”。故选A。
+",较易,高中;英语;知识点;词法;非谓语动词,单项选择,高中,,英语,单选,"<think>
+题目中的空格位于句首，需要填入适当的形式来引导后面的主句。主句的主语是“the teacher”，谓语动词是“suggested”，宾语是动名词短语“reading through our notes”。句子结构表明，空格部分是一个状语，表示目的或伴随动作。  
+
+**选项分析**：  
+- **A. To help**：动词不定式作目的状语，表示“为了帮助我们准备考试”，符合逻辑且语法正确。  
+- **B. Helped**：过去分词表被动或完成，但主语“the teacher”是动作的发出者，主动关系不适用。  
+- **C. Helping**：动名词作状语需搭配介词（如“By helping”），此处无介词，语法不成立。  
+- **D. Being helped**：被动形式与句意矛盾，主语“the teacher”是主动帮助者。  
+
+综上，动词不定式“To help”作目的状语最合理，故选A。
+</think>
+
+difficulty：中等  
+knowledge_domain：非谓语动词  
+knowledge_tree：动词不定式作目的状语  
+task_grade：高中  
+task_semester：全学年  
+task_subject：英语  
+
+答案：A",1
+3827a497dcd5470fb59609ce1e09d493,"Pity that I missed the Women's Volleyball Match on Thursday. If only I $$\underline{}$$ the ticket in advance!
+",booked,had booked,would book,have booked,B,"考查虚拟语气。句意为：很遗憾我错过了星期四的女排比赛。要是我能提前订上票就好了！If only要是……就好了，表示与事实相反的愿望。本句所表达的与过去事实相反，谓语动词用过去完成时，B项正确。故选B。
+",较易,高中;英语;知识点;词法;虚拟语气,语言知识运用,高中,,英语,单选,"<think>
+题目考查虚拟语气中对过去情况的假设。主句""I missed the match""使用过去式表明事件已发生，""If only""引导的从句需要表达对过去的虚拟愿望。根据英语语法规则，表达与过去事实相反的愿望时，从句应使用过去完成时（had + 过去分词）。选项B""had booked""符合这一语法结构，其他选项A（一般过去时）、C（过去将来时）、D（现在完成时）均不适用于此虚拟语境。因此正确答案为B。
+</think>
+
+difficulty：中等难度  
+knowledge_domain：虚拟语气  
+knowledge_tree：条件句中的虚拟语气/愿望表达  
+task_grade：高中三年级  
+task_semester：第一学期  
+task_subject：英语  
+
+答案：B",1
+37272841db3647ee9dce047c99c51cca,"Eating properly and exercising $$\underline{}$$ make one enjoy a longer and healthier life.
+",normally,generally,regularly,directly,C,"考查副词词义辨析。句意：适当的饮食和定期的运动使人享有更长寿和更健康的生活。A项normally意为“正常地”；B项generally意为“一般地”；C项regularly意为“定期地”；D项directly意为“直接地”。这里强调的是健康生活的方式，故应该是定期的运动。故选C。
+",较易,高中;英语;知识点;词法;形容词和副词,语言知识运用,高中,上学期,英语,单选,"<think>
+这道题考察副词在句子中的正确使用。句子结构为动名词短语作主语（Eating properly and exercising），需要填入一个副词修饰动词“make”。句意是“正确饮食和锻炼______使人享有更长更健康的生活”。
+
+选项分析：
+- **A. normally**（正常地）：强调符合常规状态，但主语本身已包含“properly”（正确），此处不需要叠加状态描述。
+- **B. generally**（通常地）：表示普遍性，但句子强调行为方式而非结论的普遍性。
+- **C. regularly**（有规律地）：强调行为频率的规律性，符合健康常识（规律饮食和锻炼对健康至关重要）。
+- **D. directly**（直接地）：表示因果关系，但健康效果是长期积累的结果，而非直接即时作用。
+
+根据语境，句子强调通过“规律性行为”实现健康目标，因此选C。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 词汇运用与语境理解  
+knowledge_tree: 副词辨析/健康相关表达  
+task_grade: 高中  
+task_semester: 全学年通用  
+task_subject: 英语  
+
+答案：C",1
+981a8bf42f1249a4b76515973e3f7206,"Mr. Smith $$\underline{}$$ me to buy several $$\underline{}$$ eggs for the dinner.
+",asked; dozen,suggested; dozens of,had; dozen,persuaded; dozens of,A,"考查动词辨析和量词的用法。句意：史密斯先生让我为晚餐买几打鸡蛋。dozen的前面有several修饰，故dozen用原形，排除B、D两项。而ask的用法是ask sb. to do sth. , have的用法是have sb. do sth.。故选A。
+",较易,高中;英语;知识点;词法;量词,dozen,高中,,英语,单选,"<think>
+题目考查动词搭配和量词dozen的用法。首先分析第一个空：
+- A选项asked符合ask sb to do sth的结构；
+- B选项suggested后接动名词或从句，不能接不定式，排除；
+- C选项had的正确结构是had sb do（不带to），与题干中to buy冲突，排除；
+- D选项persuaded结构正确，但需结合第二个空判断。
+
+第二个空涉及dozen的用法：
+- dozen在具体数词（如several）后不加s，用单数形式（如several dozen eggs）；
+- dozens of用于非具体数量（如dozens of eggs，前面无数词）。
+
+选项A的several dozen符合语法规则，而D的dozens of在several后不适用。因此正确答案为A。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 英语语法  
+knowledge_tree: 动词搭配与量词用法  
+task_grade: 高中  
+task_semester: 全学年  
+task_subject: 英语  
+
+答案：A",1
+947bd8a93523438ba9509d92dc17cb0e,"The park $$\underline{}$$ life in the days of King Arthur is one of the main $$\underline{}$$ of the city.
+",modelled after; attractions,is modelled after; attraction,to model after; attraction,modelling after; attraction,A,"句意：这个公园模仿了亚瑟王时代的生活，是这个城市的主要景点之一。be modelled after为固定短语，意为 ""模仿"" ，被修饰词the park与model after之间为被动关系，故使用过去分词短语做定语。attraction此处表示 ""吸引人的事物"" ，由抽象名词转化为具体名词。由前面的one of可知，此处应使用attraction的复数形式。
+",较易,高中;英语;知识点;词法;名词,语言知识运用,高中,,英语,单选,"<think>
+这道题考察的是非谓语动词和名词单复数的用法。首先分析第一个空，句子主语是""The park""，后面需要填入一个修饰成分描述公园的特征。""model after""意为“模仿”，此处需要被动语态，因为公园是被模仿的，所以用过去分词""modelled after""作后置定语，相当于定语从句的省略形式（which is modelled after...）。选项A和D的第一个空分别为modelled after（正确）和modelling after（主动语态错误）。
+
+第二个空的关键在于""one of the main...""结构，其后必须接复数名词，因为“one of + 复数”表示“多个中的某一个”。选项A的attractions是复数形式，符合语法要求；而选项B、C、D的第二个空均为单数形式attraction，均错误。因此正确答案是A选项。
+</think>
+
+difficulty：中等难度  
+knowledge_domain：语法  
+knowledge_tree：非谓语动词/名词单复数  
+task_grade：高中  
+task_semester：全学年  
+task_subject：英语  
+
+答案：A",1
+1393b9eeae894f50a7d947a03b52a0b5,"Barbara is easy to recognize, as she's the only one of the women who $$\underline{}$$ evening dress.
+",wear,wears,has worn,have worn,B,"考查主谓一致和时态。 ""the only one of …"" 为先行词时，定语从句修饰的是one，即one是主语，而非后面的复数women，根据主谓一致的原则，谓语动词应该用单数，排除A，D。另外，从 ""is"" 可以看出句子要用一般现在时，排除C。故选B。
+",较易,高中;英语;知识点;词法;词法,语言知识运用,高中,,英语,单选,"<think>
+这道题考查定语从句中谓语动词的单复数及时态选择。句子结构为：Barbara is easy to recognize, as she's the only one of the women who __ evening dress。关键点在于判断定语从句的先行词是""the only one""还是""the women""。
+
+根据语法规则，当出现""the only one of the + 复数名词""结构时，定语从句的先行词是单数名词""the only one""，因此从句谓语动词用单数。本句主句使用现在时（is），且没有时间状语暗示完成时态，因此需要选择一般现在时的单数形式。选项B(wears)符合第三人称单数要求，而选项A(wear)是复数形式，C/D涉及完成时态与语境不符。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 英语语法  
+knowledge_tree: 定语从句/主谓一致  
+task_grade: 高中  
+task_semester: 全学期通用  
+task_subject: 英语  
+
+答案：B",1
+b5008048f768413bbcec6c364abdfd8f,"determ$$\underline{}$$ne
+",rem$$\underline{}$$nd,min$$\underline{}$$ster,sm$$\underline{}$$le,t$$\underline{}$$dy,B,"该字母的读音为/i/，其余排除项的读音为/ai/。
+",中档,高中;英语;知识点;基础知识;语音,基础知识-语音,高中,,英语,单选,"<think>
+这道题目要求补全单词""determ$$\underline{}$$ne""中的缺失字母。正确拼写应为""determine""，中间的缺失部分是字母""i""和""n""。分析各选项：
+
+1. **选项A. rem$$\underline{}$$nd**：正确拼写是""remind""，缺失字母为""i""和""n""，与原题空缺部分完全一致。
+2. **选项B. min$$\underline{}$$ster**：正确拼写是""minister""，缺失字母为""i""和""s""，不符合。
+3. **选项C. sm$$\underline{}$$le**：正确拼写是""smile""，缺失字母为""i""和""l""，不符合。
+4. **选项D. t$$\underline{}$$dy**：正确拼写是""tidy""，缺失字母为""i""（仅一个字母，题目空缺为两位），不符合。
+
+通过对比，只有选项A的缺失字母组合与原题完全匹配。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 英语词汇拼写  
+knowledge_tree: 单词结构与元音字母组合  
+task_grade: 高中  
+task_semester: 全年级通用  
+task_subject: 英语  
+
+答案：A",0
+11bc907ec5bf4ee1a0570038eeb4421d,"Mosquitoes are $$\underline{}$$ for many diseases, including Ebola.
+",to blame,blamed,to be blamed,blaming,A,"考查非谓语动词。句意：蚊子是许多疾病的罪魁祸首，包括埃博拉病毒。blame是及物动词，一般用于blame sb.(for sth.)结构中，但常用习惯用法be to blame表示被动意义，意为""应受责备的，对某事应负责任的""。故选A。
+",较易,高中;英语;知识点;词法;被动语态,单项选择,高中,上学期,英语,单选,"<think>
+这道题考查动词blame的固定搭配用法。句子结构是""be to blame for...""，表示""应对...负责""，其中to blame为主动形式表被动含义，属于固定表达。选项A的""to blame""符合这一用法，而选项B的被动语态、选项C的被动不定式、选项D的现在分词均不符合这一固定搭配。虽然选项C在语法上看似可能成立，但英语习惯上只用主动不定式表达此意。因此正确答案应为A。
+</think>
+
+difficulty: 中等偏易  
+knowledge_domain: 英语语法  
+knowledge_tree: 动词固定搭配/非谓语动词  
+task_grade: 高中  
+task_semester: 全学年通用  
+task_subject: 英语  
+
+答案：A",1
+b9a4fd474a3b4e59b352d3b7c4c05556,"The match has been cancelled $$\underline{}$$ the bad weather conditions.
+",apart from,due to,except for,instead of,B,"考查介词短语辨析。选项分析：A. apart from 除……之外 ；B. due to 由于；C. except for 除了……以外；D. instead of 代替；而不是…。根据句意，前后是因果关系，应为due to。句意：由于天气恶劣，比赛被取消了。故正确答案为：B。
+",易,高中;英语;题型;填空题;填空题,词法-介词及介词短语-介词短语及其辨析,高中,下学期,英语,单选,"<think>
+这道题考查的是介词短语的用法。句子需要表达“比赛因恶劣天气取消”，因此空格处需填入表原因的短语。分析各选项：
+
+- **A. apart from** 表示“除了…之外还有”，与句意不符。
+- **B. due to** 意为“由于”，直接说明原因，符合语境。
+- **C. except for** 表示“除…之外”，用于排除例外情况，此处不适用。
+- **D. instead of** 意为“代替/而不是”，逻辑不符。
+
+根据句意和短语功能，正确答案应为 **B. due to**。
+</think>
+
+difficulty：中等  
+knowledge_domain：英语语法与词汇  
+knowledge_tree：介词短语辨析  
+task_grade：高中  
+task_semester：全学期适用  
+task_subject：英语  
+
+答案：B",1
+8f7374123942434e8a2623540ff6111e,"One of the miners $$\underline{}$$ underground for a long time last week.
+",was trapped,have trapped,has trapped,were trapped,A,"考查动词时态。句意：上周，一名矿工被困在地下很长时间。根据last week可知，事情发生在过去，用一般过去时，排除B、C；由于主语是One of the miners，指的是单数，所以谓语动词要用相应的单数形式，排除D。故选A。
+",较易,高中;英语;知识点;词法;被动语态,词法-被动语态-一般过去时的被动语态,高中,,英语,单选,"<think>
+这道题考察的是动词时态和被动语态的应用。句子主语是""One of the miners""，其中""one""是单数主语，需要单数谓语动词。时间状语""last week""表明动作发生在过去，需用一般过去时。被动语态的结构为be动词+过去分词，因此正确形式应为was trapped（单数过去被动式）。选项D的were trapped主谓不一致，B和C的现在完成时态与时间状语冲突。最终选择A选项。
+</think>
+
+difficulty：中等偏易  
+knowledge_domain：英语语法  
+knowledge_tree：动词时态与被动语态  
+task_grade：高中  
+task_semester：第一学期  
+task_subject：英语  
+
+答案：A",1
+fd0cf57d8c164477af39be09d12e7c43,"While shopping, people sometimes can't help $$\underline{}$$ into buying something they don't really need.
+",to persuade,persuading,being persuaded,be persuaded,C,"考查固定搭配。 can't help doing 意思是情不自禁做某事，且是被劝说，故用被动语态，being done，故选C。
+",较易,高中;英语;知识点;词法;非谓语动词,语言知识运用,高中,下学期,英语,单选,"<think>
+这道题考查固定搭配和动名词的被动形式。题目中的“can't help”后接动名词形式，构成固定搭配can't help doing sth.。根据句意，主语people是被说服的对象，应该使用被动语态。选项C（being persuaded）是动名词的被动形式，符合句子的语法和语义要求。其他选项要么不符合固定搭配结构（A/D），要么语态错误（B）。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 英语语法  
+knowledge_tree: 非谓语动词/动名词/被动语态  
+task_grade: 高中  
+task_semester: 全学年  
+task_subject: 英语  
+
+答案：C",1
+516a54ec4a9e416dad5828e547da499e," $$\underline{}$$ is generally agreed that, for those $$\underline{}$$ lives are rich and colorful, a new hobby or a new skill is an approach to widening their horizons.
+",It; who,As; whom,It; whose,As; that,C,"考查形式主语和定语从句。根据上句that后的句子为真正主语，同时根据句型It is generally agreed that…，人们普遍认为……，可知应选择it做形式主语，排除B和D选项；又根据下句those为先行词，同时在定语从句中做lives的定语可知关系词应选择whose，排除A选项。句意：人们普遍认为，对于生活丰富多彩的人来说，新的爱好或新技能是拓宽视野的一种方法。故选：C。
+",较易,高中;英语;知识点;词法;代词,单项选择,高中,下学期,英语,单选,"<think>
+题目中的句子结构需要确定两个空格处的正确选项。第一个空格出现在句首，后面接“is generally agreed that”，这提示此处应使用形式主语“It”，构成“It is agreed that...”的固定句型。而“As”在此处不合适，因为后面没有接从句的结构。第二个空格位于“for those ____ lives are rich and colorful”，这里需要关系代词引导定语从句修饰“those”。由于“lives”是名词，且需要表示所属关系（即“那些生活丰富多彩的人”），应使用所有格关系代词“whose”。因此，正确选项为C（It; whose）。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 语法  
+knowledge_tree: 形式主语与定语从句  
+task_grade: 高中  
+task_semester: 全学年  
+task_subject: 英语  
+
+答案：C",1
+15e304dcfb514d0ea6d837fd940e26ae,"—You think I shouldn't say how I feel? 
+
+— $$\underline{}$$ . Do what you like.
+",Same to you,That's for sure,I hope so,I don't care,D,"考查情景交际。句意：—你以为我不该说我的感受吗？—我不在乎，做你喜欢做的。A. Same to you 你也一样；B. That's for sure 当然；C. I hope so 我希望如此；D. I don't care 我不在意。根据Do what you like.可知。故项D项。
+",较易,高中;英语;知识点;基础知识;情景交际,单项选择,高中,上学期,英语,单选,"<think>
+题目中的对话是询问对方意见后的回应。第一个人问是否不该表达感受，第二个人回答“做你想做的”。选项需要符合前后逻辑。选项D“I don't care”（我不在乎）表明回答者对第一人的选择持中立态度，与后文“Do what you like”（做你想做的）形成自然衔接。其他选项中，A用于对称场景（如祝福），B表达肯定但与后文矛盾，C带有主观期望但无法匹配后文的放任态度。因此D最符合语境。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 交际用语  
+knowledge_tree: 日常对话中的回应与态度表达  
+task_grade: 高中  
+task_semester: 全学年通用  
+task_subject: 英语  
+
+答案：D",1
+a701f7cd7a7542c68becdac0fd58ec98,"The church tower which $$\underline{}$$ will be open to tourists soon. The work is almost finished.
+",is built,is building,is being built,has been built,C,"考查动词时态和语态。句意：正在被建的教堂塔楼不久就会开放给游客，这项工程几乎要完成了。由""The work is almost finished.""可知，这个教堂现在还在建，The church tower是被建，应用被动语态，因为现在还在做，故用现在进行时态的被动语态。故选C。
+",较易,高中;英语;知识点;词法;被动语态,词法-被动语态-现在进行时的被动语态,高中,上学期,英语,单选,"<think>
+这道题考查动词时态和语态的正确使用。句子主语是""The church tower""，后接定语从句。主句使用将来时（will be open），补充说明（work is almost finished）表明建造工程接近尾声。分析选项：
+
+C选项""is being built""是现在进行时的被动语态，表示教堂塔楼""正在被建造中""，与后文""工程即将完成""的时间逻辑一致，说明建造过程即将结束但尚未完全完成。其他选项：
+A一般现在时被动表常态（不符合语境）；
+B主动语态错误（塔楼不能自己建造）；
+D现在完成时被动强调已完成（与""almost finished""矛盾）。
+</think>
+
+difficulty: 中等难度  
+knowledge_domain: 英语语法  
+knowledge_tree: 动词时态与语态  
+task_grade: 高中  
+task_semester: 全学年  
+task_subject: 英语  
+
+答案：C",1
+9c82e781875d41e09ec0319549ce43ae,"His uncle, $$\underline{}$$ you met at my home the other day, is a teacher of physics.
+",with who,whose,which,whom,D,"从句中缺少宾语，所以应当用whom引导宾语从句，whom指代先行词his uncle。
+",易,高中;英语;知识点;句法;句子分类（结构）,单项选择,高中,,英语,单选,"<think>
+这道题考察定语从句中关系代词的用法。句子主干为""His uncle is a teacher of physics""，中间的插入部分是一个非限制性定语从句，修饰先行词""his uncle""。从句部分""you met at my home the other day""缺少宾语，指代""his uncle""（人），因此需要关系代词作动词met的宾语。在定语从句中，当关系代词作宾语且指代人时，正式场合应使用whom。选项分析：A选项""with who""介词使用错误且who应为宾格；B选项""whose""表所有格不符；C选项""which""用于指物；D选项""whom""正确作宾语。故选D。
+</think>
+
+difficulty: 中等偏易  
+knowledge_domain: 英语语法  
+knowledge_tree: 定语从句/关系代词  
+task_grade: 高中  
+task_semester: 全学年  
+task_subject: 英语  
+
+答案：D",1
+2c22bc299c6b4702b3f9ed1178ee57a9,"暂无解析
+",The specials are the man's best choice.,She is fully confident of the quality-steak.,Her house is a suitable place for having steak.,The man should find by himself the nicest wine.,A,,易,高中;英语;知识点;听力;听力,听力-日常,高中,,英语,单选,"<think>
+这道题属于听力或阅读理解中的对话理解题，考查学生根据对话内容推断说话者意图的能力。题目要求判断女士的陈述或建议的核心内容。通过分析选项：
+
+A选项提到特价菜是男士的最佳选择，但未提及对话中是否有推荐特价菜的内容。
+B选项强调女士对牛排质量的自信，若对话中女士明确肯定牛排质量，则为正确选项。
+C选项涉及场所适用性，若女士提到自家（如餐厅）适合用餐才成立，但未明确体现。
+D选项建议男士自行选酒，需对话中女士未推荐酒类或让男士决定。
+
+假设典型场景：女士作为服务人员，可能自信推荐牛排质量（选项B），同时让男士自主选酒（选项D）。但问题若聚焦核心意图，B更可能为答案，因“fully confident”直接体现态度，而D可能是附加信息。结合常见出题逻辑，正确答案应为B。
+</think>
+
+difficulty：中等  
+knowledge_domain：听力理解/对话推断  
+knowledge_tree：语境分析、说话者意图判断  
+task_grade：高中  
+task_semester：全年级通用  
+task_subject：英语  
+
+答案：B",0
+b061a15172584036b3514976ac82c314,"We must $$\underline{}$$ our unity in protection of blue sky from pollution.
+",lose,strengthen,divide,ban,B,"考查动词词义辨析。句意：我们只有加强团结合作，才能保护蓝天远离污染。A. lose失去；B. strengthen加强；C. divide（使）分开，分散；D. ban明令禁止。故选B。
+",中档,高中;英语;题型;单项选择;单项选择,语言知识运用,高中,上学期,英语,单选,"<think>
+这道题考查动词的辨析。句子的大意是“我们必须加强团结以保护蓝天免受污染”。根据句意，空格处需要一个表示“加强”或“巩固”的动词。选项分析如下：
+
+- A. lose（失去）与句意矛盾，不符合保护蓝天的目标；
+- B. strengthen（加强）符合上下文逻辑，表示强化团结；
+- C. divide（分裂）与句意完全相反；
+- D. ban（禁止）无法与""unity""形成合理搭配。
+
+结合语境与动词搭配，""strengthen our unity""既符合语法规则，也符合环境保护需要团结的语义逻辑。
+</think>
+
+difficulty: 中等难度  
+knowledge_domain: 词汇辨析  
+knowledge_tree: 动词词义与语境搭配  
+task_grade: 高中  
+task_semester: 全学年通用  
+task_subject: 英语  
+
+答案：B",1
+15ae1a96f4f84ab78a2b885ca999e588,"I was taught to sit quietly in class and not to speak $$\underline{}$$ someone asked me a question.
+",when,unless,because,if,B,"考查连词。句意：我被教导要静静地坐在课堂上不说话除非有人问我问题。A. when当……时候；B. unless除非；C. because因为；D. if如果。根据句意可知，用unless引导条件状语从句。故选B。
+",较易,高中;英语;知识点;词法;连词,单项选择,高中,上学期,英语,单选,"<think>
+这道题考察连词的选择，需要根据句意和逻辑关系判断正确选项。原句意为“我被教导在课堂上安静坐着，不要说话，除非有人问我问题。” 主句“sit quietly and not speak”是被要求的行为，而“someone asked me a question”是例外条件。此时需要表达“只有在特定条件下才能打破规则”，即“除非有人提问（否则不发言）”。 
+
+选项分析：
+- **B. unless**（除非）：表示“只有在...条件下才不执行主句动作”。符合“不发言，除非被提问”的逻辑。
+- **A. when**（当...时）：强调时间同步性，但原句侧重条件而非时间，排除。
+- **C. because**（因为）：表因果关系，但原句无因果关联，排除。
+- **D. if**（如果）：引导条件句，但需注意逻辑方向。若选D，句意变为“如果有人提问，我不发言”，与题意矛盾。而unless相当于“if not”，更符合“无人提问时不发言”的语义。
+
+因此，正确答案为B。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 语法（连词辨析）  
+knowledge_tree: 状语从句/条件状语从句  
+task_grade: 高中  
+task_semester: 全学年  
+task_subject: 英语  
+
+答案：B",1
+d850c97f4d204dc7abd65dd79a5adc0a,"The company has got $$\underline{}$$ from many users both at home and abroad for top-quality products and services.
+",benefit,apology,credit,envy,C,"考查名词的辨析。根据句意是""得到国内外用户的好评""。benefit""利益，好处""；apology""道歉""；credit ""信誉，信用"" ；envy ""羡慕，嫉妒"" 。get credit for ""因……而得到好评"" ，故答案为C。
+",较易,高中;英语;知识点;词法;名词,单项选择,高中,上学期,英语,单选,"<think>
+题目要求选择合适的名词填入句子，使句意通顺。句子大意是“该公司因其优质产品和服务而获得了国内外用户的____”。分析选项：
+
+- A. benefit（利益）：常搭配为“get benefit from”，但此处主语是公司，得到用户的“利益”不合逻辑。
+- B. apology（道歉）：公司因优质服务获得用户的“道歉”明显矛盾，排除。
+- C. credit（信誉/赞扬）：“get credit from”是常见搭配，表示获得认可，符合语境。
+- D. envy（嫉妒）：用户可能羡慕公司，但“获得嫉妒”与积极语境不匹配。
+
+综上，C选项最符合句意和搭配习惯。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 词汇辨析与固定搭配  
+knowledge_tree: 名词词义及动词短语用法  
+task_grade: 高中  
+task_semester: 全学年  
+task_subject: 英语  
+
+答案：C",1
+ed1f95e294104504927ebef99740ac9f," $$\underline{}$$ of the forest $$\underline{}$$ covered with trees of broad leaves, while the rest pine trees.
+",Three quarters; is,Three quarters; are,Three fourths; are,Three fourth; is,A,"核心短语/句式：three quarters: 四分之三；be covered with：被……覆盖
+
+翻译：在那个国家四分之三的小糖被树木覆盖。
+
+考查英语分数的用法，表示分数时，分子须用基数词，分母须用序数词。当分子是1以上的任何数时，分母须用复数形式。3/4：three quarters或three fourths，分数作主语时，其后的谓语动词应根据分数后面的名词形式来决定，句中的名词land为不可数名词形式，谓语动词be应用单数形式is, B, C, D分数或be动词形式错误，故选A。
+",较易,高中;英语;知识点;词法;数词,词法-数词-基序混用-小数、分数和百分数,高中,上学期,英语,单选,"<think>
+这道题考查分数的表达及主谓一致。首先，第一个空需要确定分数的正确形式。选项D的""Three fourth""错误，正确形式应为""Three fourths""或""Three quarters""，因此排除D。接下来分析主谓一致：主语是""Three quarters/Three fourths of the forest""，其中""forest""是单数不可数名词。根据语法规则，当分数修饰不可数名词或单数名词时，谓语动词用单数形式（is）。因此，选项B和C的第二个空""are""错误。选项A和C的第一个空均正确（Three quarters/Three fourths），但选项C的第二个空""are""不符合主谓一致规则。最终，正确答案为选项A（Three quarters; is）。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 语法（分数表达及主谓一致）  
+knowledge_tree: 英语语法体系 -> 名词短语与谓语动词一致性 -> 分数与百分数的主谓一致  
+task_grade: 高中  
+task_semester: 全学期  
+task_subject: 英语  
+
+答案：A",1
+3c95d9456b8d49f6937525506599ab0f,"Changing the way I spent on fast food not only helped my budget, but improved my weight. In the first month I was able to get rid of 5 pounds by simply changing the way I approached spending on fast food. Now I am more likely to bring my lunch than to buy it. I am not upset, but empowered to make positive choices to improve my life.
+
+We can infer from the last paragraph that $$\underline{}$$ .
+",envelope budget is good for health,the budget means a pressure on life,it is unusual to make some changes,it is hard to enjoy a healthy lifestyle,A,"推测要从文章本身出发进行推测，从作者的讲述中找到依据进行推测，依据可能不是具体的某一句，而是存在于全文或全段。本题 ""I"" 先说改变对快餐的消费方式不仅帮我省钱，还减轻了重量。接着举例说第一个月减少了5磅，积极的选择改进了我的生活，由此综合起来进行推断，故选A。
+",较易,高中;英语;题型;阅读理解;阅读理解,读,高中,,英语,单选,"<think>
+题目要求从最后一段推断出正确选项。段落描述了作者通过改变快餐消费方式，不仅节省预算还减轻了体重，并感到自己更有能力做出积极选择。选项中：
+
+- **A选项**提到“信封预算法对健康有好处”。原文虽未明确提及“信封预算法”，但作者通过改变消费方式（如减少快餐支出）实现了预算和健康的双赢。若将“改变消费方式”广义理解为一种预算管理方法（如信封预算法），则A的结论合理。
+  
+- **B选项**认为“预算意味着生活压力”，但文中作者明确表示“没有感到沮丧（not upset）”，反而感到“被赋能（empowered）”，与B的负面表述矛盾。
+  
+- **C选项**说“做出改变是不寻常的”，但段落未提及改变是否常见，属于无依据推断。
+  
+- **D选项**称“很难享受健康生活方式”，但作者通过简单改变就实现了健康改善，与D的“困难”相悖。
+
+综上，尽管原文未直接提到“信封预算法”，但段落核心逻辑是“预算方式的改变带来健康益处”，选项A最贴合这一主旨。
+</think>
+
+difficulty：中等  
+knowledge_domain：阅读理解（推断题）  
+knowledge_tree：英语考试中的推理能力，通过上下文提取隐含信息  
+task_grade：高中  
+task_semester：全学年通用  
+task_subject：英语  
+
+答案：A",1
+0f9a0e5a825e49aba6ddaf8499da8ff1,"Mother gave me a promise $$\underline{}$$ I made progress in my English, she would take me to travel.
+",that,that if,that whether,whether,B,"考查同位语从句和条件状语从句。句意：妈妈答应我，如果我的英语进步了，她会带我去旅行。根据句子结构分析可知，I made progress in my English, she would take me to travel为同位语从句，解释说明a promise，故应用that来引导。 I made progress in my English为后句的条件状语从句，用if来引导。故选B。
+",易,高中;英语;知识点;句法;句子分类（结构）,语言知识运用,高中,下学期,英语,单选,"<think>
+这道题考察同位语从句和条件状语从句的结合使用。主句中的promise需要一个同位语从句来说明其内容，故用that引导。而从句内部存在条件关系，即“如果我取得进步”，因此需要if来引导条件状语从句。选项B的that if正确连接了这两个部分，符合语法结构。其他选项中，A缺少条件连接词，C中的whether不适用条件句，D则缺少同位语从句的引导词that。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 语法  
+knowledge_tree: 名词性从句（同位语从句）、状语从句（条件）  
+task_grade: 高中  
+task_semester: 高二  
+task_subject: 英语  
+
+答案：B",1
+1393b9eeae894f50a7d947a03b52a0b5,"Barbara is easy to recognize, as she's the only one of the women who $$\underline{}$$ evening dress.
+",wear,wears,has worn,have worn,B,"考查主谓一致和时态。 ""the only one of …"" 为先行词时，定语从句修饰的是one，即one是主语，而非后面的复数women，根据主谓一致的原则，谓语动词应该用单数，排除A，D。另外，从 ""is"" 可以看出句子要用一般现在时，排除C。故选B。
+",较易,高中;英语;知识点;词法;词法,语言知识运用,高中,,英语,单选,"<think>
+这道题考查的是定语从句中的主谓一致及时态用法。句子结构为“the only one of the women who __ evening dress”，关键在于确定定语从句的先行词。根据语法规则，“the only one of the + 复数名词”结构中，定语从句的先行词是“the only one”（单数），因此从句谓语动词需用单数形式。选项中只有B（wears）和C（has worn）是单数形式。再结合时态，原句描述的是Barbara的常态特征（容易认出），应使用一般现在时，而非完成时。因此正确答案为B。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 英语语法  
+knowledge_tree: 定语从句的主谓一致及时态  
+task_grade: 高中  
+task_semester: 全学年  
+task_subject: 英语  
+
+答案：B",1
+1479c25e25bc42e19140210c8f73442e,"Autism is a lifelong disability that affects how people interact with others. While the exact cause of autism is unknown, its development in children has been linked to various factors—including zinc deficiency （锌缺乏）.
+
+According to a paper published in Frontiers in Molecular Neuroscience, the researchers demonstrated how zinc shapes synapses （突触） during their early development. ""Autism is associated with variants （变异） of genes involved in the formation and maturation of synapses, "" said Sally Kim, lead author of the study from Stanford University School of Medicine.
+
+The team found that when a brain signal was transferred via a synapse, zinc entered the target neuron （神经元）， where it could combine two proteins, SHANK2 and SHANK3. Those proteins cause changes in the composition and function of the synapse.
+
+The finding that zinc shapes the development of synapses via SHANK proteins suggests that a lack of zinc during development could potentially  damage the function of synapses, which enable brain cells to communicate with one another.
+
+…
+
+It's important to note, however, that at present it isn't possible to make any concrete conclusions or begin recommending that children take zinc supplements.
+
+What do we know about autism according to the passage? 
+",It is mainly caused by zinc deficiency.,It is a common mental illness among children.,It is associated with specific variants of genes.,It can be cured with the latest advance in neuroscience.,C,"细节理解题。根据文章第二段中“Autism is associated with variants (变异) of genes involved in the formation and maturation of synapses.(自闭症与参与突触形成和成熟的基因变异有关)”可知，自闭症和基因变异有关。故选C。
+",中档,高中;英语;题型;阅读理解;阅读理解,科学与技术-科技发展与信息技术创新,高中,,英语,单选,"<think>
+根据文章内容分析：
+
+1. **选项A**：文中提到自闭症的发展与多种因素有关，包括锌缺乏，但并未指出是主要原因。原文使用""including zinc deficiency""说明这只是其中一个因素，故A错误。
+
+2. **选项B**：文章描述自闭症为“终身残疾”，而非“精神疾病”，且未提及“常见性”，因此B不正确。
+
+3. **选项C**：第二段明确提到自闭症与“突触形成和成熟相关基因的变异”有关（""associated with variants of genes...""），与C选项完全吻合，故C正确。
+
+4. **选项D**：文中未提及自闭症可被治愈，且最后一段强调“目前无法得出具体结论”，因此D错误。
+
+综上，正确答案为C。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 阅读理解/生物学与医学  
+knowledge_tree: 自闭症相关因素、基因与突触发展的关联  
+task_grade: 高中  
+task_semester: 全学年  
+task_subject: 英语  
+
+答案：C",1
+7b489780742644e893925214dbb0785b," $$\underline{}$$ did they actually break the rules of the game. It was unfair to punish them.
+",At no time,In no time,Right away,At once,A,"考查介词，句意：实际上他们从未违反比赛规定，惩罚他们不公平。A.At no time ""绝不，从来没有"" ；B.In no time ""马上，立即"" ；C.Right away ""立刻"" ；D.At once ""同时，一起；立即"" 。根据句意强调的是他们从未违反比赛规定，且At no time置于句首，句子部分倒装。故选A。
+",较易,高中;英语;知识点;词法;介词及介词短语,语言知识运用,高中,下学期,英语,单选,"<think>
+这道题考查倒装句的用法。句子结构为倒装，空格后是助动词did，说明前面需要一个否定副词短语引导倒装。句意要求表达“他们从未违反规则”，因此需要否定意义的选项。A选项""At no time""（从不）是否定短语，符合倒装条件。B选项""In no time""（立刻）是肯定意义，C和D选项均为肯定副词短语，都不能引导倒装。故选A。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 语法  
+knowledge_tree: 倒装句/否定副词前置结构  
+task_grade: 高中  
+task_semester: 全学年  
+task_subject: 英语  
+
+答案：A",1
+68cae49012d140279df4957a05fadb99," $$\underline{}$$ is Virginia woolf's most autobiographical novel, which develops a series of thoughts rather than a plot, centering on thames like women's role in society, death and change.
+",The Garden Party,The Green Room,To the Lighthouse,Daisy Miller,C,"考查英语常识。《到灯塔去》是弗吉尼亚·伍尔夫最具自传性的小说，它以泰晤士河为中心，围绕女性在社会中的角色、死亡和变化展开了一系列的思考而非情节。A.花园聚会；B.绿色房间；C.到灯塔去；D.黛西·米勒。根据后面弗吉尼亚·伍尔夫最具自传性的小说可知此题选C。
+",较易,高中;英语;知识点;基础知识;文化常识,语言知识运用,高中,下学期,英语,单选,"<think>
+这道题目考查的是弗吉尼亚·伍尔芙作品的知识。题干中的关键信息包括“最具自传性的小说”“以思想而非情节展开”以及主题涉及“女性社会角色、死亡和变化”。首先排除非伍尔芙作品的选项：A选项《园会》是凯瑟琳·曼斯菲尔德的作品，D选项《黛西·米勒》是亨利·詹姆斯的作品。B选项《绿屋》并非伍尔芙的知名作品。C选项《到灯塔去》是伍尔芙的代表作之一，具有自传性元素（以父母为原型），采用意识流手法强调思想而非传统情节，主题涉及家庭关系、时间流逝和艺术追求，与题干中“女性角色、死亡和变化”高度吻合。题目中“thames”可能为“themes”（主题）的拼写错误，进一步支持C选项的正确性。
+</think>
+
+difficulty：中等  
+knowledge_domain：英美文学  
+knowledge_tree：20世纪现代主义文学/弗吉尼亚·伍尔芙作品分析  
+task_grade：高中  
+task_semester：高三  
+task_subject：英语  
+
+答案：C",1
+031ec7fe962d4cfd9ca0c34c9a6748af,"The old man comes here $$\underline{}$$ every Friday to buy some vegetables and fruit.
+",naturally,regularly,confidently,softly,B,"考查副词辨析。句意：这位老人每星期五都会定期来这里买一些蔬菜和水果。A.naturally 自然地；B.regularly 定期地；C.confidently 自信地；D.softly 轻声地。根据空后的every Friday可知，这里指“定期地”。故选B。
+",易,高中;英语;知识点;词法;形容词和副词,词法-形容词和副词-副词-副词及其短语辨析-常见副词辨析,高中,上学期,英语,单选,"<think>
+这道题考察副词在句子中的正确使用。句子描述“老人每个星期五都来这里买蔬菜和水果”，空格处需要填入表示“定期、有规律”的副词。关键线索是时间状语“every Friday”，强调动作的规律性。选项分析如下：
+
+A. naturally（自然地）与规律性无关；
+B. regularly（定期地）直接对应“every Friday”的重复性；
+C. confidently（自信地）与购物场景无关；
+D. softly（轻柔地）修饰动作方式不适用。
+
+正确选项应为B. regularly，它准确对应时间状语表达的规律性特征。
+</think>
+
+difficulty: 简单题  
+knowledge_domain: 词汇运用  
+knowledge_tree: 副词辨析/频率副词  
+task_grade: 高中一年级  
+task_semester: 上学期  
+task_subject: 英语  
+
+答案：B",1
+49f4d66c7a794ea4bd38e344f5af3255,"—Susan, could you give me some advice on how to lose weight? 
+
+—Well, I think keeping $$\underline{}$$ balanced diet can really make $$\underline{}$$ difference.
+",a; a,/; a,a; the,/; the,A,"考查冠词。句意：—苏珊，你能给我一些关于如何减肥的建议吗？—好的，我认为保持均衡饮食习惯能起很重要作用。keep a balanced diet保持均衡饮食；make a difference起重要作用。以上均为固定搭配，故答案为A。
+",较易,高中;英语;知识点;词法;冠词,the,高中,上学期,英语,单选,"<think>
+这道题考查冠词的使用。第一空在“keeping ___ balanced diet”中，diet是可数名词，此处表示“一种平衡的饮食”，需用不定冠词“a”。第二空为固定搭配“make a difference”，表示“起作用”，因此填“a”。选项A（a; a）符合要求。其他选项中，B省略了第一空的冠词，但diet需加冠词；C和D的“the”不符合固定搭配。故选A。
+</think>
+
+difficulty：中等  
+knowledge_domain：语法（冠词）  
+knowledge_tree：冠词的基本用法与固定搭配  
+task_grade：高中  
+task_semester：全学期  
+task_subject：英语  
+
+答案：A",1
+614fa7bec9c84d07ae2955d70b1bb0d1," $$\underline{}$$ , I believe, and you will find him very outgoing.
+",Having a talk with Tom,Given a talk with Tom,One talk with Tom,If you have a talk with Tom,C,"考查固定句型。句意：和汤姆谈一次话，你会发现他很活泼。 ""祈使句+and+简单句"" 为固定句型，祈使句可以不是以动词开头，可以改为以名词开头（实际上就是一个名词短语）。这个句式相当于if引导的条件状语从句。故选C。
+",较易,高中;英语;知识点;句法;句子成分,语言知识运用,高中,上学期,英语,单选,"<think>
+这道题考察的是条件句和祈使句的结构。原句的结构是“____, I believe, and you will find him very outgoing”。通过分析，“I believe”是插入语，不影响句子主干。句子的核心逻辑应为“做某事，就会得到某结果”，对应“祈使句 + and + 结果句”的结构，或等效的条件句“If you do X, you will Y”。
+
+选项分析：
+- **A. Having a talk with Tom**：动名词短语，不能作为祈使句，无法构成“Do X and Y”的结构，排除。
+- **B. Given a talk with Tom**：过去分词短语表被动，与语境主动发起谈话不符，排除。
+- **C. One talk with Tom**：名词短语，无法独立形成动作指令，排除。
+- **D. If you have a talk with Tom**：条件状语从句，符合“If X, then Y”的逻辑。虽然原句用“and”连接，但此处“I believe”作为插入语不影响条件句的完整性，选项D是唯一语法和语义均正确的选择。
+</think>
+
+difficulty：中等  
+knowledge_domain：语法结构  
+knowledge_tree：条件句与祈使句的转换  
+task_grade：高中  
+task_semester：全学年  
+task_subject：英语  
+
+答案：D",0
+004fcf1be8c84a2d8a1c9273ceba5385,"—What's your plan for the weekend? 
+
+— $$\underline{}$$ 
+",No problem.,It's a boring weekend.,I am going to climb the mountain.,What a wonderful plan.,C,"考查一般将来时。根据对话的上一句得知：你这周末的计划是什么？故其回答肯定是一般将来时。be going to 表示近期，眼下要去就要发生的事情。故选C。
+",较易,高中;英语;知识点;词法;动词时态,词法-动词时态-一般将来时,高中,,英语,单选,"<think>
+这道题考查的是日常对话中对询问计划的恰当回答。题目中，第一个人问“周末有什么计划？”，正确的回答应涉及未来的安排。选项C使用“be going to”结构，明确说明将要去爬山，符合问题要求。选项A用于回应请求或感谢，B评价周末无聊，D感叹计划很棒，均不符合回答计划的语境。因此正确答案是C。
+</think>
+
+difficulty：简单  
+knowledge_domain：日常交际用语  
+knowledge_tree：疑问句及应答  
+task_grade：高中一年级  
+task_semester：第一学期  
+task_subject：英语  
+
+答案：C",1
+9bc685aa6af5412ea6536255bacec2ca,"People in the town will benefit from the law after it $$\underline{}$$ next month.
+",comes into use,comes into power,comes into effect,comes into being,C,"考查动词短语辨析。A. come into use投入使用；B. come into power开始掌权；C. come into effect开始生效；D. come into being形成。根据句意，是指法律生效。句意：这项法律下个月生效后，镇上的人将受益于它。故答案为C。
+",易,高中;英语;考查方式;完形填空;完形填空,完形填空-短语辨析,高中,上学期,英语,单选,"<think>
+这道题考察动词短语的正确使用。句子的大意是“镇上的人们将在下个月法律__后受益”。需要选择一个表示法律生效的短语。分析选项：
+- A. comes into use指物品开始使用，不适用于法律。
+- B. comes into power指掌权，主语应为政府/人。
+- C. comes into effect是法律生效的固定搭配，符合语境。
+- D. comes into being指事物形成/出现，法律颁布即存在，生效是另一个阶段。
+因此正确答案是C。
+</think>
+
+difficulty: 中等难度  
+knowledge_domain: 英语固定搭配  
+knowledge_tree: 动词短语辨析  
+task_grade: 高中  
+task_semester: 全学年  
+task_subject: 英语  
+
+答案：C",1
+2f442c010765408ebca546bb7b9e9098,"To our disappointment, the trip we had been looking forward to $$\underline{}$$ in the pouring rain.
+",started,start,to start,starting,A,"考查动词时态。句意：让我们失落的是，我们一直以来期待的的场旅行在一场倾盆大雨中开始了。句中 ""we had been looking forward to"" 是定语从句，修饰the trip。而start是句中的谓语，且根据从句可知，主句也要用一般过去时，故选A。
+",较易,高中;英语;知识点;句法;主谓一致,单项选择,高中,上学期,英语,单选,"<think>
+题目考查的是定语从句和动词时态的结合运用。句子主干是“the trip...started in the pouring rain”，其中“we had been looking forward to”是定语从句，修饰“the trip”。关系代词（如which/that）作介词to的宾语被省略，定语从句完整形式应为“the trip (which) we had been looking forward to”。此时，主句的谓语动词是“started”，表示“旅行在暴雨中开始”，与主语“the trip”保持主谓一致。若误选D项“starting”，则主句缺少谓语动词，导致语法错误。因此正确答案为A。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 语法  
+knowledge_tree: 定语从句与动词时态的综合应用  
+task_grade: 高中  
+task_semester: 全学年  
+task_subject: 英语  
+
+答案：A",1
+0775e4221bf3456280fb1e8ed8d8881a,"The government has invested $$\underline{}$$ of money on the treatment of the infected patients.
+",a large number,a great many,a huge amount,a plenty of,C,"考查短语辨析。a large number of 大量，后接可数名词复数；a great many of 许多，大量，后可数名词复数；a huge amount of 大量的，后接不可数名词；没有 a plenty of 这个短语，只有plenty of，大量，许多，其后跟可数名词与不可数名词均可。本句话中横线处用来修饰不可数名词money，故只能用a huge amount of。故答案选：C。
+",较易,高中;英语;知识点;词法;名词,语言知识运用,高中,下学期,英语,单选,"<think>
+这道题考察的是量词短语的正确使用。句子中的空格后面是“money”，而money是不可数名词，因此需要选择一个能够修饰不可数名词的量词短语。  
+- **选项A**: ""a large number"" 用于修饰可数名词复数（如 a large number of books），与不可数名词money不搭配，排除。  
+- **选项B**: ""a great many"" 同样修饰可数名词复数（如 a great many people），不符合语境，排除。  
+- **选项C**: ""a huge amount"" 中的 ""amount"" 专门修饰不可数名词（如 a huge amount of money），符合语法要求。  
+- **选项D**: ""a plenty of"" 存在语法错误，正确表达应为 ""plenty of""，不需要冠词 ""a""，因此排除。  
+综上，正确答案为C。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 英语语法  
+knowledge_tree: 量词短语的用法（可数/不可数名词区分）  
+task_grade: 高中  
+task_semester: 全学年  
+task_subject: 英语  
+
+答案：C",1
+8f095b666b77489bad978f65da403088,"In his new book, the writer has $$\underline{}$$ from his usual poet style to a plainer manner.
+",swapped,switched,shrunk,simplified,B,"考查动词辨析。swap交换；switch转变，改变；shrink缩小；simplify简化。句意：在他的新书中，这位作家已从他通常的诗人风格转变为更朴实的风格。故选Ｂ。
+",较易,高中;英语;知识点;基础知识;基础知识,单项选择,高中,上学期,英语,单选,"<think>
+题目要求选择一个动词，与from...to搭配，表示“从...转变为...”。分析选项：
+- B. switched 常用搭配为switch from...to...，符合句意，指转变风格。
+- A. swapped 通常指交换物品，搭配为swap A with B，不与from...to连用。
+- C. shrunk 意为收缩，常接from表示退缩，语义不符。
+- D. simplified 是及物动词，直接接宾语，无需from结构。
+因此选B。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 动词短语搭配  
+knowledge_tree: 动词与介词的固定搭配  
+task_grade: 高中  
+task_semester: 全学年  
+task_subject: 英语  
+
+答案：B",1
+2dc4234c9747430a89f91eee2d54c05c,"The light from the campfire brightened the darkness, but it could not prevent the damp cold of Dennis' Swamp （沼泽地）creeping into their bones. It was a strange place. Martin and Tom wished that they had not accepted Jack's $$\underline{}$$. They liked camping, but not near this swamp.
+
+The underlined word ""dare” is closed in meaning to $$\underline{}$$ .
+",courage,assistance,instruction,challenge,D,"""dare""作为半情态动词对于考生来说是非常熟悉的词，但是本句中dare是名词，用法发生了变化，所以词义也不是学生熟悉的。通过上下文的分析，可知他们希望他们没有接受Jack大胆的提议，到沼泽地附近来野营，故选D。
+",较易,高中;英语;题型;阅读理解;阅读理解,阅读理解-选择型阅读理解,高中,,英语,单选,"<think>
+这道题目考察的是词汇在具体语境中的近义词选择。首先需要确定划线词“dare”在句子中的含义。根据上下文，Martin和Tom后悔接受了Jack的某个行为，导致他们处于沼泽地的困境中。Dare作为名词时，通常表示“挑战”或“激将”，例如“接受挑战”（accept a dare）。句子结构上，“accepted Jack's dare”直接对应“接受了杰克的挑战”。选项D（challenge）与“dare”的核心含义完全一致。其他选项中，A（courage）是抽象名词“勇气”，无法与“accept”构成逻辑搭配；B（assistance）和C（instruction）均与语境中“导致后悔”的负面结果矛盾。因此正确答案为D。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 词汇辨析与语境理解  
+knowledge_tree: 英语近义词辨析/名词词义与语境匹配  
+task_grade: 高中  
+task_semester: 全学期通用  
+task_subject: 英语  
+
+答案：D",1
+88eb4b49ff7740f8a535814f722ffa37,"It suddenly hit me $$\underline{}$$ difficult life was for women at that time.
+",what a,what,how,how a,C,"考查感叹句。句意：我突然意识到那时女人的生活是多么艰难。固定句型It suddenly hit sb. （that）+从句，意为 ""某人突然意识到"" ，从句后面接了一个感叹句How+adj adv.+主语+谓语，意为 ""多么……"" ，应用how。故选C项。
+",较易,高中;英语;知识点;句法;句子分类（语气）,语言知识运用,高中,下学期,英语,单选,"<think>
+这道题考查宾语从句中引导词的选择。句子主干是""It hit me...""，后面接一个宾语从句。从句部分为""...difficult life was for women...""，其中difficult是形容词，修饰life。感叹句结构中，how修饰形容词或副词，结构为how + adj. + 主谓；what修饰名词，结构为what (+a/an) + adj. + n. + 主谓。此处difficult直接修饰形容词，需要how引导，构成how difficult life was的正确语序。选项C正确，D的how a错误因为how后不需要冠词，AB选项的what结构需要接名词短语（如what a difficult life），但原句没有对应的名词结构。
+</think>
+
+difficulty: 中等难度  
+knowledge_domain: 英语语法  
+knowledge_tree: 复合句/宾语从句/感叹句结构  
+task_grade: 高中  
+task_semester: 全学年  
+task_subject: 英语  
+
+答案：C",1
+ced80a5c2f2f423db7039f2b27b3d217,"The president must have received the result of medical research by the time the disease spread widely, $$\underline{}$$ ? 
+",hasn't he,mustn't he,hadn't he,didn't he,C,"考查反意疑问句。句意：当疾病广泛传播时，总统一定已经收到了医学研究的结果，不是吗？当情态动词can/may/should/must等在句中表推测语气时，反意疑问部分应根据实义动词的实际发生时间来构成；此处动词receive发生在从句谓语动词spread之前，表示 ""过去的过去""（过去完成时had done），所以反意疑问部分用hadn't he。故选C项。
+",较易,高中;英语;知识点;句法;句子分类（语气）,he,高中,,英语,单选,"<think>
+这道题考查反意疑问句的用法。主句使用""must have received""表示对过去动作的推测，时间状语""by the time the disease spread widely""表明动作发生在过去的过去（过去完成时态）。反意疑问句的构成需要根据主句的实际时态判断，而非情态动词""must""。由于主句隐含过去完成时（had received），因此疑问部分应使用过去完成时的助动词""hadn't""，对应选项C。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 英语语法  
+knowledge_tree: 反意疑问句/情态动词表推测  
+task_grade: 高中  
+task_semester: 全学年  
+task_subject: 英语  
+
+答案：C",1
+7a0af2a6324945b3932d11235b3da016,"With the return of wolves to Yellowstone National Park, $$\underline{}$$ is located in the northwest of the United States, elks began avoiding places $$\underline{}$$ they didn't feel safe.
+",where; which,which; that,that; where,which; where,D,"考查定语从句。句意：随着狼群返回位于美国西北部的黄石国家公园，麋鹿开始避开它们觉得不安全的地方。第一个空引导非限制性定语从句，先行词为Yellowstone National Park，为物，空处在从句中作主语，应用which引导；第二个空引导定语从句，先行词为places，为地点，空处在从句中作地点状语，应用where引导。故选D。
+",易,高中;英语;知识点;句法;句子分类（结构）,that,高中,下学期,英语,单选,"<think>
+这道题考查定语从句的关系词选择。首先，第一个空前的先行词是Yellowstone National Park（地点），从句缺少主语，且为非限制性定语从句（逗号隔开），因此必须用which引导（非限制性定语从句中，指物时只能用which）。排除A（where）、C（that）。
+
+第二个空前的先行词是places，从句结构完整（they didn't feel safe），但缺少地点状语，需用关系副词where（相当于in which）。B选项第二个空为that（只能作主语/宾语），不符合语法；D选项第二个空为where，正确。综上选D。
+</think>
+
+difficulty：中等  
+knowledge_domain：英语语法  
+knowledge_tree：定语从句（关系代词与关系副词）  
+task_grade：高中  
+task_semester：全学年  
+task_subject：英语  
+
+答案：D",1
+1cf11d8944ab4d3f87f2bddd5afaf9f6,"Mark had been scolded before for touching his father's equipment. But his curiosity was difficult to control and this new computer really puzzled him.
+
+Why did Mark touch the computer against his father's warning? 
+",He wanted to take a voyage.,He wanted to practice his skill.,He was so much attracted by it.,He was eager to do an experiment.,C,"将原文“his curiosity was difficult to control…really puzzled him""换一种说法，即equipment对他有极强的吸引力，故选C。
+",较易,高中;英语;题型;阅读理解;阅读理解,生活与学习-个人、家庭、社区及学校生活,高中,,英语,单选,"<think>
+根据题目中的描述，Mark之前因为触碰父亲的设备被责备过，但他的好奇心难以控制，新电脑让他感到困惑。问题询问他为何违背父亲的警告去碰电脑。原文中的关键点在于“curiosity was difficult to control”和“new computer really puzzled him”，这表明Mark的行为主要源于强烈的好奇心和对电脑的着迷。选项C（被吸引）直接对应这一点，而其他选项（如练习技能或做实验）在原文中缺乏明确依据。因此正确选项是C。
+</think>
+
+difficulty：中等  
+knowledge_domain：阅读理解  
+knowledge_tree：细节理解与推理  
+task_grade：高中  
+task_semester：全学年  
+task_subject：英语  
+
+答案：C",1
+706c31287c2e4eae9cec227c9aed4d63,"English idioms are a way of adding color to the language. For example, if they're rushing into something and should wait and be patient, you could say "" $$\underline{}$$ "".
+",kill two birds with one stone,call it a day,add fuel to the fire,hold your horses,D,"考查习语辨析。A. 一石二鸟；B. 到此为止；C. 火上浇油；D. 稍安勿躁。根据句中描述的场景，D项符合题意。句意：英语习语是给语言增添色彩的一种方式。例如，如果有人匆忙做某事，并且需要耐心等待，你可以说稍安勿躁。故答案为D。
+",较易,高中;英语;知识点;基础知识;词汇,单项选择,高中,,英语,单选,"<think>
+题目要求选择一个合适的英语习语，用于当某人急于行动而应该耐心等待的情况。首先分析各个选项的含义：
+- A选项“kill two birds with one stone”意为“一石二鸟”，强调同时完成两件事，与“耐心等待”无关。
+- B选项“call it a day”意为“收工、结束”，表示停止当前活动，但并未直接关联“耐心”或“等待”。
+- C选项“add fuel to the fire”意为“火上浇油”，指加剧矛盾或问题，与题干语境相反。
+- D选项“hold your horses”字面为“拉住你的马”，引申为“别急、耐心点”，完全契合题干中“需要等待和保持耐心”的情境。
+
+综上，正确答案为D。
+</think>
+
+difficulty：中等  
+knowledge_domain：英语习语  
+knowledge_tree：常用英语习语的含义与语境应用  
+task_grade：高中  
+task_semester：全年级通用  
+task_subject：英语  
+
+答案：D",1
+a69913b647a54d5585827e74bd863acc,"You can't imagine $$\underline{}$$ when they received these nice Spring Festival presents.
+",how excited they were,how excited were they,how they were excited,they were how excited,A,"考查宾语从句与感叹句。句意：你无法想象当他们收到这些漂亮的春节礼物时有多兴奋。此处为宾语从句，应使用陈述语序。同时此处为感叹句，应使用""how+adj+主语+谓语""。故选：A。
+",较易,高中;英语;知识点;句法;句子分类（语气）,语言知识运用,高中,下学期,英语,单选,"<think>
+这道题考查宾语从句的语序和感叹句结构。动词imagine后接宾语从句，需用陈述语序。how引导的感叹句作从句时，结构应为how+形容词+主语+谓语。选项A符合陈述语序和正确结构（how excited they were）。选项B使用疑问语序（were they），错误。选项C语序错位（how they were excited），正确结构应为how excited作整体前置。选项D语序混乱。故选A。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 英语语法  
+knowledge_tree: 复合句结构/宾语从句/感叹句  
+task_grade: 高中一年级  
+task_semester: 上学期  
+task_subject: 英语  
+
+答案：A",1
+b8b4459f4fcd47afb420983cbe7b5ddb,"Why! I have nothing to confess. $$\underline{}$$ you want me to say? 
+",What is it that,What it is that,How is it that,How it is that,A,"考查强调句。句意：哎呀！我没有什么事可承认的，你到底想让我说什么呢？特殊疑问句用在强调句中，其结构为“特殊疑问词+ is/was + it + that +其他成分”，又由于say的宾语不会是副词how，故正确答案为A。
+",较易,高中;英语;知识点;句法;句法,语言知识运用,高中,,英语,单选,"<think>
+这道题考查的是强调句的疑问形式。原句需要填入一个疑问结构，强调对方想要自己说什么。""What is it that..."" 是强调句的疑问形式，符合疑问句的语序（疑问词+助动词+主语+that从句）。选项B的语序错误，C和D的疑问词how不符合语境。故选A。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 语法  
+knowledge_tree: 强调句/疑问句结构  
+task_grade: 高中  
+task_semester: 全学年  
+task_subject: 英语  
+
+答案：A",1
+a415712d1ca1463db895ea7095c2ac2b,"This school is $$\underline{}$$ ; only very bright children can go to it.
+",inclusive,exclusive,intensive,extensive,B,"句意：这所学校排外；只有非常聪明的孩子才能就读。inclusive与exclusive是一对反义词，intensive与extensive是另一对反义词。inclusive意为“一切包含在内的”， exclusive意为“排外的，不相容的”；intensive意为“强烈的，集中的”，extensive意为“宽广的，扩展的”。
+",较易,高中;英语;知识点;词法;词法,词法-形容词和副词-形容词-形容词及其短语辨析-其他形容词辨析,高中,,英语,单选,"<think>
+题目中的句子需要填入一个形容词来描述学校的性质，后半句“只有非常聪明的孩子才能进入”是关键提示。分析选项：
+
+- **A. inclusive（包容的）**：与后半句的“只有”矛盾，排除。
+- **B. exclusive（排外的，专属的）**：符合“只有特定群体（聪明孩子）能进入”的语境。
+- **C. intensive（密集的）**：描述强度，与入学条件无关，排除。
+- **D. extensive（广泛的）**：与限制性条件相反，排除。
+
+综上，正确答案为B。
+</think>
+
+difficulty：中等  
+knowledge_domain：词汇辨析  
+knowledge_tree：形容词词义与语境匹配  
+task_grade：高中  
+task_semester：全学期通用  
+task_subject：英语  
+
+答案：B",1
+88eb4b49ff7740f8a535814f722ffa37,"It suddenly hit me $$\underline{}$$ difficult life was for women at that time.
+",what a,what,how,how a,C,"考查感叹句。句意：我突然意识到那时女人的生活是多么艰难。固定句型It suddenly hit sb. （that）+从句，意为 ""某人突然意识到"" ，从句后面接了一个感叹句How+adj adv.+主语+谓语，意为 ""多么……"" ，应用how。故选C项。
+",较易,高中;英语;知识点;句法;句子分类（语气）,语言知识运用,高中,下学期,英语,单选,"<think>
+这道题考察宾语从句中的感叹句结构。主句是""It suddenly hit me""，后面接宾语从句。从句部分""difficult life was...""需要用感叹句结构引导。由于""difficult""是形容词，应该用how来修饰形容词构成感叹句，结构为how + adj. + 主语 + 谓语。此处life为不可数名词，不需要冠词a，因此正确答案是C选项how。选项D的how a不符合语法，A/B的what系列需要接名词短语，但原句形容词直接修饰life，故排除。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 英语语法  
+knowledge_tree: 感叹句结构/名词性从句  
+task_grade: 高中  
+task_semester: 全学年通用  
+task_subject: 英语  
+
+答案：C",1
+fc8325ff2e75465aaefa9b02dfaa19b0," $$\underline{}$$ at the door before you enter the office, or you'll be considered impolite.
+",Knocking,Knocked,Knock,To knock,C,"考查祈使句。句意：进办公室前先敲门，否则你将会被认为没有礼貌。
+",较易,高中;英语;知识点;句法;句子分类（语气）,knock,高中,,英语,单选,"<think>
+这道题考查的是英语祈使句的用法。句子结构为“_____ at the door... or you'll be considered impolite”，其中后半句“or you'll...”是典型的“祈使句+or+结果”结构（如“Be quiet or you'll be punished”）。因此，空格处需要填入祈使句的动词原形。
+
+选项分析：
+- **A. Knocking**（动名词）：动名词作主语时需搭配谓语（如“Knocking is required”），但此处句子无谓语动词，排除。
+- **B. Knocked**（过去分词）：过去分词单独使用通常表示被动或完成态，但语境中主语是隐含的“you”，需主动形式，排除。
+- **C. Knock**（动词原形）：符合祈使句结构（如“Knock before entering”），正确。
+- **D. To knock**（不定式）：不定式作主语多表目的（如“To knock is polite”），但此处需直接动作指令，排除。
+
+综上，正确答案为C。
+</think>
+
+difficulty：中等  
+knowledge_domain：语法  
+knowledge_tree：祈使句结构  
+task_grade：高中  
+task_semester：全学期通用  
+task_subject：英语  
+
+答案：C",1
+a9dff43f63b74dd0bd7b81b826f40cf3,"Film has a much shorter history, especially when $$\underline{}$$ such art forms as music and painting.
+",having compared to,comparing to,compare to,compared to,D,,较易,高中;英语;知识点;词法;词法,单项选择,高中,,英语,单选,"<think>
+这道题目考察分词作状语的用法。句子主句的主语是“film”，而when引导的状语从句中需要分词结构。由于“film”是被比较的对象（与音乐、绘画等艺术形式相比），需用被动语态。因此，过去分词“compared to”符合语境。选项A（having compared to）是现在分词的完成式，强调主动完成，但此处需要被动；选项B（comparing to）是现在分词主动形式，主语film无法主动执行比较动作；选项C（compare to）是动词原形，无法直接作状语。只有选项D（compared to）正确表达了被动含义。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 英语语法  
+knowledge_tree: 分词结构/状语从句省略  
+task_grade: 高中  
+task_semester: 全学年  
+task_subject: 英语  
+
+答案：D",1
+1837e1c968a94bcbb3f9daf37ef1f94a,"He had his camera ready $$\underline{}$$ he saw something that would make a good picture.
+",even if,if only,in case,so that,C,"考查状语从句引导词。A. even if即使；B. if only要是……多好；C. in case以防，以免；D. so that为了，以便。句意：他准备好了相机以防看到了一些能拍出好照片的东西。故选C。
+",中档,高中;英语;知识点;句法;句法,句法-句子分类（结构）-复合句-状语从句-目的状语从句,高中,下学期,英语,单选,"<think>
+题目要求选择合适的连词填空，句子结构为两个分句之间的逻辑关系。主句""He had his camera ready""表示动作准备，从句""he saw something...""描述可能发生的情况。分析选项：
+
+1. **even if**（即使）表让步，但主句动作与从句不存在矛盾（如：即使没看到也要准备），不符合语境。
+2. **if only**（要是…就好了）表虚拟愿望，但句子为陈述事实，无虚拟含义，排除。
+3. **in case**（以防）表预防措施，主句动作为应对从句可能发生的情况（提前准备相机以防出现值得拍的场景），逻辑通顺。
+4. **so that**（以便）表目的，但从句需体现目的结果（如加情态动词could），而原句仅用过去式""saw""，无法明确表达目的，故不适用。
+
+综上，选C（in case）最贴合句意：提前准备相机，以防看到值得拍摄的内容。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 连词辨析与状语从句  
+knowledge_tree: 英语语法中的连词用法，重点为条件/目的/让步状语从句的逻辑关系  
+task_grade: 高中  
+task_semester: 全学年通用  
+task_subject: 英语  
+
+答案：C",1
+380262d435e045f2bfacc02cbcb376b3,"Six-year-old Alice is building a magical kingdom brick by brick, imagining fairy-tale castles and fire-breathing dragons. This fantasy is helping her take first steps towards creativity. Minutes later, when she is playing board games with her brother, she's learning to follow rules and take turns with a partner. Although she isn't aware of it, this will play an important role in her adult life.
+
+""Play in all its rich variety is one of the highest achievements of the human species, "" says Dr. David Whitebread from the University of Cambridge. He's also mindful of the worldwide decline of play."" The opportunities for free play, which I experienced almost every day of my childhood, are becoming increasingly scarce now, "" he says. Outdoor play is restricted by parents' perceptions of risk to do with traffic, as well as their increased wish to protect their children from being the victims of crime, and by their emphasis on ""earlier is better"" which is leading to greater competition in academic learning and schools.
+
+What is the purpose of the first paragraph? 
+",To illustrate the benefits of too much spare time.,To describe a kid's peaceful and happy childhood.,To present the importance of a rich variety of play.,To introduce the distinctive functions of different toys.,C,"推理判断题。根据第一段“Six-year-old Alice is building a magical kingdom brick by brick, imagining fairy-tale castles and fire-breathing dragons. This fantasy is helping her take first steps towards creativity. Minutes later, when she is playing board games with her brother, she's learning to follow rules and take turns with a partner. Although she isn't aware of it, this will play an important role in her adult life.”（六岁的爱丽丝正在一砖一瓦地建造一个神奇的王国，想象着童话中的城堡和喷火龙。这种幻想帮助她迈出了创造的第一步。几分钟后，当她和弟弟玩桌游时，她学会了遵守规则，和一个伙伴轮流玩。虽然她没有意识到这一点，但这将在她的成年生活中发挥重要作用。）可知，第一段目的是为了呈现丰富多样的玩耍的重要性。故选C。
+",中档,高中;英语;题型;阅读理解;阅读理解,说明文,高中,,英语,单选,"<think>
+首先，题目询问第一段的目的。第一段描述了六岁的Alice进行两种不同的游戏：搭建积木和玩棋盘游戏。前者培养创造力，后者培养规则意识和合作能力。两个例子展示了不同类型游戏带来的不同益处。第二段引用专家观点，强调多样化游戏的重要性，并指出其正在减少。因此，第一段的作用是为后文论述“多样化游戏的重要性”做铺垫。选项C“呈现多种游戏的重要性”最贴合段落核心，而选项D的“玩具功能”偏离了“游戏类型”这一更广泛的讨论范畴。选项A和B的内容与段落重点无关。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 阅读理解  
+knowledge_tree: 主旨题/段落功能分析  
+task_grade: 高中  
+task_semester: 全学年  
+task_subject: 英语  
+
+答案：C",1
+2b9954478cd54f88b79c557db8a8531d,"Look at the timetable. Hurry up! Flight 4026 $$\underline{}$$ off at 18:20.
+",takes,took,will be taken,has taken,A,"考查一般现在时。句意：看时间表，赶快！航班4026将在18：20起飞。表示按规定、时间表、计划或安排要发生的动作时，要用一般现在时表示将来。故选A。
+",易,高中;英语;知识点;词法;动词时态,take,高中,下学期,英语,单选,"<think>
+题目要求选择正确的动词形式填空。句子中的“Flight 4026”是主语，动作是“起飞”，且时间点为“18:20”。根据时间表安排的事件，通常用一般现在时表示将来计划好的动作（如交通工具时刻表），因此动词应使用一般现在时。此外，“起飞”是飞机主动执行的动作，无需被动语态。选项A（takes）是一般现在时主动语态，符合语法和语境；选项B（took）是过去时，与时间表未来的动作矛盾；选项C（will be taken）是将来时被动语态，但“起飞”无需被动；选项D（has taken）是现在完成时，表示动作已完成，与未发生的时间点不符。因此正确答案为A。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 英语语法  
+knowledge_tree: 时态与语态  
+task_grade: 高中  
+task_semester: 全学期  
+task_subject: 英语  
+
+答案：A",1
+947bd8a93523438ba9509d92dc17cb0e,"The park $$\underline{}$$ life in the days of King Arthur is one of the main $$\underline{}$$ of the city.
+",modelled after; attractions,is modelled after; attraction,to model after; attraction,modelling after; attraction,A,"句意：这个公园模仿了亚瑟王时代的生活，是这个城市的主要景点之一。be modelled after为固定短语，意为 ""模仿"" ，被修饰词the park与model after之间为被动关系，故使用过去分词短语做定语。attraction此处表示 ""吸引人的事物"" ，由抽象名词转化为具体名词。由前面的one of可知，此处应使用attraction的复数形式。
+",较易,高中;英语;知识点;词法;名词,语言知识运用,高中,,英语,单选,"<think>
+首先分析句子结构：主语是""The park""，后面接一个修饰它的成分，然后谓语是""is""。第一个空需填入修饰""park""的成分。由于""model after""意为“模仿”，而公园是被模仿的对象，应使用被动语态。过去分词""modelled after""作后置定语符合被动和完成的含义，因此选项A或D可能正确。选项D的""modelling after""是现在分词，表示主动，不符合被动逻辑，排除。选项B的""is modelled after""会导致两个谓语动词冲突，排除。选项C的""to model after""不定式通常表目的，不适用此处。
+
+第二个空在""one of the main ___""中，""one of""后需接复数名词。选项中只有A的""attractions""是复数，其他选项的""attraction""均为单数，不符合语法。因此正确答案为A。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 英语语法与词汇  
+knowledge_tree: 非谓语动词（过去分词作定语）、名词单复数  
+task_grade: 高中  
+task_semester: 全学年  
+task_subject: 英语  
+
+答案：A",1
+9a2e9d633fc344198ac9ccad2d9c0dc5,"Last night we met with $$\underline{}$$ rain at the station.
+",a quite heavy,too heavy a,such heavy a,a so heavy,B,"考查副词用法。A 语序错误，正确的语序是quite a heavy；C 正确的语序是 such a heavy ，因为 such 修饰名词或名词短语；D 正确的语序是 so heavy a 因为 so 修饰形容词或副词。句意：昨晚我们在车站碰见了好大的一场雨。故选：B。
+",较易,高中;英语;知识点;基础知识;高考常考词汇与句型,单项选择,高中,上学期,英语,单选,"<think>
+这道题考察形容词和副词修饰名词时的正确词序。正确结构需要符合以下语法规则：
+
+1. ""too + adj. + a + noun""（如：too heavy a rain）是正确结构
+2. ""such a + adj. + noun""（如：such a heavy rain）是正确结构
+3. ""so + adj. + a + noun""（如：so heavy a rain）是正确结构
+4. ""quite a + adj. + noun""（如：quite a heavy rain）是正确结构
+
+选项分析：
+A. ""a quite heavy"" 词序错误，正确应为""quite a heavy""
+B. ""too heavy a"" 符合""too+adj.+a+noun""结构
+C. ""such heavy a"" 词序错误，正确应为""such a heavy""
+D. ""a so heavy"" 词序错误，正确应为""so heavy a""
+
+只有选项B符合正确语法结构。
+</think>
+
+difficulty：中等偏易
+knowledge_domain：英语语法
+knowledge_tree：形容词和副词的位置与词序
+task_grade：高中全年级
+task_semester：全学期
+task_subject：英语
+
+答案：B",1
+e9f5020b011a456585c48397b889f37a,"I $$\underline{}$$ for the airport to catch the flight at 6 pm. Please send the file to me within ten minutes.
+",am leaving,have left,was leaving,had left,A,"考查动词时态。句意：我要去机场赶下午6点的航班。请在10分钟内把文件发给我。分析语境可知，动作还没发生，所以要用将来时。表位移的瞬间动词可以使用现在进行时表将来。故选A。
+",较易,高中;英语;知识点;词法;动词时态,词法-动词时态-现在进行时,高中,上学期,英语,单选,"<think>
+这道题考查现在进行时表示将来的用法。句子中“at 6 pm”是将来时间，但说话者此时正在请求对方“十分钟内发送文件”，说明尚未离开机场。现在进行时（am leaving）常与表示移动的动词（如leave, go, come）连用，表达已确定的近期安排。选项B（完成时）暗示已离开，与后文请求矛盾；选项C（过去进行时）需配合过去时间背景，选项D（过去完成时）需过去时间参照点，均不符合语境。因此正确答案为A。
+</think>
+
+difficulty：中等难度  
+knowledge_domain：英语语法  
+knowledge_tree：时态（现在进行时表将来）  
+task_grade：高中  
+task_semester：全学期通用  
+task_subject：英语  
+
+答案：A",1
+288fdd2edb644b08a9c5d3008d5bac6c,"The fact has worried many scientists $$\underline{}$$ the earth is becoming warmer and warmer these years.
+",that,which,what,though,A,"考查同位语从句。句意：这些年地球正变得越来越热的事实引起了许多科学家的担忧。根据句子结构分析可知，the earth is… these years是对前面the fact的补充说明，且从句完整不缺成分，所以使用只起连接作用、无意义、不作成分的连接词that引导同位语从句。故选A。
+",易,高中;英语;知识点;句法;句子成分,单项选择,高中,下学期,英语,单选,"<think>
+这道题考查同位语从句的引导词。句子结构是""The fact has worried many scientists ____ the earth is becoming...""。主句中的""the fact""需要被后面的从句具体说明内容，因此需用同位语从句。同位语从句用that引导，且that在从句中不充当成分，只起连接作用。选项B的which用于定语从句，但此处从句不缺成分；C的what需在从句中充当成分，而这里从句结构完整；D的though不符合逻辑。因此选A。
+</think>
+
+difficulty：中等  
+knowledge_domain：语法  
+knowledge_tree：名词性从句/同位语从句  
+task_grade：高中  
+task_semester：高三  
+task_subject：英语  
+
+答案：A",1
+f51ac9ec84f746728f8082e8d44a85a1," $$\underline{}$$ being intelligent, he is also diligent and warm-hearted, which $$\underline{}$$ him everyone's respect in the team.
+",Except; provided,Apart from; provided,Apart from; earned,Except; earned,C,"考查介词和动词辨析。句意：除了聪明之外，他也很勤奋热心，这为他赢得了队里每个人的尊重。except除……之外；provide提供；apart from除……之外，还有……；earn赢得。根据句意，故选C。
+",较易,高中;英语;考查方式;完形填空;完形填空,语言知识运用,高中,下学期,英语,单选,"<think>
+题目中的句子需要填入两个合适的词语。第一个空考查表示“除了”的短语，第二个空考查动词的正确选择。
+
+1. **第一个空**：选项是""Except""和""Apart from""。句子前半部分""He is also diligent and warm-hearted""表明“聪明”是其中的一个优点，后续补充其他优点，属于“包含性”的除了，应使用""Apart from""（相当于besides）。而""Except""表示排除，不符合语境。
+
+2. **第二个空**：选项是""provided""和""earned""。根据句意“这使他赢得尊重”，“赢得”应使用""earned""，因为""earn sb. sth.""是固定搭配（如earn him respect）。""provided""通常接""provide sb. with sth.""，此处结构不匹配。
+
+综上，正确答案是选项C（Apart from; earned）。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 词汇与语法  
+knowledge_tree: 介词短语辨析及动词搭配  
+task_grade: 高三  
+task_semester: 上学期  
+task_subject: 英语  
+
+答案：C",1
