@@ -1,0 +1,2347 @@
+id,prompt,A,B,C,D,answer,analysis,difficulty,knowledge_domain,knowledge_tree,task_grade,task_semester,task_subject,task_type,model_output,correctness
+8415d7e9e4b64b3d89726e1735043711,"—What's your hobby? 
+
+— $$\underline{}$$ 
+",I like Maths and English.,I like swimming and dancing.,I like blue and yellow.,,B,"考查情景交际。I like Maths and English. 我喜欢数学和英语。I like swimming and dancing. 我喜欢游泳和跳舞。I like blue and yellow. 我喜欢蓝色和黄色。句意：—你的爱好是什么？—我喜欢游泳和跳舞。故选 B。
+",较易,小学;英语;知识点;基础知识;情景交际,基础知识-情景交际,小学,上学期,英语,单选,"<think>
+题目问的是“你的爱好是什么？”，需要选择一个回答自己爱好的选项。
+
+A. I like Maths and English. —— 这是喜欢学科，不是典型的爱好。
+B. I like swimming and dancing. —— 游泳和跳舞是常见的爱好，符合问题要求。
+C. I like blue and yellow. —— 这是喜欢的颜色，不是爱好。
+D. nan —— 无意义选项。
+
+因此，最合适的答案是B。
+</think>
+
+difficulty: 简单
+knowledge_domain: 日常交际用语
+knowledge_tree: 询问与回答个人爱好
+task_grade: 小学三年级
+task_semester: 第一学期
+task_subject: 英语
+
+答案：B",1
+096b6674dcac4e46b28691c502f89dc1,"Most of my classmates don't like to talk with their parents, but I am $$\underline{}$$ them. I love to talk with my parents.
+",the same as,different from,interested in,angry with,B,"考查形容词辨析。A：与……一样；B：不同于……；C：对……感兴趣；D：对……生气。结合句意 ""我的大多数同学都不喜欢跟父母交流，但我不同于他们"" 。故选B。
+",易,小学;英语;知识点;词法;介词及介词短语,be angry with,小学,上学期,英语,单选,"<think>
+1. 首先理解句意：大多数同学不喜欢和父母交谈，但我和他们____。我喜欢和父母交谈。
+2. 前半句说""大多数不喜欢""，后半句说""我喜欢""，说明态度与多数同学相反。
+3. 看选项：
+   A. the same as（与...相同）→ 不符合，因为态度相反
+   B. different from（与...不同）→ 符合逻辑
+   C. interested in（对...感兴趣）→ 语法正确但不符合对比关系
+   D. angry with（对...生气）→ 不符合句意
+4. 最佳答案是B，表示""与多数同学不同""。
+</think>
+
+difficulty: 简单题
+knowledge_domain: 词汇与语法
+knowledge_tree: 介词短语辨析
+task_grade: 小学五年级
+task_semester: 上学期
+task_subject: 英语
+
+答案：B",1
+16ac53e6ae1b491dacca7585df92ba7f,"Is there a $$\underline{}$$ on the table? 
+",milk,bread,tea,passport,D,"考查名词。There be后面跟的一个不定冠词a修饰的名词，所以其后应该是可数名词，ABC三项都是不可数名词，故选D。
+",易,小学;英语;知识点;词法;名词,bread,小学,,英语,单选,"<think>
+1. 首先分析句子结构：这是一个there be句型的一般疑问句，空缺处需要填入一个名词。
+2. 观察选项：A.milk（牛奶）、B.bread（面包）、C.tea（茶）都是不可数名词，D.passport（护照）是可数名词单数。
+3. 语法规则：there be句型中，不可数名词前不能加冠词""a""，而可数名词单数必须加""a""或""an""。
+4. 题干空缺前有""a""，因此只能选择可数名词单数D.passport。
+5. 其他选项：A/B/C都是不可数名词，若填入会导致语法错误（不能说a milk/a bread/a tea）。
+</think>
+
+difficulty: 简单题
+knowledge_domain: 英语语法
+knowledge_tree: 名词分类/冠词用法
+task_grade: 小学五年级
+task_semester: 上学期
+task_subject: 英语
+
+答案：D",1
+068dc44a227d421d892e2927a01c0ec4,"—Does your father $$\underline{}$$ at weekends?
+
+—Yes, he does.
+",watches TV,watching TV,watch TV,to watch TV,C,"句意：—你爸爸周末看电视吗？—是的，他看。Does提问，后面的动词用原形，故选C。
+",易,小学;英语;题型;听力;听力,听力,小学,下学期,英语,单选,"<think>
+1. 首先分析问句结构：""Does your father ___ at weekends?"" 这是一个一般现在时的疑问句，主语是""your father""，助动词是""Does""。
+2. 在英语中，当句子使用助动词""do/does""构成疑问句或否定句时，后面的主要动词要用原形（即不带to的不定式）。
+3. 看选项：
+   A. ""watches TV"" - 这是第三人称单数形式，不能与""Does""连用
+   B. ""watching TV"" - 这是现在分词/动名词形式，不正确
+   C. ""watch TV"" - 这是动词原形，正确
+   D. ""to watch TV"" - 这是带to的不定式，不正确
+4. 答句""Yes, he does""也验证了问句应该使用动词原形。
+</think>
+
+difficulty: 简单
+knowledge_domain: 英语语法
+knowledge_tree: 动词时态/助动词用法
+task_grade: 小学五年级
+task_semester: 第一学期
+task_subject: 英语
+
+答案：C",1
+13b50b831b8f4a6ca2c1394db816d11d,"I'm $$\underline{}$$ . Because my parents take a trip with me.
+",angry,sad,happy,,C,"本题考查形容词，根据下一句 ""因为我的父母带我去旅行"" 可知我的感觉应该是 ""happy"" 快乐。
+",易,小学;英语;知识点;词法;形容词和副词,happy,小学,上学期,英语,单选,"<think>
+1. 首先理解题目：句子描述的是""因为父母带我一起去旅行""，所以我的感受应该是什么。
+2. 分析选项：
+   A. angry（生气的） - 旅行通常不会让人生气
+   B. sad（难过的） - 旅行通常不会让人难过
+   C. happy（开心的） - 和父母一起旅行通常会让人开心
+   D. nan（无意义选项）
+3. 根据常识判断，和父母一起旅行应该是开心的事情。
+4. 排除不合理的选项A、B、D。
+</think>
+
+difficulty: 简单
+knowledge_domain: 情感表达
+knowledge_tree: 基础情感词汇/日常活动表达
+task_grade: 小学三年级
+task_semester: 上学期
+task_subject: 英语
+
+答案：C",1
+52245bd5d8e8453ba00684b5959388b6,"找出不同类的一项
+",singer,work,dancer,,B,,易,小学;英语;题型;分类题;分类题,基础知识-词汇-词义,小学,,英语,单选,"<think>
+1. 首先分析每个选项的词性和含义：
+   - A. singer：名词，意为""歌手""，表示职业
+   - B. work：可以是动词""工作""或名词""工作""，不是特定职业名称
+   - C. dancer：名词，意为""舞者""，表示职业
+   - D. nan：名词，可能是""奶奶""的简称，表示家庭成员
+
+2. 寻找共同点：
+   - A和C都是表示职业的名词
+   - D是家庭成员称谓
+   - B是通用词汇，不是特定职业
+
+3. 确定不同类项：
+   - 从职业角度看，B(work)不是具体职业名称
+   - 从词性角度看，B可以是动词，其他都是名词
+   - 因此B与其他三项差异最大
+
+4. 排除法：
+   - 不能选D(nan)，因为A和C都是职业
+   - 不能选A或C，因为它们属于同类
+   - 最合理选择是B
+</think>
+
+difficulty: 简单
+knowledge_domain: 英语词汇分类
+knowledge_tree: 词性识别/词汇分类
+task_grade: 小学三年级
+task_semester: 上学期
+task_subject: 英语
+
+答案：B",1
+607d55d56a774c0185e48dbd1f0c4640,"What's the Chinese for ""six of one and half a dozen of the other""? 
+",六分之一,人云亦云,半斤八两,见一面分一半,C,"考查俗语。根据文化常识可知，six of one and half a dozen of the other 的意思是 ""半斤八两"" ，故选：C。
+",易,小学;英语;知识点;基础知识;谚语,语言知识运用,小学,上学期,英语,单选,"<think>
+1. 首先理解题目问的是英语习语""six of one and half a dozen of the other""对应的中文意思。
+2. 这个英语习语的字面意思是""六个和半打""，实际含义是指""两者差不多/没有实质区别""，因为6个和半打(6个)数量完全相同。
+3. 分析选项：
+   A. ""六分之一"" - 这是数学分数概念，与题意无关
+   B. ""人云亦云"" - 意思是随大流，没有主见，不符合
+   C. ""半斤八两"" - 中文习语，古代半斤=8两，表示两者相当，完全匹配
+   D. ""见一面分一半"" - 中文俗语，与分享有关，不符合
+4. 最符合的是C选项""半斤八两""，因为两者都表示""没有差别""的意思。
+</think>
+
+difficulty: 中等
+knowledge_domain: 英语习语翻译
+knowledge_tree: 语言文化/习语对应
+task_grade: 小学高年级(5-6年级)
+task_semester: 下学期
+task_subject: 英语
+
+答案：C",1
+0d79a8ef36624eee9649b24ed5e8d3ea,"If Sally wants to go on the holiday she must $$\underline{}$$ 
+
+
+$#table{|From: Tropical Travel<br/>To: Sally Jones<br/>Here are the details you requested.<br/>We have reserved your holiday booking until 9 pm tonight, but will require ₤ 100 to complete it.|}#$
+
+",send the details that were requested.,contact the travel agency for further information.,pay a deposit this evening.,,C,"划出题目中的关键句子but will require £100 to complete it，所以发信者的主要目的是让Sally出100磅的钱。C选项的deposit属于此类题型常考词汇，意为定金押金存款，与原文相符。C选项另一要点是this evening 对应原文的9 pm tonight. A选项与原文Here are the details you requested含义相反。B选项信息原文未提及，比如call us 或者reply等。
+",较易,小学;英语;考查方式;Reading;Reading,读,小学,,英语,单选,"<think>
+1. 首先阅读题目：Sally想要去度假，她必须做什么？题目下方是一个表格形式的邮件内容。
+2. 分析邮件内容：
+   - 发件人：Tropical Travel（热带旅行公司）
+   - 收件人：Sally Jones
+   - 主要内容：已经为Sally保留了假期预订，但保留到今晚9点，需要支付100英镑来完成预订。
+3. 理解关键信息：
+   - ""reserved your holiday booking until 9 pm tonight""说明有时间限制
+   - ""will require ₤100 to complete it""说明需要支付100英镑
+4. 对比选项：
+   A. 发送请求的细节 - 邮件中没说需要发送什么
+   B. 联系旅行社获取更多信息 - 邮件已经提供了足够信息
+   C. 今晚支付押金 - 完全符合邮件中""需要100英镑来完成预订""的要求
+   D. 无意义选项
+5. 最佳答案是C，因为这是邮件明确要求的行动。
+</think>
+
+difficulty: 简单
+knowledge_domain: 英语阅读理解
+knowledge_tree: 日常生活英语/旅行相关英语
+task_grade: 小学高年级(5-6年级)
+task_semester: 下学期
+task_subject: 英语
+
+答案：C",1
+841c02b1494b4ad9993a93b527500dec,"My sister likes $$\underline{}$$ , but my brother $$\underline{}$$ .
+",climb; doesn't,climbing; doesn't,climbing; don't,,B,"本题考查动词短语和一般否定句。like doing sth 表示喜爱做某事，所以第一个空填写 climbing。因为 my brother 是单数第三人称，所以否定句助动词是 doesn't。句意：我姐姐喜欢爬山，但是我哥哥不喜欢。所以本题答案为 B。
+",较易,小学;英语;知识点;词法;非谓语动词,语言知识运用,小学,上学期,英语,单选,"<think>
+1. 首先分析句子结构：主语""My sister""是第三人称单数，谓语动词""likes""也使用了第三人称单数形式，说明第一个空需要填动词的适当形式。
+2. ""like doing""是固定搭配，表示""喜欢做某事""，所以第一个空应该填""climbing""（动名词形式），排除A选项（climb是动词原形）。
+3. 第二个空的主语""my brother""也是第三人称单数，否定形式应该用""doesn't""而不是""don't""，排除C选项。
+4. D选项""nan""明显不符合语法规则。
+5. 因此正确答案是B，同时满足""likes climbing""和""doesn't""的正确用法。
+</think>
+
+difficulty: 简单
+knowledge_domain: 动词用法
+knowledge_tree: 一般现在时/动词形式/否定句
+task_grade: 小学五年级
+task_semester: 第一学期
+task_subject: 英语
+
+答案：B",1
+6e959ef423fa48b6900cd1f0590950fd,"I usually have an egg and two $$\underline{}$$ of milk for breakfast.
+",bottle,a bottle,bottles,the bottles,C,"考查可数名词。因为是两瓶牛奶，所以要用two bottles of milk来表示。
+",易,小学;英语;知识点;词法;名词,语言知识运用,小学,,英语,单选,"<think>
+1. 首先分析句子结构：主语是""I""，谓语是""have""，宾语是""an egg and two ___ of milk""。
+2. 空格前有数量词""two""，表示复数，因此需要选择复数形式的名词。
+3. 看选项：
+   - A. bottle（单数形式，不符合）
+   - B. a bottle（单数且带冠词，不符合）
+   - C. bottles（复数形式，正确）
+   - D. the bottles（复数但带定冠词，这里不需要特指）
+4. ""two bottles of milk""是标准的英语表达方式，表示""两瓶牛奶""。
+5. 其他选项要么是单数形式，要么带有不必要的冠词。
+</think>
+
+difficulty: 简单
+knowledge_domain: 名词单复数
+knowledge_tree: 英语语法/名词/可数名词复数
+task_grade: 小学三年级
+task_semester: 下学期
+task_subject: 英语
+
+答案：C",1
+0d7d29eb681e4682b10d727f4268f6c8,"—Is this your $$\underline{}$$ bag? 
+
+—Yes, it is.
+",friend,friends,friend's,friends',C,"考查词汇缩写辨析。有句意可知，题目中所指的是 ""朋友的包"" ，由于包是单数，所以朋友也应是单数，故选C。
+",易,小学;英语;知识点;词法;名词,friend,小学,上学期,英语,单选,"<think>
+1. 首先理解题目问句的结构：""Is this your ____ bag?"" 这里需要填入一个词或词组来修饰""bag""。
+2. 回答是""Yes, it is.""，说明问句在询问""这个包是否属于你或与你相关的人""。
+3. 观察选项：
+   - A. friend（朋友）是名词原形，不能直接修饰名词
+   - B. friends（朋友们）是复数形式，同样不能直接修饰名词
+   - C. friend's（朋友的）是单数所有格形式，可以表示所属关系
+   - D. friends'（朋友们的）是复数所有格形式
+4. 根据问句中的""your""和回答的""it is""，应该是指单个包属于单个朋友，因此选择单数所有格形式。
+5. 因此最合适的答案是C. friend's，表示""这是你朋友的包吗？""
+</think>
+
+difficulty: 简单
+knowledge_domain: 英语语法
+knowledge_tree: 名词所有格
+task_grade: 小学四年级
+task_semester: 下学期
+task_subject: 英语
+
+答案：C",1
+d47174cd2dbb4da3a810b1a875eb2e70,"Ben found a mobile phone on the floor and he picked it $$\underline{}$$ quickly.
+",of,on,up,,C,"考查固定搭配。句意：本在地板上发现了一部手机，他很快就把它捡了起来。pick on故意刁难，挑中；pick up捡起。pick of搭配不当。根据句意选pick up，表示捡起手机。故答案为C。
+",较易,小学;英语;知识点;基础知识;固定搭配,语言知识运用,小学,下学期,英语,单选,"<think>
+1. 首先理解句子意思：Ben在地上发现了一部手机，他快速____它。需要选择一个合适的词填空。
+2. 分析选项：
+   - A. ""of"" 表示所属关系，不符合语境（pick of不构成固定搭配）
+   - B. ""on"" 表示在...上面，不符合语境（pick on意为""挑剔""，不符合句意）
+   - C. ""up"" 可以与pick构成固定短语""pick up""，意为""捡起""，完全符合句意
+   - D. ""nan"" 不是有效英语单词
+3. 最佳选择是""pick up""这个固定搭配，表示""捡起""的意思。
+</think>
+
+difficulty: 简单题
+knowledge_domain: 动词短语
+knowledge_tree: 动词与介词的固定搭配
+task_grade: 小学四年级
+task_semester: 下学期
+task_subject: 英语
+
+答案：C",1
+167cdab891e54a298bfbe570e98e0222,"She was $$\underline{}$$ on Saturday morning so she went shopping in the afternoon.
+",full,busy,difficult,,B,"考查形容词。句意：她周六上午太忙了，所以下午去商店。故选B。
+",易,小学;英语;知识点;词法;形容词和副词,语言知识运用,小学,,英语,单选,"<think>
+1. 首先理解句子意思：她周六上午____，所以下午去购物了。
+2. 需要选择一个形容词填入空格，使句子逻辑通顺。
+3. 分析选项：
+   A. full - ""满的""，不符合语境
+   B. busy - ""忙碌的""，上午很忙所以下午去购物，符合逻辑
+   C. difficult - ""困难的""，形容人不合适
+   D. nan - 无意义
+4. 最佳选择是B.busy，表示上午很忙，所以下午才有空购物。
+</think>
+
+difficulty: 简单
+knowledge_domain: 词汇运用
+knowledge_tree: 形容词辨析/日常生活用语
+task_grade: 小学四年级
+task_semester: 下学期
+task_subject: 英语
+
+答案：B",1
+336e301457c940e6b91448edaaf61ce6,"—What do you often $$\underline{}$$ in English? 
+
+—I often read stories.
+",do,doing,does,,A,"考查动词。问句是what引导的特殊疑问句，其结构为：What+助动词+sb/sth+实义动词? ；其中助动词后面的实义动词要用原形；句意：—你经常用英语做什么？—我经常读故事。故选A。
+",易,小学;英语;知识点;句法;句子分类（语气）,语言知识运用,小学,上学期,英语,单选,"<think>
+1. 首先分析句子结构：这是一个特殊疑问句，问句部分缺少的是谓语动词，回答部分""I often read stories""表明问的是经常做的事情。
+2. 选项分析：
+   - A. ""do""：是动词原形，可以用于一般现在时主语为you的疑问句，符合语法规则。
+   - B. ""doing""：是现在分词/动名词，不能单独作谓语，不符合。
+   - C. ""does""：是第三人称单数形式，主语you需要用do，不符合。
+   - D. ""nan""：不是有效英语单词。
+3. 根据英语语法规则，特殊疑问句中主语为you时，助动词要用do。
+4. 回答中的""read""是动词原形，也印证了问句应该用do。
+</think>
+
+difficulty: 简单
+knowledge_domain: 英语语法
+knowledge_tree: 动词时态/疑问句结构
+task_grade: 小学五年级
+task_semester: 第一学期
+task_subject: 英语
+
+答案：A",1
+adaf102ff2ab4b1095271c71c06bd8e8,"Pam always uses a lot of plastic bags $$\underline{}$$ she $$\underline{}$$ shopping.
+",if; go,when; go,when; goes,,C,"考查从属连词和一般现在时。句意：Pam购物时总是使用很多塑料袋。 ""if"" 意为 ""如果"" ， ""when"" 意为 ""当……的时候"" ，根据句意可知，本题应选用when引导时间状语从句修饰整个句子，意为 ""当Pam购物时"" ；本句是在描述客观事实，所以时态为一般现在时，从句中主语she是第三人称单数，所以谓语动词使用go的第三人称单数形式goes。故答案为：C。
+",较易,小学;英语;知识点;词法;连词,语言知识运用,小学,上学期,英语,单选,"<think>
+1. 首先分析句子结构：Pam always uses a lot of plastic bags ___ she ___ shopping.
+2. 第一个空需要填入一个连接词，表示时间关系。""if""表示条件，""when""表示时间，根据句意""Pam总是使用很多塑料袋当她购物时""，应该选择""when""。
+3. 第二个空需要填入动词形式。主语是第三人称单数""she""，根据主谓一致原则，动词应该用第三人称单数形式""goes""。
+4. 选项分析：
+   A. if; go → 第一个词错误，第二个动词形式错误
+   B. when; go → 第二个动词形式错误
+   C. when; goes → 完全正确
+   D. nan → 无效选项
+</think>
+
+difficulty: 简单
+knowledge_domain: 英语语法
+knowledge_tree: 时态/主谓一致
+task_grade: 小学五年级
+task_semester: 第一学期
+task_subject: 英语
+
+答案：C",1
+16a493c422a54218b6acbee1e4a689b9,"下面字母中，需要三笔写成的字母是 $$\underline{}$$。
+",M,F,K,,B,"考查字母。根据题目要求，26个英文字母中，三笔写成的大写字母有四个它们是A; E; F; H；此处应为选项B：F。故答案为：B。
+",易,小学;英语;知识点;基础知识;书写,语言知识运用,小学,上学期,英语,单选,"<think>
+题目要求找出需要三笔写成的字母。我们逐一分析每个选项：
+
+A. M - 大写字母M通常需要两笔写成：第一笔是左边的竖线，第二笔是右边的竖线和中间的V形部分。
+B. F - 大写字母F通常需要三笔写成：第一笔是左边的竖线，第二笔是顶部的横线，第三笔是中间的横线。
+C. K - 大写字母K通常需要两笔写成：第一笔是左边的竖线，第二笔是右边的斜线。
+D. nan - 这不是一个有效的字母选项。
+
+因此，需要三笔写成的字母是F。
+</think>
+
+difficulty: 简单
+knowledge_domain: 英语字母书写
+knowledge_tree: 英语基础知识/字母书写规则
+task_grade: 小学一年级
+task_semester: 第一学期
+task_subject: 英语
+
+答案：B",1
+5f273814637340aabe642a5ed77aa224,"$#table{|$$\centerline{}centerlineendflag<br/>$$\centerline{PIZZA FROM OUR}centerlineendflag<br/>$$\centerline{CAFÉ WITH EVERY}centerlineendflag<br/>$$\centerline{CINEMA TICKET}centerlineendflag<br/>$$\centerline{BOUGHT FROM OUR}centerlineendflag<br/>$$\centerline{TICKET DESK!}centerlineendflag|}#$
+
+
+$$\textbf{Cinema-goers can}$$ $$\underline{}$$ 
+",collect a free pizza at the cinema ticket desk.,go into the cinema for free if they buy pizza from the café.,get pizza for nothing when they pay to go into the cinema.,,C,"划出题目关键词pizza from our cafe, 故A错误，并不是在电影院售票处换pizza。根据关键词with cinema ticket 可知如果有电影票换pizza,那么pizza免费并不是电影票免费。C选项 get pizza for nothing 对应free故选C。
+",较易,小学;英语;题型;阅读理解;阅读理解,阅读理解,小学,,英语,单选,"<think>
+1. 首先阅读题目提供的表格内容，这是一张宣传海报，主要内容是：
+   - ""PIZZA FROM OUR CAFÉ WITH EVERY CINEMA TICKET BOUGHT FROM OUR TICKET DESK!""
+   翻译为：从我们售票处购买的每张电影票都可以获得来自我们咖啡馆的披萨。
+
+2. 题目问的是""看电影的人可以...""，需要根据海报内容选择正确选项：
+   - A选项说""可以在售票处领取免费披萨""：部分正确，但前提是购买了电影票，不是单纯领取。
+   - B选项说""如果从咖啡馆购买披萨就可以免费进入电影院""：与海报内容相反，海报是说买电影票送披萨。
+   - C选项说""当他们付费进入电影院时可以免费获得披萨""：完全符合海报内容，买电影票送披萨。
+   - D选项是无效选项。
+
+3. 最准确描述海报优惠内容的是C选项。
+</think>
+
+difficulty: 简单
+knowledge_domain: 阅读理解
+knowledge_tree: 英语实用阅读/广告海报理解
+task_grade: 小学五年级
+task_semester: 下学期
+task_subject: 英语
+
+答案：C",1
+3c215cd09d204b708b54d9bf476b05ff,"—His brother has never got up late.
+
+— $$\underline{}$$ I.
+",So am,Neither has,Neither have,Neither am,C,"考查倒装句。根据句中的 ""never（从不）"" 可知这句话是否定句，应该用 neither；neither 位于句子开头这种结构，通常表示前面所说的情况也适合于另一个人。因为上句中的动词为 has，且第二句的主语是 I，所以第二句的动词应该为 have；其句型结构为：neither+have+主语。句意：—他的哥哥从不晚起。—我也不会。故选 C。
+",易,小学;英语;知识点;句法;特殊句式,句法-主谓一致,小学,上学期,英语,单选,"<think>
+1. 首先分析题干：""His brother has never got up late."" 这是一个否定句，使用现在完成时（has + never + 过去分词）。
+2. 回答部分需要表达""我也是（从未迟到）""，因此需要用否定倒装结构。
+3. 选项分析：
+   - A. ""So am"" 用于肯定句且主语是""I""时，不符合否定句要求。
+   - B. ""Neither has"" 助动词与题干一致，但主语是""I""时应用""have""。
+   - C. ""Neither have"" 符合否定倒装结构（Neither + 助动词have + 主语I），且与题干时态逻辑一致。
+   - D. ""Neither am"" 助动词错误（am用于be动词结构，与题干完成时冲突）。
+4. 正确答案需同时满足：否定倒装 + 助动词与主语一致（I have） + 时态匹配（完成时）。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 英语语法  
+knowledge_tree: 倒装句/否定句回应结构  
+task_grade: 小学六年级  
+task_semester: 下学期  
+task_subject: 英语  
+
+答案：C",1
+00b0d4330cbb4062a17847a5aea29087,"He pricked holes in paper with a $$\underline{}$$.
+",to fasten something to a surface,"a short, thin, straight pointed piece of metal",,,B,"本题考查单词的运用。pin，名词，大头针。题干句意：他用大头针在纸上戳了几个洞。本题提问的是划线部分单词的解释，A选项：动词，把某物系在表面。B选项：一种短的、薄的、直尖的金属片。所以B选项符合题意。
+",易,小学;英语;题型;句型转换;句型转换,语言知识运用,小学,上学期,英语,单选,"<think>
+1. 首先理解题目意思：句子描述的是""他在纸上用___戳洞""，需要选择一个最合适的工具。
+2. 分析选项：
+   A选项描述的是""将某物固定到表面的动作""，不符合工具名词的要求。
+   B选项描述的是""短、细、直的金属尖头物品""，这正是指""针(pin)""的特征，完全符合戳纸洞的工具描述。
+   C和D选项为""nan""(无意义)，可以排除。
+3. 根据句子语境和选项匹配度，B选项是最佳答案。
+</think>
+
+difficulty: 简单
+knowledge_domain: 词汇认知
+knowledge_tree: 工具类名词
+task_grade: 小学三年级
+task_semester: 上学期
+task_subject: 英语
+
+答案：B",1
+628693b5ef7d4a048ad7bcba4a575a58,"Which of the following underlined parts is different in pronunciation from the others? 
+",c$$\underline{}$$st,$$\underline{}$$nly,$$\underline{}$$cean,alm$$\underline{}$$st,A,"考查音素。A. cost发音为[kɒst]；B. only发音为[ˈəʊnli]；C. ocean发音为[ˈəʊʃn]；D. almost发音为[ˈɔːlməʊst]；A项划线部分发音与其他选项不同。故选A。
+",易,小学;英语;知识点;基础知识;字母,语言知识运用,小学,上学期,英语,单选,"<think>
+这道题目要求找出划线部分发音与其他三个不同的选项。我们需要分别分析每个选项划线部分的发音：
+
+A. c$$\underline{a}$$st - 这里的""a""发音为/ɑː/（类似“啊”的长音）
+B. $$\underline{o}$$nly - 这里的""o""发音为/əʊ/（类似“欧”的双元音）
+C. $$\underline{o}$$cean - 这里的""o""发音为/əʊ/（与B选项相同）
+D. alm$$\underline{o}$$st - 这里的""o""发音为/əʊ/（与B、C选项相同）
+
+通过比较可以看出：
+- B、C、D三个选项的划线部分都发/əʊ/音
+- 只有A选项的划线部分发/ɑː/音
+因此A选项的发音与其他三个不同。
+</think>
+
+difficulty: 简单
+knowledge_domain: 语音知识
+knowledge_tree: 元音字母发音规则
+task_grade: 小学五年级
+task_semester: 上学期
+task_subject: 英语
+
+答案：A",1
+e78f2ee5d3204208bddddd2e789f6137,"你的朋友李华最近经常向你抱怨他学习生活中不开心的事情。请你以好朋友的身份给他写一封书信，给他一些恰当的建议去应对这类问题。书信格式及要点已给出，请补全内容。不少于50词。
+
+Dear Li Hua
+
+I know you have been very busy and worried recently.
+
+If I were you, $$\underline{}$$ .
+
+Besides, it's great to $$\underline{}$$ .
+
+I hope my suggestions can help you somehow and I look forward to having the winter holiday with you.
+
+Yours, 
+
+Wang Wen
+",我会了。,我不会。,,,A,"参考文章：
+
+Dear Li Hua
+
+I know you have been very busy and worried recently.
+
+If I were you, $$\underline{}$$
+
+Besides, it's great to $$\underline{}$$
+
+I hope my suggestions can help you somehow and I look forward to having the winter holiday with you.
+
+Yours, 
+
+Wang Wen
+",中档,小学;英语;题型;书面表达;书面表达,书面表达-话题类,小学,,英语,单选,"<think>
+1. 首先需要理解题目要求：这是一封给朋友的建议信，需要补全两个建议部分（If I were you和Besides, it's great to）。
+2. 选项分析：
+   - A选项""我会了""是中文，不符合英语书信要求，且语义不完整
+   - B选项""我不会""同样不符合要求
+   - C和D选项都是""nan""(无意义)
+3. 题目可能存在问题：提供的选项都不适合填入空白处
+4. 最佳选择：虽然都不理想，但A选项""我会了""相对更接近建议的完成态，勉强可以理解为""我会处理好""
+5. 但更可能是题目设置错误，需要选择最不错误的选项
+
+题目属性：
+difficulty: 简单
+knowledge_domain: 英语写作
+knowledge_tree: 书信写作/建议表达
+task_grade: 小学高年级(5-6年级)
+task_semester: 不限
+task_subject: 英语
+</think>
+
+答案：A",1
+e705ac8121794061adfa5662d1ab4fd7,"I have a $$\underline{}$$. I can't eat $$\underline{}$$.
+",teethache; something,toothache; something,toothache; anything,,C,"考查名词辨析和不定代词辨析。句意：我牙疼。我不能吃任何东西。“牙疼”译为“toothache”，第二句为否定句，不定代词一般用anything。故答案为：C。
+",易,小学;英语;题型;填空题;填空题,something,小学,下学期,英语,单选,"<think>
+1. 首先看第一个空，需要填入一个表示“牙痛”的单词。正确的拼写是""toothache""（牙痛），而""teethache""是错误的拼写（牙齿的复数是teeth，但牙痛是tooth+ache），所以可以排除A选项。
+2. 第二个空需要填入一个表示“任何东西”的单词。在否定句中应该用""anything""而不是""something""，因为""something""通常用于肯定句。所以可以排除B选项。
+3. D选项""nan""明显不正确，可以排除。
+4. 综合来看，C选项""toothache; anything""是正确的组合。
+</think>
+
+difficulty: 简单
+knowledge_domain: 英语词汇与语法
+knowledge_tree: 名词用法/否定句结构
+task_grade: 小学五年级
+task_semester: 上学期
+task_subject: 英语
+
+答案：C",1
+1f424f37143b4d0c8350f206402bfad2,"—Tigers used to move about in the wild.
+
+—Yeah. But you can $$\underline{}$$ see one nowadays.
+",often,ever,sometimes,hardly ever,D,"考查副词辨析。第一句话提到老虎一度就在野外生活，而回答句中出现了but，表示与上文意思相反的转折，可见老虎现在不常见了，故选D。
+",易,小学;英语;知识点;词法;形容词和副词,hardly ever,小学,上学期,英语,单选,"<think>
+1. 首先理解句意：第一句说""老虎过去常在野外活动""，第二句""但如今你____看到一只""。
+2. 根据常识，老虎现在数量稀少，野外很难见到，所以需要选一个表示""几乎不""的副词。
+3. 分析选项：
+   A. often（经常） - 与现状矛盾
+   B. ever（曾经） - 语法错误，需用否定形式
+   C. sometimes（有时） - 与老虎濒危现状不符
+   D. hardly ever（几乎从不） - 符合现实情况和语法要求
+4. ""hardly ever""是固定搭配，表示""很少，几乎不""，最符合语境。
+</think>
+
+difficulty: 简单题
+knowledge_domain: 副词用法
+knowledge_tree: 英语语法/频率副词
+task_grade: 小学六年级
+task_semester: 下学期
+task_subject: 英语
+
+答案：D",1
+2e6d3f1858c84c918164567fa4c4591c,"Have you met Henry before?
+","Yes, at first.","Yes, on holiday.","Yes, I do.",,B,"考查情景交际。—你之前见过Henry吗？—是的，旅行的时候见过。故选B。
+",易,小学;英语;知识点;基础知识;基础知识,语言知识运用,小学,,英语,单选,"<think>
+1. 首先分析问句结构：""Have you met Henry before?"" 这是一个现在完成时的疑问句，询问""你以前见过Henry吗？""。
+2. 现在看选项：
+   A. ""Yes, at first."" - ""at first""表示""起初""，与完成时问句不匹配。
+   B. ""Yes, on holiday."" - 这是一个合理的回答，说明""在假期见过""。
+   C. ""Yes, I do."" - ""do""用于一般现在时，与完成时问句不匹配。
+   D. ""nan"" - 这不是有效回答。
+3. 最符合语法和逻辑的回答是B，因为它正确回应了完成时问句，并提供了合理的见面场景。
+</think>
+
+difficulty: 简单
+knowledge_domain: 英语语法与时态
+knowledge_tree: 现在完成时的疑问句及回答
+task_grade: 小学五年级
+task_semester: 下学期
+task_subject: 英语
+
+答案：B",1
+09532f9717024582bb7aa1ac5b4e7654,"—Is the cup dirty or clean? 
+
+— $$\underline{}$$ .
+","Yes, it is","No, it isn't",It dirty,It's clean,D,"考查选择疑问句。回答or的选择疑问句，不回答yes或者是no，直接回答问句中的问题。根据选项，clean是形容词，需要be动词构型系表结构，因此选D。
+",易,小学;英语;知识点;句法;句法,语言知识运用,小学,,英语,单选,"<think>
+1. 首先分析问题：问句是""Is the cup dirty or clean?""，这是一个选择疑问句，询问杯子是脏的还是干净的。
+2. 选择疑问句的回答需要直接选择其中一个选项回答，而不是用Yes/No回答，因此排除A和B。
+3. 对比C和D选项：
+   - C选项""It dirty""语法错误，缺少be动词。
+   - D选项""It's clean""语法正确，完整回答""它是干净的""。
+4. 因此最合适的答案是D。
+</think>
+
+difficulty: 简单题
+knowledge_domain: 英语语法与问答
+knowledge_tree: 选择疑问句的回答方式/be动词用法
+task_grade: 小学三年级
+task_semester: 第一学期
+task_subject: 英语
+
+答案：D",1
+c9312507be1649148e1c81de044a179b,"选出与所给句子意思相同的选项
+
+Jack is a boy. He is in a red coat.
+",Jack's hair is red.,Jack is a boy in a red coat.,,,B,"考查同义句。题干：Jack 是一个男孩。他穿着一件红色的外套。A. Jack 的头发是红色的。B. Jack 是一个穿着红色外套的男孩。B 涵盖了题干的内容。故选 B。
+",较易,小学;英语;题型;句型转换;句型转换,句法-句子分类（语气）-陈述句-肯定句,小学,上学期,英语,单选,"<think>
+1. 首先理解原句的意思：""Jack is a boy. He is in a red coat."" 意思是""杰克是个男孩，他穿着一件红色外套""。
+2. 分析选项：
+   A. ""Jack's hair is red."" 意思是""杰克的头发是红色的""，这与原句描述的外套颜色无关，不正确。
+   B. ""Jack is a boy in a red coat."" 意思是""杰克是一个穿着红色外套的男孩""，这与原句意思完全一致。
+   C和D选项为""nan""，表示无意义选项。
+3. 因此最符合原句意思的选项是B。
+</think>
+
+difficulty: 简单
+knowledge_domain: 英语句子理解
+knowledge_tree: 基础英语/句子理解
+task_grade: 小学三年级
+task_semester: 上学期
+task_subject: 英语
+
+答案：B",1
+457f65c5ac8c40c7906f7214d4e83f43,"There $$\underline{}$$ a football and two basketballs under the desk.
+",is,be,aren't,are,A,"考查there be的就近原则。离be动词最近的是a football，单数形式，根据there be的就近原则，用is。B、C、D语法错误。句意：在桌子下面有一个足球和两个篮球。故选：A。
+",较易,小学;英语;知识点;句法;主谓一致,语言知识运用,小学,上学期,英语,单选,"<think>
+1. 首先分析句子结构：主语是""a football and two basketballs""（一个足球和两个篮球），这是复数形式。
+2. 空格处需要填入的动词需要与复数主语保持一致。
+3. 选项分析：
+   - A. ""is""是单数形式，不符合复数主语。
+   - B. ""be""是动词原形，不能直接用于陈述句。
+   - C. ""aren't""是否定形式，但句子没有否定含义。
+   - D. ""are""是复数形式，符合主语要求。
+4. 因此正确答案是D。
+</think>
+
+difficulty: 简单
+knowledge_domain: 英语语法
+knowledge_tree: 主谓一致
+task_grade: 小学三年级
+task_semester: 下学期
+task_subject: 英语
+
+答案：D",0
+60f805efa1fd4f25b7f27895b96c2f79,"If Tom had not gone to the airport in the storm, he $$\underline{}$$ alive now.
+",will be,would be,would have been,,C,"本题考查虚拟语气。句意为：如果Tom没有在暴风雨天去机场，他现在就可以活着了。描述与过去事实相反时，从句使用过去完成时，主句使用would have done，即would have been。故选C。
+",较易,小学;英语;知识点;词法;虚拟语气,语言知识运用,小学,,英语,单选,"<think>
+这道题考察的是虚拟语气的用法。我们需要根据句子的时间关系和语境来判断正确的选项。
+
+1. 首先看句子的结构：""If Tom had not gone to the airport in the storm""使用了过去完成时，表示对过去情况的假设。
+2. 主句""he ___ alive now""中的""now""表明这是对现在情况的假设结果。
+3. 在虚拟语气中，当从句使用""had + 过去分词""(表示与过去事实相反)时，主句应该使用""would/could/might + 动词原形""(表示现在的结果)。
+4. 选项分析：
+   A. ""will be""是一般将来时，不符合虚拟语气结构
+   B. ""would be""符合虚拟语气中主句的结构要求
+   C. ""would have been""用于表示过去的结果，与""now""矛盾
+   D. ""nan""不是有效选项
+5. 因此最符合语法规则的是B选项""would be""。
+</think>
+
+difficulty: 中等难度
+knowledge_domain: 英语语法
+knowledge_tree: 虚拟语气/条件句
+task_grade: 小学六年级
+task_semester: 下学期
+task_subject: 英语
+
+答案：B",0
+0fa780ece06b4cc2920fcb8635ef0501,"A torch uses 3 batteries every 6 hours. How many packs of 4 batteries will you need to run the torch for 30 hours? 
+",2,3,4,5,C,"考查句意理解和逻辑推理。句意：一个火炬每6小时使用3节电池。你需要多少包4节电池来维持30小时的火炬运转？根据句意可知30个小时需要15节电池，4包4节电池是16个。故选：C。
+",易,小学;英语;题型;英文数学/智力题;英文数学/智力题,英文数学/智力题,小学,上学期,英语,单选,"<think>
+1. 首先计算30小时内需要多少节电池：
+   - 已知6小时消耗3节电池，那么每小时消耗电池数 = 3 ÷ 6 = 0.5节/小时
+   - 30小时需要的电池总数 = 0.5 × 30 = 15节
+
+2. 然后计算需要多少包电池（每包4节）：
+   - 15 ÷ 4 = 3.75包
+   - 因为不能买部分电池包，所以需要向上取整为4包
+
+3. 验证选项：
+   - A. 2包 → 8节（不够）
+   - B. 3包 → 12节（不够）
+   - C. 4包 → 16节（满足15节需求）
+   - D. 5包 → 20节（过多）
+
+因此正确答案是C。
+</think>
+
+difficulty: 中等（涉及两步计算和取整逻辑）
+knowledge_domain: 数学应用题/单位换算
+knowledge_tree: 四则运算/实际问题解决
+task_grade: 小学五年级
+task_semester: 下学期
+task_subject: 数学（英语题干）
+
+答案：C",1
+17d98f0d1b444827818e81205249f3e4,"$#table{|A: When is your birthday, Pluto? <br/>B: It's on Children's Day.<br/>A: That's easy to remember.|}#$
+
+What's Pluto's birthday? 
+",It's in spring.,It's in summer.,,,B,"考查文化常识。根据题目可知，Pluto 的生日在儿童节，根据文化常识可知，儿童节在夏天，所以他的生日在夏天。故选B。
+",易,小学;英语;知识点;基础知识;文化常识,语言知识运用,小学,上学期,英语,单选,"<think>
+1. 首先，我们需要理解题目中的对话内容。对话中，A问Pluto的生日是什么时候，B回答说“It's on Children's Day.”，即“在儿童节那天”。
+2. 在中国，儿童节（Children's Day）是每年的6月1日。6月属于夏季（summer），因此Pluto的生日是在夏季。
+3. 选项A说“It's in spring.”（在春天），这是不正确的，因为6月不是春天。
+4. 选项B说“It's in summer.”（在夏天），这是正确的，因为6月属于夏季。
+5. 选项C和D都是“nan”（无意义或未提供信息），可以忽略。
+6. 因此，正确答案是B。
+</think>
+
+difficulty: 简单
+knowledge_domain: 节日与季节
+knowledge_tree: 英语基础知识 -> 节日与时间表达
+task_grade: 小学三年级
+task_semester: 下学期
+task_subject: 英语
+
+答案：B",1
+c9312507be1649148e1c81de044a179b,"选出与所给句子意思相同的选项
+
+Jack is a boy. He is in a red coat.
+",Jack's hair is red.,Jack is a boy in a red coat.,,,B,"考查同义句。题干：Jack 是一个男孩。他穿着一件红色的外套。A. Jack 的头发是红色的。B. Jack 是一个穿着红色外套的男孩。B 涵盖了题干的内容。故选 B。
+",较易,小学;英语;题型;句型转换;句型转换,句法-句子分类（语气）-陈述句-肯定句,小学,上学期,英语,单选,"<think>
+1. 首先理解原句的意思：""Jack is a boy. He is in a red coat."" 意思是""杰克是个男孩。他穿着一件红色外套。""
+2. 分析选项：
+   A. ""Jack's hair is red."" 意思是""杰克的头发是红色的""，这与原句描述的外套颜色无关，不正确。
+   B. ""Jack is a boy in a red coat."" 意思是""杰克是一个穿着红色外套的男孩""，这与原句意思完全一致。
+   C和D选项为""nan""，表示无意义或缺失选项。
+3. 因此最符合原句意思的选项是B。
+</think>
+
+difficulty: 简单
+knowledge_domain: 英语句子理解
+knowledge_tree: 基础英语/句子理解与匹配
+task_grade: 小学三年级
+task_semester: 第一学期
+task_subject: 英语
+
+答案：B",1
+e7a19591ba4949f8a5e1ccb037f131d8,"下列大写字母是按26个字母顺序排列的选项是（   ）
+",I   J   G   H,Q   R   S   T,V   U   W   X,,B,"考查字母排序。三个选项的正确排序应是G H I J；Q R S T；U V W X，故选B。
+",易,小学;英语;知识点;基础知识;字母,基础知识-字母,小学,上学期,英语,单选,"<think>
+题目要求找出按26个字母顺序排列的选项。我们需要检查每个选项中的字母顺序是否正确。
+
+A. I, J, G, H
+- I (9), J (10), G (7), H (8)
+- 顺序应为G, H, I, J，但实际顺序是I, J, G, H，不符合字母顺序。
+
+B. Q, R, S, T
+- Q (17), R (18), S (19), T (20)
+- 顺序是Q, R, S, T，完全符合字母顺序。
+
+C. V, U, W, X
+- V (22), U (21), W (23), X (24)
+- 顺序应为U, V, W, X，但实际顺序是V, U, W, X，不符合字母顺序。
+
+D. nan
+- 这不是有效的字母选项。
+
+因此，只有选项B的字母是按26个字母顺序排列的。
+</think>
+
+difficulty: 简单
+knowledge_domain: 英语字母
+knowledge_tree: 字母顺序
+task_grade: 小学一年级
+task_semester: 第一学期
+task_subject: 英语
+
+答案：B",1
+3a13a862b7c44e5d82558dfad17c0657," I think there will be $$\underline{}$$ people and $$\underline{}$$ pollution.
+",less; fewer,less; more,fewer; less,fewer; fewer,C,"本题考查形容词比较级。few修饰可数名词，比较级是fewer; little修饰不可数名词，比较级是less; 所以是fewer people ; less pollution; 故选C。
+",易,小学;英语;知识点;词法;形容词和副词,few,小学,,英语,单选,"<think>
+1. 首先分析句子结构：这是一个关于未来人口和污染的预测句，需要选择两个形容词的正确比较级形式。
+2. 第一个空修饰""people""（人）：
+   - ""people""是可数名词，应该用""fewer""修饰（fewer people = 更少的人）
+   - ""less""用于不可数名词，所以A、B选项第一个空错误
+3. 第二个空修饰""pollution""（污染）：
+   - ""pollution""是不可数名词，应该用""less""修饰（less pollution = 更少的污染）
+   - ""fewer""用于可数名词，所以D选项第二个空错误
+4. 综合判断：
+   - A：第一个空错误（less people）
+   - B：两个空都错误
+   - D：第二个空错误（fewer pollution）
+   - C：fewer people和less pollution都正确
+</think>
+
+difficulty: 中等难度
+knowledge_domain: 英语语法
+knowledge_tree: 形容词比较级/可数与不可数名词修饰
+task_grade: 小学六年级
+task_semester: 下学期
+task_subject: 英语
+
+答案：C",1
+466926406ec04077b942a2c1af8eec42,"Nice $$\underline{}$$ meet you.
+",to,too,two,,A,"考查固定搭配。Nice to meet you. 见到你很高兴。这句话是日常交际用语。故选A。
+",易,小学;英语;知识点;基础知识;固定搭配,基础知识-固定搭配,小学,上学期,英语,单选,"<think>
+这道题目考察的是英语中常见的问候语表达方式。""Nice to meet you"" 是标准的英语问候语，意思是""很高兴见到你""。我们需要选择一个正确的单词填入空白处。
+
+分析各个选项：
+A. ""to"" - 这是正确的选择，因为""Nice to meet you""是固定搭配
+B. ""too"" - 意思是""也""，不符合语境
+C. ""two"" - 意思是数字""2""，完全不符合
+D. ""nan"" - 这不是一个有效的英语单词
+
+因此，正确答案是A。
+</think>
+
+difficulty: 简单
+knowledge_domain: 英语基础表达
+knowledge_tree: 问候语/固定搭配
+task_grade: 小学三年级
+task_semester: 第一学期
+task_subject: 英语
+
+答案：A",1
+5986078a8f4d47d88de1b14c23c875a8,"连词成句
+
+do, what, you, have
+",What do you have.,What do you have?,,,B,"考查特殊疑问句。疑问词what意为 ""什么"" ，What do you have? 你有什么？为助动词do类型特殊疑问句，句末应用问号，故答案为：B。
+",易,小学;英语;题型;连词成句;连词成句,语言知识运用,小学,下学期,英语,单选,"<think>
+1. 首先分析题目要求""连词成句""，需要将给定的单词组合成一个语法正确的句子。
+2. 给定的单词是：do, what, you, have
+3. 英语中疑问句的基本结构通常是疑问词+助动词+主语+动词。这里""what""是疑问词，""do""是助动词，""you""是主语，""have""是动词。
+4. 因此正确的顺序应该是：What do you have
+5. 这是一个疑问句，句末应该使用问号。
+6. 选项A使用句号不正确，选项B使用问号正确。
+7. 选项C和D都是""nan""（非答案），可以排除。
+</think>
+
+difficulty: 简单
+knowledge_domain: 英语语法
+knowledge_tree: 句子结构/疑问句
+task_grade: 小学三年级
+task_semester: 上学期
+task_subject: 英语
+
+答案：B",1
+153f29ff9c6d4ddd9f08c51ca1990e77,"Don't worry. He has $$\underline{}$$ to buy the dress for you.
+",money enough,many money,too many money,enough money,D,"考查enough的too的区别。Enough放在名词之后形容词之前，money是名词。
+",易,小学;英语;知识点;词法;形容词和副词,词法-形容词和副词-形容词-形容词的句法功能-形容词作定语,小学,,英语,单选,"<think>
+1. 首先分析句子结构：这是一个肯定句，主语是""He""，谓语是""has""，宾语部分需要填入一个正确的短语。
+2. 考察money的用法：
+   - money是不可数名词，不能用many修饰（排除B和C）
+   - enough修饰名词时通常放在名词前（如enough money），修饰形容词/副词时才后置（如big enough）
+3. 选项分析：
+   A. money enough（语序错误）
+   B. many money（many不能修饰不可数名词）
+   C. too many money（many不能修饰不可数名词）
+   D. enough money（正确语序和搭配）
+4. 句子完整意思：""别担心，他有足够的钱给你买这条裙子。""
+</think>
+
+difficulty：简单题
+knowledge_domain：形容词用法
+knowledge_tree：形容词修饰名词的语序规则
+task_grade：小学五年级
+task_semester：第一学期
+task_subject：英语
+
+答案：D",1
+7e8c166a2f384543b2f829018152ea2a,"Q is in "" $$\underline{}$$ "".
+",pear,rabbit,question,,C,"考查字母。根据单词拼写可知，三个选项中只有C选项有q。句意：q 在 ""question"" 里。故选：C。
+",易,小学;英语;知识点;基础知识;字母,语言知识运用,小学,上学期,英语,单选,"<think>
+1. 首先，我们需要理解题目要求。题目中给出了一个字母""Q""，并问它在哪个单词中被包含（即该单词包含字母""Q""）。
+2. 我们逐一检查每个选项：
+   - A. ""pear""：拼写为p-e-a-r，不包含字母""Q""。
+   - B. ""rabbit""：拼写为r-a-b-b-i-t，不包含字母""Q""。
+   - C. ""question""：拼写为q-u-e-s-t-i-o-n，第一个字母就是""Q""，符合要求。
+   - D. ""nan""：拼写为n-a-n，不包含字母""Q""。
+3. 因此，唯一包含字母""Q""的单词是""question""。
+</think>
+
+difficulty: 简单
+knowledge_domain: 英语词汇
+knowledge_tree: 字母识别与单词拼写
+task_grade: 小学三年级
+task_semester: 第一学期
+task_subject: 英语
+
+答案：C",1
+2c8dd4e92ce545a69474d3d3ce441516,"—What are they? 
+
+— $$\underline{}$$ .
+",There're zebras.,They're pandas.,They are black and white.,,B,"考查特殊疑问句回答。回答What are they? 他们是什么？常用They are…故选B。
+",易,小学;英语;题型;听力;听力,语言知识运用,小学,下学期,英语,单选,"<think>
+1. 首先，我们需要理解题目问的是""What are they?""，即询问""它们是什么？""。
+2. 回答需要直接说明""它们""是什么动物或事物。
+3. 选项分析：
+   - A选项""There're zebras""语法错误，正确应为""They're zebras""。
+   - B选项""They're pandas""语法正确，直接回答了问题。
+   - C选项""They are black and white""描述的是颜色特征，没有回答""是什么""的问题。
+   - D选项""nan""无意义。
+4. 最符合问句的回答是B选项，直接说明了""它们是大熊猫""。
+</think>
+
+difficulty: 简单
+knowledge_domain: 英语问答
+knowledge_tree: 基础英语/特殊疑问句回答
+task_grade: 小学三年级
+task_semester: 第一学期
+task_subject: 英语
+
+答案：B",1
+2932faf59fe84a03be46426e8575b8bc,"$$\textbf{Read the question and choose the best answer }\textbf{（}\textbf{A, B, C or D}\textbf{）}\textbf{. }$$
+
+Which of these sports is played on a pitch? 
+",golf,hockey,ice hockey,basketball,B,,较易,小学;英语;知识点;词法;词法,语言知识运用,小学,,英语,单选,"<think>
+1. 首先理解题目问的是“哪种运动是在pitch上进行的”。需要明确pitch在体育术语中的含义。
+2. 查阅pitch的定义：在英式英语中，pitch通常指户外运动的场地，尤其是足球、橄榄球、曲棍球等运动的草地场地。
+3. 分析选项：
+   - A. golf：高尔夫是在course（球场）上进行的，不是pitch。
+   - B. hockey：曲棍球（通常指草地曲棍球）是在pitch上进行的，符合题意。
+   - C. ice hockey：冰球是在rink（冰场）上进行的，不是pitch。
+   - D. basketball：篮球是在court（球场）上进行的，不是pitch。
+4. 最符合pitch定义的选项是B（hockey）。
+</think>
+
+difficulty: 简单  
+knowledge_domain: 英语词汇与体育术语  
+knowledge_tree: 运动场地名称辨析  
+task_grade: 小学高年级（5-6年级）  
+task_semester: 上学期  
+task_subject: 英语  
+
+答案：B",1
+79380f7955a84f54974d080cbfaece02,"Last night she went shopping and bought $$\underline{}$$ .
+",a trouser,a piece of trouser,the trouser,a pair of trousers,D,"考查数词。句意：昨晚她去商店买了一条裤子，因为 ""裤子"" 必须是 trousers，所以用量词a pair of来修饰，故选D。
+",易,小学;英语;知识点;基础知识;基础知识,语言知识运用,小学,,英语,单选,"<think>
+1. 首先分析题目要求：选择正确的短语来填空，描述“她昨晚购物买了什么”。
+2. 分析选项：
+   - A. ""a trouser""：英语中""trousers""通常以复数形式出现，表示裤子，单数形式不常见且不正确。
+   - B. ""a piece of trouser""：这种表达方式不正确，裤子不是可以按""piece""计数的物品。
+   - C. ""the trouser""：同样，使用单数形式不正确，且缺少上下文支持使用定冠词""the""。
+   - D. ""a pair of trousers""：这是正确的表达方式，因为裤子通常以复数形式出现，并且用""pair""来表示一条裤子。
+3. 排除法：A、B、C选项都有语法或用法错误，只有D选项是正确的表达方式。
+4. 验证：查阅英语语法规则和常用表达，""a pair of trousers""是描述购买裤子的标准用法。
+</think>
+
+difficulty: 简单
+knowledge_domain: 英语语法与词汇
+knowledge_tree: 名词的单复数形式/量词的使用
+task_grade: 小学五年级
+task_semester: 第一学期
+task_subject: 英语
+
+答案：D",1
+5e1daf5366da4a28be9a29f59e078e23,"—Where did you go last weekend? 
+
+— $$\underline{}$$ 
+",I went there by bus.,At 3 p.m.,I went to the park.,,C,"考查情景交际。A. 我乘公车去那里，强调出行方式；B. 在下午三点钟，强调时间；C. 我去了公园，强调地点。根据问句where可知询问的是地点，应用地点来回答，C符合题意。句意：—你上周末去了哪里？—我去了公园。故答案为C。
+",较易,小学;英语;知识点;基础知识;情景交际,单项选择,小学,,英语,单选,"<think>
+题目问的是“你上周末去了哪里？”，这是一个询问地点的特殊疑问句。我们需要选择一个回答地点的选项。
+
+A. ""I went there by bus."" 回答的是交通方式（by bus），不符合问题要求。
+B. ""At 3 p.m."" 回答的是时间，不符合问题要求。
+C. ""I went to the park."" 回答的是地点（the park），完全符合问题要求。
+D. ""nan"" 是无效选项。
+
+因此正确答案是C。
+</think>
+
+difficulty: 简单
+knowledge_domain: 日常交际用语
+knowledge_tree: 特殊疑问句回答
+task_grade: 小学三年级
+task_semester: 下学期
+task_subject: 英语
+
+答案：C",1
+ace870fa73a247bda2022e180b6db3bb,"选出每组中不同类的一项。
+",cousin,bus,plane,,A,,易,小学;英语;题型;分类题;分类题,基础知识-词汇-辨析,小学,,英语,单选,"<think>
+1. 首先分析每个选项的含义：
+   - A. cousin（表兄弟姐妹）属于家庭成员类
+   - B. bus（公交车）属于交通工具类
+   - C. plane（飞机）属于交通工具类
+   - D. nan（拼写错误，可能是""man""的误写，指""男人""）属于人类
+
+2. 分类情况：
+   - 交通工具类：bus, plane
+   - 人类/家庭成员类：cousin, nan(man)
+
+3. 题目要求选出""不同类""的一项：
+   - 如果从交通工具角度看，cousin和nan是不同类
+   - 但题目是""每组中""的不同类，更可能是找与其他三个不同的一个
+   - bus和plane都是交通工具，cousin和nan都是人，但nan拼写异常
+
+4. 最合理的判断：
+   - bus, plane, nan(man)都是具体名词
+   - cousin是亲属关系名词
+   - 但nan的拼写问题更突出
+
+5. 最可能答案：
+   - D选项nan存在明显拼写问题
+   - 可能是题目设置的""不同类""项
+</think>
+
+difficulty: 简单题
+knowledge_domain: 词汇分类
+knowledge_tree: 基础词汇/名词分类
+task_grade: 小学三年级
+task_semester: 上学期
+task_subject: 英语
+
+答案：D",0
+65dad1ce1ad84dd58c76620f5feec10a,"—What is the weather like?
+
+— $$\underline{}$$.
+",It's cool,It is small,It has some leaves,,A,"句意：天气如何？A 很凉爽。B 很小。C 有一些叶子。故选A。
+",较易,小学;英语;知识点;基础知识;情景交际,语言知识运用,小学,,英语,单选,"<think>
+题目问的是“天气怎么样？”，这是一个询问天气状况的句子。我们需要选择一个最合适的回答来描述天气。
+
+A. It's cool - 意思是“天气很凉爽”，这是描述天气的合适回答。
+B. It is small - 意思是“它很小”，这与天气无关，不符合题意。
+C. It has some leaves - 意思是“它有一些叶子”，这与天气无关，不符合题意。
+D. nan - 这是一个无意义的选项，可以忽略。
+
+因此，最合适的回答是A选项。
+</think>
+
+difficulty: 简单
+knowledge_domain: 日常交际用语
+knowledge_tree: 英语/日常交际/天气
+task_grade: 小学三年级
+task_semester: 第一学期
+task_subject: 英语
+
+答案：A",1
+a6cf09401bff42058481e17b6fd0ed95,"What comes twice in a moment, once in a minute and never in a hundred years? 
+",o,m,t,,B,"考查句义理解。根据题干可知，什么在moment中出现两次，在minute中出现一次，在hundred years中不出现，寻找规律可知是字母m。故选B。
+",易,小学;英语;知识点;基础知识;字母,单项选择,小学,上学期,英语,单选,"<think>
+这道题目是一个英语谜语，问的是“什么东西在'moment'中出现两次，在'minute'中出现一次，而在'hundred years'中从未出现？”我们需要逐个分析选项中的字母在这些单词中的出现次数。
+
+1. 分析单词'moment'：
+   - m o m e n t
+   - 字母出现次数：m(2), o(1), e(1), n(1), t(1)
+   - 需要找出现两次的字母：m
+
+2. 分析单词'minute'：
+   - m i n u t e
+   - 字母出现次数：m(1), i(1), n(1), u(1), t(1), e(1)
+   - 需要找出现一次的字母：m符合（因为m在'moment'中出现两次，在'minute'中出现一次）
+
+3. 分析单词'hundred years'：
+   - h u n d r e d   y e a r s
+   - 字母出现次数：h(1), u(1), n(1), d(2), r(2), e(2), y(1), a(1), s(1)
+   - 需要找从未出现的字母：m确实没有出现
+
+综上所述，字母'm'满足所有条件：
+- 在'moment'中出现两次
+- 在'minute'中出现一次
+- 在'hundred years'中从未出现
+
+其他选项分析：
+A. 'o'在'moment'中出现一次，不符合
+C. 't'在'moment'和'minute'中都出现一次，不符合
+D. 'nan'不是一个字母，不符合
+</think>
+
+difficulty: 中等（需要一定的英语单词拼写和字母频率分析能力）
+knowledge_domain: 英语词汇与逻辑推理
+knowledge_tree: 英语谜语/字母频率分析
+task_grade: 小学高年级（4-6年级）
+task_semester: 不限
+task_subject: 英语
+
+答案：B",1
+0dfb63d4906b45558f7137ecbdcd77ca,"What do you do on Sundays? 
+",I play football.,It's windy.,She watches TV.,,A,,易,小学;英语;题型;听力;听力,语言知识运用,小学,下学期,英语,单选,"<think>
+题目问的是“你星期天做什么？”，这是一个关于个人日常活动的问句，需要回答主语为“I”的句子。
+
+A. ""I play football."" 主语是“I”，符合问题的主语要求，且回答的是星期天的活动，正确。
+B. ""It's windy."" 回答的是天气情况，与问题无关，错误。
+C. ""She watches TV."" 主语是“She”，与问题的主语“you”不符，错误。
+D. ""nan"" 不是一个有效的回答，错误。
+
+因此，正确答案是A。
+</think>
+
+difficulty: 简单
+knowledge_domain: 日常活动
+knowledge_tree: 英语语法/句型结构
+task_grade: 小学三年级
+task_semester: 第一学期
+task_subject: 英语
+
+答案：A",1
+25cc1ccd70d3448f9fc9d15113c519a2,"—Where did you go for your winter vacation? 
+
+—My family went to Paris. $$\underline{}$$ had a great time.
+",He,She,We,They,C,"考查代词。句意为：—你寒假去了哪里？—我们一家人去了巴黎。我们玩得很开心。根据语境可知是一家人一起去的，所以用we，选C。
+",易,小学;英语;知识点;词法;代词,语言知识运用,小学,上学期,英语,单选,"<think>
+1. 首先理解题目：这是一个对话，问句询问对方寒假去了哪里，答句说“我的家人去了巴黎”，然后需要选择一个代词填空。
+2. 分析句子结构：答句的主语是""My family""（我的家人），这是一个集体名词，可以视为复数概念。
+3. 看选项：
+   A. He - 单数男性，不符合
+   B. She - 单数女性，不符合
+   C. We - 我们，可以包括说话者和家人
+   D. They - 他们，可以指代家人
+4. 进一步分析：
+   - 如果选D，意思是“他们玩得很开心”，但前面说的是“我的家人”，说话者可能不包括在内
+   - 选C“我们”更合适，因为通常和家人一起旅行时，说话者也会包括在内
+5. 排除法：A、B明显错误，在C和D之间，C更符合日常表达习惯
+</think>
+
+difficulty: 简单
+knowledge_domain: 英语语法
+knowledge_tree: 代词用法/主格代词
+task_grade: 小学五年级
+task_semester: 第一学期
+task_subject: 英语
+
+答案：C",1
+f6f7edc90cc347bc86f3fff28cd991b8,"Shark's fins $$\underline{}$$ by people to make soup.
+",cut off,are cut of,are cut off,,C,"考查固定短语和被动语态。句意：鲨鱼翅被人们切下来做汤。 ""cut off"" 意为 ""切掉、切断"" ，是固定短语；本句主语 ""Shark's fins"" 和谓语 ""cut off"" 在逻辑上是被动关系，即 ""鲨鱼翅被切下来"" ，所以应使用被动语态，C项符合语境。故答案为：C。
+",易,小学;英语;知识点;词法;被动语态,cut off,小学,上学期,英语,单选,"<think>
+1. 首先理解题目意思：鲨鱼的鳍被人类用来做汤。需要选择正确的被动语态形式。
+2. 分析选项：
+   - A选项""cut off""是主动语态，不符合被动语态要求
+   - B选项""are cut of""语法错误，""of""是错误介词
+   - C选项""are cut off""是正确的被动语态形式
+   - D选项""nan""明显不是正确答案
+3. 确定正确答案是C，因为：
+   - 主语""Shark's fins""是复数
+   - 需要被动语态""are cut off""表示""被割下""
+   - ""cut off""是正确的动词短语
+</think>
+
+difficulty: 简单
+knowledge_domain: 英语语法
+knowledge_tree: 被动语态/动词短语
+task_grade: 小学六年级
+task_semester: 下学期
+task_subject: 英语
+
+答案：C",1
+b15a00625b4c41c89b24ab273ef4e18d,The old lady treats the boy $$\underline{}$$ he were her own son.,as if,as,while,in case,A,"本题考查状语从句连接词。句意为：那位老妇人像对待自己亲生儿子一样对待那个男孩。A. as if 好像；B. as 因为；C. while 当…时，然而；D. in case 以防万一。故选A。
+",易,小学;英语;知识点;词法;虚拟语气,词法-虚拟语气-其他虚拟语气,小学,,英语,单选,"<think>
+1. 首先理解句子的意思：“这位老太太对待这个男孩____他是她自己的儿子。”需要选择一个最合适的短语来填空。
+2. 分析选项：
+   - A. ""as if"" 意思是“好像”，常用于虚拟语气，表示假设或比喻的情况。这里“好像他是她自己的儿子”符合句意。
+   - B. ""as"" 意思是“作为”，但“作为他是她自己的儿子”语法和逻辑都不通顺。
+   - C. ""while"" 意思是“当...时”或“虽然”，不符合句意。
+   - D. ""in case"" 意思是“以防”，与句意无关。
+3. 最符合语法和句意的是A选项“as if”，表示老太太对待男孩的方式就像对待自己的儿子一样。
+</think>
+
+difficulty: 中等  
+knowledge_domain: 英语语法  
+knowledge_tree: 连词/虚拟语气  
+task_grade: 小学高年级（5-6年级）  
+task_semester: 下学期  
+task_subject: 英语  
+
+答案：A",1
+03029a8dbc054011adeb4b9d615246c0,"$$\textbf{Read the question and choose the best answer }\textbf{（}\textbf{A, B, C or D}\textbf{）}\textbf{. }$$
+
+If the Reds won their match 5-3 and the Blues won theirs 1-0, which team had the best attack? 
+",the Reds,the Blues,both teams,neither team,A,,较易,小学;英语;知识点;词法;词法,词法-名词,小学,,英语,单选,"<think>
+题目问的是“哪支球队的进攻最好”，需要比较两支球队的进球数。
+
+1. 红队（Reds）的比赛结果是5-3，表示红队进了5个球。
+2. 蓝队（Blues）的比赛结果是1-0，表示蓝队进了1个球。
+3. 比较两支球队的进球数：红队进了5个球，蓝队进了1个球。显然，红队的进球数更多，进攻更好。
+
+因此，最佳答案是A. the Reds。
+</think>
+
+difficulty: 简单
+knowledge_domain: 体育比赛结果理解
+knowledge_tree: 基础英语阅读与逻辑推理
+task_grade: 小学三年级
+task_semester: 上学期
+task_subject: 英语
+
+答案：A",1
+3230ec8b95d0478f8e1bb135d792e4d7,"A mouse lives in a big h$$\underline{}$$se.
+",s$$\underline{}$$p,ab$$\underline{}$$t,,,B,"考查单词发音。h$$\underline{}$$se的划线部分发音为/haʊs/。A. s$$\underline{}$$p/suːp/；B. ab$$\underline{}$$t/ə'baʊt/。由此可知，about与题干划线部分发音一致。故选B。
+",易,小学;英语;知识点;基础知识;语音,基础知识-语音-音素-元音-双元音,小学,上学期,英语,单选,"<think>
+1. 首先理解题目：句子意思是“一只老鼠住在一个大____里”，需要选择一个合适的单词填入空缺处。
+2. 观察空缺部分：需要填入两个字母（由下划线数量决定），且前面是字母""h""，后面是""se""。
+3. 分析选项：
+   - A. ""s$$\underline{}$$p""：填入后为""hsp""，这不是一个有效的英文单词。
+   - B. ""ab$$\underline{}$$t""：填入后为""habt""，这不是一个有效的英文单词。
+   - C. ""nan""：填入后为""house""，这是一个有效的英文单词，意思是“房子”。
+   - D. ""nan""：与C相同，填入后为""house""。
+4. 结合常识：老鼠通常住在房子里，""house""是最合理的答案。
+5. 虽然C和D都能组成""house""，但通常考试中这种情况会选择第一个正确选项。
+</think>
+
+difficulty: 简单
+knowledge_domain: 词汇
+knowledge_tree: 基础名词/生活场景词汇
+task_grade: 小学三年级
+task_semester: 第一学期
+task_subject: 英语
+
+答案：C",0
+4530209413a8445faa817efe254fdcf6,"$$\textbf{Look at the sentences below and choose the correct one.}$$
+",Write me a letter to tell me what are you going to do.,Write me a letter to tell me what you are going to do.,,,B,,较易,小学;英语;知识点;句法;句法,单项选择,小学,,英语,单选,"<think>
+1. 首先分析句子结构：题目要求选择一个正确的句子，核心是考察宾语从句的语序。
+2. 选项A的从句部分""what are you going to do""是疑问句语序（助动词are提前），但宾语从句应该用陈述句语序。
+3. 选项B的从句""what you are going to do""是正确的陈述句语序（主语you在前，系动词are在后）。
+4. 选项C和D都是""nan""（非答案选项），可以直接排除。
+5. 因此正确答案是B，它符合宾语从句要用陈述句语序的语法规则。
+</think>
+
+difficulty: 简单题
+knowledge_domain: 英语语法
+knowledge_tree: 复合句/宾语从句
+task_grade: 小学六年级
+task_semester: 下学期
+task_subject: 英语
+
+答案：B",1
+626bd3ef738e4d9185194a084131bd6a,"$$\textbf{Choose the correct option to complete the reported question.}$$
+
+'Can Dad take us to the party? '
+
+He asked $$\underline{}$$ take us to the party.
+",could Dad,whether Dad could,if Dad can,,B,,较易,小学;英语;知识点;句法;句法,句法-句子分类（结构）-复合句-名词性从句-名词性从句的连接词-连接词if/whether,小学,,英语,单选,"<think>
+1. 首先分析原句是直接引语的疑问句""Can Dad take us to the party?""，需要转换为间接引语(宾语从句)。
+2. 间接引语中疑问句要用陈述语序，且时态要相应变化：
+   - 直接引语中的""Can""要变为""could""
+   - 主语""Dad""要放在情态动词前
+3. 英语中间接引语常用""if""或""whether""引导一般疑问句
+4. 分析选项：
+   A. ""could Dad""语序错误(疑问语序)
+   B. ""whether Dad could""完全正确
+   C. ""if Dad can""时态未变化
+   D. ""nan""明显错误
+5. 因此最佳答案是B选项。
+</think>
+
+difficulty: 中等难度
+knowledge_domain: 英语语法
+knowledge_tree: 间接引语/宾语从句
+task_grade: 小学六年级
+task_semester: 下学期
+task_subject: 英语
+
+答案：B",1
+b15a00625b4c41c89b24ab273ef4e18d,The old lady treats the boy $$\underline{}$$ he were her own son.,as if,as,while,in case,A,"本题考查状语从句连接词。句意为：那位老妇人像对待自己亲生儿子一样对待那个男孩。A. as if 好像；B. as 因为；C. while 当…时，然而；D. in case 以防万一。故选A。
+",易,小学;英语;知识点;词法;虚拟语气,词法-虚拟语气-其他虚拟语气,小学,,英语,单选,"<think>
+1. 首先理解句意：老妇人对待这个男孩的方式，就像他是自己的儿子一样。这里需要表达一种""好像""的虚拟语气。
+2. 分析选项：
+   A. ""as if"" 表示""好像""，常用于虚拟语气，符合句意。
+   B. ""as"" 表示""作为""，不符合虚拟语气的需要。
+   C. ""while"" 表示""当...时候""或""然而""，不符合句意。
+   D. ""in case"" 表示""以防""，完全不符合句意。
+3. 语法角度：""as if""后接虚拟语气""he were""是正确的用法。
+4. 排除法：B、C、D都不符合虚拟语气的表达需要。
+</think>
+
+difficulty: 中等难度
+knowledge_domain: 英语语法
+knowledge_tree: 虚拟语气/连词用法
+task_grade: 小学六年级
+task_semester: 下学期
+task_subject: 英语
+
+答案：A",1
+f071c803af2144d5931fe096f2ed369d,"$#table{|$$\centerline{}centerlineendflag<br/>$$\centerline{HOSPITAL VISITORS ONLY}centerlineendflag<br/>$$\centerline{WAITING LIMITED TO}centerlineendflag<br/>$$\centerline{TWO HOURS}centerlineendflag<br/>$$\centerline{FOLLOW SIGNS TO STAFF}centerlineendflag<br/>$$\centerline{PARKING}centerlineendflag|}#$
+
+",Only hospital visitors can park here for longer than two hours.,Members of hospital staff are allowed to leave their cars here.,This car park is for people visiting the hospital for a short time.,,C,"1. 题目是一则停车告示。Waiting limited to two hours 说明最多两小时，故A错误，A强调超过两小时longer than two hours。根据hospital visitors only 和最后的follow signs to staff（员工） parking 可知B选项错误。两小时是比较短的时间故C正确。
+",较易,小学;英语;题型;阅读理解;阅读理解,阅读理解,小学,,英语,单选,"<think>
+1. 首先分析题目给出的表格内容，这是一块医院停车场的指示牌，包含以下信息：
+   - HOSPITAL VISITORS ONLY：仅限医院访客
+   - WAITING LIMITED TO TWO HOURS：等待时间限制在两小时内
+   - FOLLOW SIGNS TO STAFF PARKING：按照指示前往员工停车场
+
+2. 逐项分析选项：
+   A. ""访客可以在此停车超过两小时"" - 与""限制两小时""矛盾，错误
+   B. ""医院员工可以在此停车"" - 与""仅限访客""矛盾，员工应去员工停车场，错误
+   C. ""这个停车场是为短期访问医院的人准备的"" - 符合""仅限访客""和""两小时限制""的描述，正确
+   D. 无意义
+
+3. 最符合标牌含义的是C选项。
+</think>
+
+difficulty: 简单
+knowledge_domain: 英语阅读理解
+knowledge_tree: 日常生活标识理解
+task_grade: 小学五年级
+task_semester: 下学期
+task_subject: 英语
+
+答案：C",1
+2719425976b34a2d8c076b2ec19d7682,"—What are you doing? 
+
+—I'm $$\underline{}$$ this clock.
+",fix,fixing,to fix,,B,"考查动词。根据句意是我正在修钟。be doing表示正在做某事，选B。
+",易,小学;英语;知识点;词法;动词时态,fix,小学,,英语,单选,"<think>
+1. 首先看问句""What are you doing?""，这是现在进行时的疑问句形式，询问对方正在做什么。
+2. 答句""I'm""后面应该接现在分词形式，构成现在进行时（be动词+动词ing形式）。
+3. 选项中：
+   A. ""fix""是动词原形，不符合现在进行时结构
+   B. ""fixing""是现在分词，符合结构
+   C. ""to fix""是不定式，不符合
+   D. ""nan""不是有效选项
+4. 因此正确答案是B。
+</think>
+
+difficulty: 简单题
+knowledge_domain: 英语语法
+knowledge_tree: 动词时态/现在进行时
+task_grade: 小学五年级
+task_semester: 上学期
+task_subject: 英语
+
+答案：B",1
+5b65aa637c4a4b7ba06fae2cd7646945,"Two frogs（青蛙）have $$\underline{}$$ eyes and $$\underline{}$$ legs.
+",two; four,four; six,four; eight,,C,"考查常识。句意：2只青蛙有4只眼睛，8条腿。故选C。
+",易,小学;英语;题型;英文数学/智力题;英文数学/智力题,语言知识运用,小学,,英语,单选,"<think>
+1. 题目描述的是两只青蛙的眼睛和腿的数量。
+2. 生物学常识告诉我们，一只青蛙有两只眼睛和四条腿。
+3. 因此，两只青蛙的眼睛总数是2（只/青蛙） × 2（青蛙） = 4只眼睛。
+4. 两只青蛙的腿总数是4（条/青蛙） × 2（青蛙） = 8条腿。
+5. 查看选项：
+   - A选项：two; four → 2只眼睛和4条腿（这是一只青蛙的数量，不符合）
+   - B选项：four; six → 4只眼睛和6条腿（眼睛正确，腿数错误）
+   - C选项：four; eight → 4只眼睛和8条腿（完全正确）
+   - D选项：nan → 无意义
+6. 最符合的是C选项。
+</think>
+
+difficulty: 简单
+knowledge_domain: 生物常识与基础英语
+knowledge_tree: 动物特征/数量表达
+task_grade: 小学三年级
+task_semester: 上学期
+task_subject: 英语
+
+答案：C",1
+2784824d0b4a4764b9ae39c13fcd0ab2,"Choose the correctly frequently used plural word（选择正确的常用复数形式）.
+
+woman
+",women,wimen,,,A,"woman的复数形式women。
+",易,小学;英语;知识点;词法;名词,语言知识运用,小学,,英语,单选,"<think>
+1. 首先，我们需要理解题目要求选择""woman""的正确复数形式。
+2. ""woman""是一个不规则名词，其复数形式不是通过简单加""s""或""es""构成的。
+3. 在英语中，""woman""的复数形式是""women""，这是一个需要记忆的特殊变化形式。
+4. 选项分析：
+   - A. women：这是正确的复数形式
+   - B. wimen：这是错误的拼写
+   - C. nan：这不是英语单词
+   - D. nan：这不是英语单词
+5. 因此，正确答案是A。
+</think>
+
+difficulty：简单
+knowledge_domain：英语名词复数
+knowledge_tree：名词/不规则名词复数
+task_grade：小学三年级
+task_semester：第一学期
+task_subject：英语
+
+答案：A",1
+c1e2999849984ffebae3c356900c88b9,"$#table{|Peter<br/>The garage called. Your car is ready for collection. The key will be in their office until 5:30. Otherwise bring your spare key and get the other one another time.|}#$
+
+",Even if the garage is closed Peter can pick up his car.,Peter should reach the garage before 5.30 in order to collect his car.,Peter cannot get his car until he collects get the key.,,A,"题目中的关键词为collect,collection,the key, until 5:30, spare key; another time.题目是某人给Peter留的便条，修车厂需要Peter去取他的车，如果他想要用留在车厂的钥匙，他需要在5:30之前到达(The key will be in their office until 5:30), 否则(otherwise) 他需要用自己的备用钥匙(spare key)提走车，并在其他时间(another time)拿走留在车厂办公室的钥匙(the other one)，故选A。
+",较易,小学;英语;考查方式;Reading;Reading,Reading-Gist,小学,,英语,单选,"<think>
+1. 首先阅读题目内容：Peter收到车库的通知，说他的车已经准备好可以取走了。钥匙会在他们的办公室保留到5:30。否则（即5:30之后），Peter需要带上备用钥匙，改天再来取另一把钥匙。
+
+2. 分析选项：
+   A. 即使车库关门了，Peter也可以取车。这与通知内容不符，因为通知明确说5:30之后需要带备用钥匙改天来取。
+   B. Peter应该在5:30之前到达车库以便取车。这与通知内容一致，因为通知说钥匙会保留到5:30。
+   C. Peter在拿到钥匙之前不能取车。这与通知内容不完全一致，因为通知没有明确说没有钥匙就不能取车，只是说钥匙的领取时间。
+   D. 无意义选项。
+
+3. 最符合通知内容的选项是B，因为通知明确建议在5:30之前来取钥匙和车。
+</think>
+
+difficulty: 简单
+knowledge_domain: 阅读理解
+knowledge_tree: 英语语言能力/信息提取
+task_grade: 小学高年级
+task_semester: 不限
+task_subject: 英语
+
+答案：B",0
+35be1ec01ea64c919a4abeb21ab68a72,"$$\textbf{Look at the text. What does it say? Mark the correct letter A, B or C. }$$
+
+$#table{|If red light shows, your drink is unavailable – please make another choice|}#$
+",The red light goes on if the drinks machine is out of order.,"If the red light shows, you must wait before you decide on a drink.","If the red light is on, you must choose a different drink.",,C,"划出本题关键词red light, drink unavailable（不可得），another choice。故本则便条强调如果红灯亮起，所选饮料不可得（或许因售空等原因）故需重新作出选择。A选项强调机器故障（out of order）与题意不符。B侧重在选择之前等待，错误。C选项be on与shows近义，different与another choice意思类似，故本题选C。
+",易,小学;英语;考查方式;Reading;Reading,Reading-Gist,小学,,英语,单选,"<think>
+1. 首先阅读题目给出的文本：""If red light shows, your drink is unavailable – please make another choice""（如果红灯亮起，您选择的饮料不可用——请另选一种饮料）。
+2. 分析选项：
+   - A选项说""如果红灯亮起，说明饮料机坏了""（out of order），但原文只说饮料""不可用""（unavailable），并未提到机器故障，因此不完全匹配。
+   - B选项说""必须等待再做决定""，但原文明确要求""另选一种饮料""（make another choice），与等待无关，因此错误。
+   - C选项说""必须选择不同的饮料""，这与原文""饮料不可用，请另选一种""完全一致。
+   - D选项为无效选项。
+3. 最符合原文意思的是C选项。
+</think>
+
+difficulty: 简单题  
+knowledge_domain: 日常生活英语  
+knowledge_tree: 指示牌/通知理解  
+task_grade: 小学五年级  
+task_semester: 第二学期  
+task_subject: 英语  
+
+答案：C",1
+2719425976b34a2d8c076b2ec19d7682,"—What are you doing? 
+
+—I'm $$\underline{}$$ this clock.
+",fix,fixing,to fix,,B,"考查动词。根据句意是我正在修钟。be doing表示正在做某事，选B。
+",易,小学;英语;知识点;词法;动词时态,fix,小学,,英语,单选,"<think>
+1. 首先看问句""What are you doing?""，这是一个现在进行时的问句，询问对方正在做什么。
+2. 回答""I'm""后面应该接现在分词形式，构成现在进行时结构""be + doing""。
+3. 选项中：
+   A. ""fix""是动词原形，不符合现在进行时结构
+   B. ""fixing""是现在分词，符合现在进行时结构
+   C. ""to fix""是不定式，不符合现在进行时结构
+   D. ""nan""不是有效选项
+4. 根据现在进行时的语法规则，正确答案应该是B. fixing
+</think>
+
+difficulty: 简单
+knowledge_domain: 英语语法
+knowledge_tree: 动词时态/现在进行时
+task_grade: 小学五年级
+task_semester: 第一学期
+task_subject: 英语
+
+答案：B",1
+508fc36a1d0c403dbc4872b3d363936c,"关于shadow，下列哪个说法是正确的？
+","The sun is getting lower and lower, the shadow is getting shorter and shorter.","The sun is getting lower and lower, the shadow is getting longer and longer.",,,B,"考查句意理解和生活常识。A项意为""随着太阳越来越低，影子越来越短""，B项意为""随着太阳越来越低，影子越来越长""；根据生活常识可知，太阳越低，影子就越长。故选：B。
+",较易,小学;英语;知识点;基础知识;文化常识,单项选择,小学,,英语,单选,"<think>
+题目问的是关于shadow（影子）的正确说法。我们需要分析太阳位置与影子长度的关系。
+
+1. 科学常识：当太阳位置变低（如日落时），光线与地面的夹角变小，物体的影子会变长。反之，太阳越高（如正午），影子越短。
+2. 选项分析：
+   - A选项说""太阳越来越低，影子越来越短""：这与科学事实相反，错误。
+   - B选项说""太阳越来越低，影子越来越长""：这与科学事实一致，正确。
+   - C和D选项内容不完整（nan），不予考虑。
+
+因此正确答案是B。
+</think>
+
+difficulty: 简单
+knowledge_domain: 自然科学常识
+knowledge_tree: 光与影的关系
+task_grade: 小学三年级
+task_semester: 下学期
+task_subject: 科学/英语
+
+答案：B",1
+67fe039c964547d992bb95bb898ff5e3,"$$\textbf{Choose the correct option }\textbf{（A, B or C） to complete the sentence.}$$
+
+As the train left the station, I caught a glimpse $$\underline{}$$ someone I recognised standing on the platform.",from,of,for,,B,,较易,小学;英语;知识点;基础知识;基础知识,from,小学,,英语,单选,"<think>
+1. 首先理解题目要求：选择一个正确的介词填空，使句子完整且语法正确。
+2. 分析句子结构：""I caught a glimpse ___ someone I recognised standing on the platform."" 这里需要表达""瞥见某人""的意思。
+3. 英语中固定搭配""catch a glimpse of""表示""瞥见""，这是一个常用短语。
+4. 检查选项：
+   - A. ""from""：不符合固定搭配
+   - B. ""of""：符合""catch a glimpse of""的固定搭配
+   - C. ""for""：不符合固定搭配
+   - D. ""nan""：无意义选项
+5. 因此正确答案是B。
+</think>
+
+difficulty: 简单
+knowledge_domain: 英语语法
+knowledge_tree: 介词用法/固定搭配
+task_grade: 小学六年级
+task_semester: 下学期
+task_subject: 英语
+
+答案：B",1
+60d474024c6a4c59aa54823e473f76bd,"— $$\underline{}$$ ? 
+
+—It's Friday.
+",How are you,Where is it,What time is it,What day is it today,D,"考查情景交际。答句是，周五。因此推测问句是，今天是星期几。选择 D。
+",易,小学;英语;知识点;基础知识;基础知识,单项选择,小学,,英语,单选,"<think>
+1. 首先看问句的回答是""It's Friday""（今天是星期五），这是一个关于日期的回答。
+2. 分析选项：
+   - A选项""How are you""（你好吗）通常回答身体状况或心情，与日期无关。
+   - B选项""Where is it""（它在哪里）询问地点，与日期无关。
+   - C选项""What time is it""（现在几点）询问时间，与星期几无关。
+   - D选项""What day is it today""（今天是星期几）正好对应回答星期几的问题。
+3. 因此，最符合逻辑的答案是D选项。
+</think>
+
+difficulty: 简单
+knowledge_domain: 日常交际用语
+knowledge_tree: 时间表达
+task_grade: 小学三年级
+task_semester: 第一学期
+task_subject: 英语
+
+答案：D",1
+5c14308cec3c4bc69e7ace8f4be790ee,"He is $$\underline{}$$.
+",离开水的鱼,不和群,需要水的鱼,水中鱼,B,"考查谚语。$$\underline{}$$, 某人和他所处的环境不融恰，不自在。句意：他是个不合群的人。故答案为：B.
+",易,小学;英语;知识点;基础知识;谚语,语言知识运用,小学,下学期,英语,单选,"<think>
+1. 首先理解题目""He is $$\underline{}$$.""，这是一个描述性的句子，需要选择一个最合适的短语来填空。
+2. 分析选项：
+   - A. ""离开水的鱼""：直译为""a fish out of water""，英语中这是一个固定习语，意思是""感到不自在或不适应的状态""。
+   - B. ""不和群""：直译为""not sociable""，但这不是英语习语。
+   - C. ""需要水的鱼""：直译为""a fish needing water""，这不是英语习语。
+   - D. ""水中鱼""：直译为""a fish in water""，英语中常用""like a fish in water""表示""如鱼得水""。
+3. 题目中""He is""后面需要一个描述状态的短语，最符合英语表达习惯的是""A. 离开水的鱼""（a fish out of water），表示""他感到不适应""。
+4. 其他选项要么不是习语，要么意思不符（D选项通常用于肯定句""like a fish in water""）。
+</think>
+
+difficulty: 中等（考察英语习语理解）
+knowledge_domain: 英语习语
+knowledge_tree: 英语表达/习语理解
+task_grade: 小学高年级（5-6年级）
+task_semester: 下学期
+task_subject: 英语
+
+答案：A",0
+25e9ab257d754bf1b56713ec83f53f41,"Look, Mrs. Black $$\underline{}$$ a yellow dress.
+",wear,is wearing,has worn,,B,"考查时态。通过look可知，动词为现在进行时，故选B。
+",易,小学;英语;知识点;词法;动词时态,worn,小学,,英语,单选,"<think>
+1. 首先观察句子结构：这是一个现在进行时的描述句，描述""布莱克夫人""当前的状态。
+2. 关键词""Look""表明这是正在发生的动作，需要使用现在进行时。
+3. 现在进行时的结构是""be动词 + 动词ing形式""。
+4. 选项分析：
+   A. wear - 原形，不符合进行时结构
+   B. is wearing - 正确进行时结构
+   C. has worn - 现在完成时，不符合语境
+   D. nan - 无意义选项
+5. 主语""Mrs. Black""是第三人称单数，所以be动词用is。
+</think>
+
+difficulty: 简单
+knowledge_domain: 英语语法
+knowledge_tree: 动词时态/现在进行时
+task_grade: 小学五年级
+task_semester: 第一学期
+task_subject: 英语
+
+答案：B",1
+628693b5ef7d4a048ad7bcba4a575a58,"Which of the following underlined parts is different in pronunciation from the others? 
+",c$$\underline{}$$st,$$\underline{}$$nly,$$\underline{}$$cean,alm$$\underline{}$$st,A,"考查音素。A. cost发音为[kɒst]；B. only发音为[ˈəʊnli]；C. ocean发音为[ˈəʊʃn]；D. almost发音为[ˈɔːlməʊst]；A项划线部分发音与其他选项不同。故选A。
+",易,小学;英语;知识点;基础知识;字母,语言知识运用,小学,上学期,英语,单选,"<think>
+1. 首先需要明确题目要求：找出划线部分发音与其他三个不同的选项。题目中所有划线部分都是字母组合""st""。
+2. 分析每个选项的发音：
+   - A. ""cost""中的""st""发音为/st/，是清晰的/s/+/t/组合
+   - B. ""only""中的""st""实际上不存在，可能是题目印刷错误，应为""onst""不存在的单词，推测可能是""often""的变形，但无法确定
+   - C. ""ocean""中的""st""实际应为""ce""发音为/ʃ/，与其它选项明显不同
+   - D. ""almost""中的""st""发音为/st/，与A相同
+3. 由于B选项存在疑问，而C选项的发音明显不同（/ʃ/ vs /st/），因此最可能选择C
+4. 题目可能存在印刷错误，但基于可识别信息，C是发音不同的选项
+</think>
+
+difficulty: 中等难度
+knowledge_domain: 英语语音知识
+knowledge_tree: 字母组合发音规则
+task_grade: 小学五年级
+task_semester: 下学期
+task_subject: 英语
+
+答案：C",0
+f5488a7472e545d3a949bb0337991bbe,"What group of letters comes next in this series? 
+
+LCW   MEU  NGS   OIQ $$\underline{}$$ 
+",QKO,PKO,RLR,PLR,B,"考查字母表。字母表按顺序排列为：Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz。根据所给四组字母，第一个字母分别是LMNO，按顺序来第五组第一个字母应为P，前四组第二个字母分别是CEGI，可知中间间隔一个字母，所以第五组第二个字母为K。前四组第三个字母分别是WUSQ，可知是倒着排序，且中间间隔一个字母，所以第五组第三个字母为O。故答案为：B。
+",易,小学;英语;知识点;基础知识;字母,基础知识-字母,小学,上学期,英语,单选,"<think>
+这道题目是一个字母序列推理题，我们需要分析给定的字母组合LCW、MEU、NGS、OIQ，并找出其中的规律，然后预测下一个字母组合。
+
+1. 首先，我们观察每个字母组合中的第一个字母：
+   - L, M, N, O
+   可以看到，这些字母是按字母表顺序依次递增的（L→M→N→O），所以下一个字母应该是P。
+
+2. 接下来，观察第二个字母：
+   - C, E, G, I
+   这些字母也是按字母表顺序递增的，每次增加2个字母（C→E→G→I），所以下一个字母应该是K（I + 2 = K）。
+
+3. 最后，观察第三个字母：
+   - W, U, S, Q
+   这些字母是按字母表顺序递减的，每次减少2个字母（W→U→S→Q），所以下一个字母应该是O（Q - 2 = O）。
+
+综合以上分析，下一个字母组合应该是P、K、O，即PKO。
+
+因此，正确答案是B选项。
+</think>
+
+difficulty: 中等
+knowledge_domain: 字母序列推理
+knowledge_tree: 逻辑推理/字母规律
+task_grade: 小学高年级
+task_semester: 下学期
+task_subject: 英语/逻辑
+
+答案：B",1
+2139de32adbc45dc80d4e8ec6f9a194b,"My pockets are full $$\underline{}$$ sweets.
+",of,off,on,,A,"考查固定搭配。 Be full of 表示充满……。
+",易,小学;英语;知识点;词法;介词及介词短语,of,小学,,英语,单选,"<think>
+1. 首先理解句子意思：""My pockets are full ____ sweets."" 意思是""我的口袋____糖果""。
+2. 需要选择一个介词来连接""full""和""sweets""，表达""装满""的意思。
+3. 分析选项：
+   A. ""of"" - ""full of""是固定搭配，表示""充满...""
+   B. ""off"" - 表示""离开""，不符合语境
+   C. ""on"" - 表示""在...上""，不符合
+   D. ""nan"" - 不是有效英语单词
+4. 只有""full of""是正确的英语表达方式，表示""装满糖果""。
+5. 因此正确答案是A。
+</think>
+
+difficulty: 简单
+knowledge_domain: 英语语法
+knowledge_tree: 介词用法
+task_grade: 小学四年级
+task_semester: 下学期
+task_subject: 英语
+
+答案：A",1
+c3ad1c61fc9b4135b6b2edc3d89b51b1,"This is $$\underline{}$$ book and that is $$\underline{}$$ eraser.
+",an; an,a; an,an; a,a; a,B,"考查冠词。句意：这是一本书，那是一把尺子。a 一般用于以辅音音素开始的词前面，an 一般用于以元音音素开始的词前面。book 是以辅音音素开始的词，eraser 是以元音音素开始的词。故选：B。
+",较易,小学;英语;知识点;词法;冠词,单项选择,小学,,英语,单选,"<think>
+这道题考察的是英语中不定冠词""a""和""an""的用法。解题步骤如下：
+
+1. 第一个空后面是""book""，以辅音音素/b/开头，因此应该用""a""而不是""an""。
+2. 第二个空后面是""eraser""，以元音音素/ɪ/开头，因此应该用""an""而不是""a""。
+3. 现在来看选项：
+   - A选项是an; an → 第一个空错误
+   - B选项是a; an → 两个空都正确
+   - C选项是an; a → 两个空都错误
+   - D选项是a; a → 第二个空错误
+4. 因此正确答案是B选项。
+</think>
+
+difficulty: 简单
+knowledge_domain: 英语语法
+knowledge_tree: 冠词用法
+task_grade: 小学三年级
+task_semester: 上学期
+task_subject: 英语
+
+答案：B",1
+6bf1ca8a427343369f6d3bf0dd8ed76d,"Who $$\underline{}$$ you? 
+",am,is,are,,C,"考查主谓一致。句意：你是谁？主语you为第二人称，be动词用are。在现在时时态下，am用于主语为第一人称单数时，is用于主语为第三人称单数时。故答案为C。
+",较易,小学;英语;知识点;句法;主谓一致,are,小学,上学期,英语,单选,"<think>
+1. 首先分析句子结构：""Who ____ you?"" 这是一个疑问句，主语是""Who""，谓语动词需要与主语保持一致。
+2. ""Who""作为疑问代词时，通常被视为第三人称单数，但在实际使用中，当询问的对象是""you""时，动词要与""you""保持一致。
+3. ""you""对应的be动词是""are""，这是固定搭配。例如：""You are...""的疑问句形式就是""Are you...""。
+4. 因此这里应该选择""are""来与""you""搭配。
+5. 选项分析：
+   A. am - 用于I
+   B. is - 用于第三人称单数
+   C. are - 正确，用于you
+   D. nan - 无意义
+</think>
+
+difficulty: 简单
+knowledge_domain: 基础语法
+knowledge_tree: be动词用法
+task_grade: 三年级
+task_semester: 上学期
+task_subject: 英语
+
+答案：C",1
+6b96f327a64443a89dd4eee18bd15f9f,"A man is 40 years old. His son is 13. How long ago was his age four times his son's? 
+",3 years ago,4 years ago,5 years ago,6 years ago,B,"考查句意理解和逻辑推理。句意：一个男人40岁。他的儿子13岁。多久以前他的年龄是他儿子的四倍？四年以前，他的年龄是36岁，他儿子的年龄是9岁，36是9的四倍。故选：B。
+",易,小学;英语;题型;英文数学/智力题;英文数学/智力题,语言知识运用,小学,上学期,英语,单选,"<think>
+我们需要找到一个时间点，使得父亲的年龄是儿子年龄的四倍。设这个时间点为x年前。
+
+根据题目：
+- 父亲现在的年龄：40岁
+- 儿子现在的年龄：13岁
+
+x年前：
+- 父亲的年龄：40 - x
+- 儿子的年龄：13 - x
+
+根据题意，x年前父亲的年龄是儿子年龄的四倍，因此可以列出方程：
+40 - x = 4 * (13 - x)
+
+解这个方程：
+40 - x = 52 - 4x
+将x项移到左边，常数项移到右边：
+-x + 4x = 52 - 40
+3x = 12
+x = 4
+
+因此，4年前父亲的年龄是儿子年龄的四倍。验证：
+4年前父亲年龄：40 - 4 = 36岁
+4年前儿子年龄：13 - 4 = 9岁
+36 ÷ 9 = 4，确实满足条件。
+</think>
+
+difficulty: 中等难度
+knowledge_domain: 代数方程
+knowledge_tree: 一元一次方程应用
+task_grade: 小学六年级
+task_semester: 第二学期
+task_subject: 数学应用题
+
+答案：B",1
+1e92e2d35ef74c55ac54beeb27ca4dc2,"He was late again, for he $$\underline{}$$ the first bus.
+",didn't get,missed,didn't run as fast as,didn't hold,B,"考查同义词转换。根据题干含义""他又再次迟到了，因为他没有赶上第一班公交车""。didn't catch指的是""没有赶上""，选项A指的是""没有得到""，选项B指的是""错过；想念""，选项C指的是""没有跑的一样快""，选项D指的是""没有抓住；没有举行""。故选B，表示""错过第一班公交车""。
+",易,小学;英语;题型;句型转换;句型转换,语言知识运用,小学,上学期,英语,单选,"<think>
+1. 首先理解句意：""他又迟到了，因为他____第一班公交车""。需要选择一个最合适的动词短语填入空白处。
+
+2. 分析选项：
+A. ""didn't get""（没有赶上）语法正确但不够地道
+B. ""missed""（错过）是最常用的表达方式，完全符合语境
+C. ""didn't run as fast as""（跑得不够快）不符合公交场景
+D. ""didn't hold""（没有抓住）完全不符合语境
+
+3. 最佳选择是""missed""，这是英语中表达""错过公交车""最地道的说法。
+</think>
+
+difficulty: 简单题
+knowledge_domain: 动词用法
+knowledge_tree: 日常生活动词短语
+task_grade: 小学五年级
+task_semester: 上学期
+task_subject: 英语
+
+答案：B",1
+53df00f58840464381c8fe91154bd6d1,"Teens Plus is a club for young adults who want to $$\underline{}$$ new friends.
+",do,begin,make,,C,"考查动词。make friends：交朋友。故选C。
+",易,小学;英语;知识点;词法;动词及动词短语,do,小学,,英语,单选,"<think>
+1. 首先理解句子意思：""Teens Plus是一个为想要___新朋友的年轻人设立的俱乐部""。
+2. 分析空缺处需要填入的动词：
+   - A. ""do friends""不符合英语表达习惯
+   - B. ""begin friends""语法不正确
+   - C. ""make friends""是固定搭配，意为""交朋友""
+   - D. ""nan""不是有效选项
+3. 在英语中，""make friends""是唯一正确的表达方式。
+4. 因此最佳答案是C。
+</think>
+
+difficulty: 简单
+knowledge_domain: 词汇与固定搭配
+knowledge_tree: 动词短语/社交用语
+task_grade: 小学五年级
+task_semester: 上学期
+task_subject: 英语
+
+答案：C",1
+274ff7162aff41ddbbaeebfeb5028145,"选出与所给句子意思相同的选项
+
+Mr. White is a teacher. He teaches us art.
+",Mr. White is our art teacher.,Mr. White is our classmate.,,,A,"考查同义句。题干：White先生是一名老师。他教我们美术。A. White先生是我们的美术老师。B. White先生是我们的同学。根据题干可知，White是教美术的老师。故答案为：A。
+",易,小学;英语;题型;句型转换;句型转换,单项选择,小学,上学期,英语,单选,"<think>
+1. 首先理解原句意思：怀特先生是一名老师，他教我们美术。
+2. 分析选项：
+   - A选项""怀特先生是我们的美术老师""与原句""他教我们美术""完全对应，且""是一名老师""与""是我们的美术老师""逻辑一致。
+   - B选项""怀特先生是我们的同学""与原句矛盾，原句明确说他是老师。
+   - C和D选项为无效选项(nan)。
+3. 排除法：B与事实矛盾，C/D无效，因此唯一正确答案是A。
+4. 验证：A选项完整概括了原句的两个信息点(身份是老师+教授科目是美术)。
+</think>
+
+difficulty: 简单题
+knowledge_domain: 基础英语理解
+knowledge_tree: 句子理解与对应关系
+task_grade: 小学三年级
+task_semester: 上学期
+task_subject: 英语
+
+答案：A",1
+2a779307969b4df486af48083d989498," $$\underline{}$$ no modern telecommunications, we would have to wait for weeks to get news from around the world.
+",Were there,Had there been,If there are,If there have been,A,,易,小学;英语;知识点;词法;虚拟语气,句法-特殊句式-省略句,小学,,英语,单选,"<think>
+这道题考察的是虚拟语气的用法。题目描述的是一个与现在事实相反的假设情况（没有现代通讯技术），因此需要使用虚拟语气。
+
+1. 首先看句子结构：""_____ no modern telecommunications, we would have to wait..."" 这里主句用的是""would have to""，表示与现在事实相反的结果，因此从句需要用相应的虚拟语气形式。
+
+2. 分析选项：
+A. ""Were there"" - 这是与现在事实相反的虚拟语气正确形式，相当于""If there were""
+B. ""Had there been"" - 这是与过去事实相反的虚拟语气形式，不符合题意
+C. ""If there are"" - 这是真实条件句，不是虚拟语气
+D. ""If there have been"" - 这个结构本身就不正确
+
+3. 最符合题意的是A选项""Were there""，它正确地表达了与现在事实相反的虚拟条件。
+
+4. 完整句子应该是：""Were there no modern telecommunications, we would have to wait for weeks to get news from around the world.""（如果没有现代通讯技术，我们就得等上几周才能得到世界各地的消息。）
+</think>
+
+difficulty: 中等难度
+knowledge_domain: 英语语法
+knowledge_tree: 虚拟语气
+task_grade: 小学高年级(5-6年级)
+task_semester: 下学期
+task_subject: 英语
+
+答案：A",1
+60f805efa1fd4f25b7f27895b96c2f79,"If Tom had not gone to the airport in the storm, he $$\underline{}$$ alive now.
+",will be,would be,would have been,,C,"本题考查虚拟语气。句意为：如果Tom没有在暴风雨天去机场，他现在就可以活着了。描述与过去事实相反时，从句使用过去完成时，主句使用would have done，即would have been。故选C。
+",较易,小学;英语;知识点;词法;虚拟语气,语言知识运用,小学,,英语,单选,"<think>
+这道题考察的是虚拟语气的用法。题目描述的是一个与过去事实相反的假设情况（Tom在暴风雨中去了机场），以及这个假设对现在造成的结果（他现在还活着）。
+
+1. 首先，主句的时间状语是""now""（现在），所以需要用与现在事实相反的虚拟语气。
+2. 从句""had not gone""是过去完成时，表示与过去事实相反的假设。
+3. 主句应该使用""would + 动词原形""的结构来表示与现在事实相反的结果。
+4. 选项分析：
+   A. ""will be""是一般将来时，不用于虚拟语气
+   B. ""would be""是正确的虚拟语气现在时形式
+   C. ""would have been""是用于与过去事实相反的结果，不符合""now""的时间要求
+   D. ""nan""不是有效选项
+
+因此，正确答案是B。
+</think>
+
+difficulty: 中等难度
+knowledge_domain: 英语语法
+knowledge_tree: 虚拟语气
+task_grade: 小学六年级
+task_semester: 下学期
+task_subject: 英语
+
+答案：B",0
+07a52c7ab3a44a7c85fe148d7fb14e5f,"Billy came to Sam's house and they did their geography $$\underline{}$$ together.
+",subject,homework,class,,B,"考查名词辨析。geography homework：地理作业。故选B。
+",易,小学;英语;知识点;词法;名词,homework,小学,,英语,单选,"<think>
+1. 首先理解句子意思：Billy来到Sam家，他们一起做了地理____。
+2. 分析选项：
+   A. subject - 科目，指学科类别，但""做地理科目""搭配不当
+   B. homework - 家庭作业，""做地理作业""是常见搭配
+   C. class - 课堂/班级，但他们在家里不可能一起""做地理课堂""
+   D. nan - 无意义选项
+3. 最佳选择是B.homework，因为""do homework together""是固定搭配，且符合在家一起做作业的语境。
+</think>
+
+difficulty: 简单题
+knowledge_domain: 词汇运用
+knowledge_tree: 名词辨析/固定搭配
+task_grade: 小学五年级
+task_semester: 上学期
+task_subject: 英语
+
+答案：B",1
+a6cf09401bff42058481e17b6fd0ed95,"What comes twice in a moment, once in a minute and never in a hundred years? 
+",o,m,t,,B,"考查句义理解。根据题干可知，什么在moment中出现两次，在minute中出现一次，在hundred years中不出现，寻找规律可知是字母m。故选B。
+",易,小学;英语;知识点;基础知识;字母,单项选择,小学,上学期,英语,单选,"<think>
+这道题目是一个英语谜语，问的是“什么东西在'moment'中出现两次，在'minute'中出现一次，而在'hundred years'中从未出现？”我们需要逐个分析选项中的字母在这些单词中的出现次数。
+
+1. 分析单词'moment'：
+   - m o m e n t
+   - 字母出现次数：m(2), o(1), e(1), n(1), t(1)
+   - 需要找出现两次的字母：只有m出现两次
+
+2. 分析单词'minute'：
+   - m i n u t e
+   - 字母出现次数：m(1), i(1), n(1), u(1), t(1), e(1)
+   - 需要找出现一次的字母：所有字母都出现一次
+
+3. 分析单词'hundred years'：
+   - h u n d r e d   y e a r s
+   - 字母出现次数：h(1), u(1), n(1), d(2), r(2), e(2), y(1), a(1), s(1)
+   - 需要找从未出现的字母：m没有出现
+
+根据以上分析：
+- 选项B（m）在'moment'中出现两次，在'minute'中出现一次，在'hundred years'中从未出现，完全符合题目描述。
+- 其他选项不符合：
+  - A（o）在'moment'中出现一次，不符合“出现两次”的要求
+  - C（t）在'moment'和'minute'中都出现一次，不符合“出现两次”的要求
+  - D（nan）不是一个字母，不符合题目要求
+
+因此正确答案是B。
+</think>
+
+difficulty: 中等（需要一定的英语单词拼写和字母识别能力）
+knowledge_domain: 英语词汇与拼写
+knowledge_tree: 字母识别/单词拼写/谜语理解
+task_grade: 小学高年级（4-6年级）
+task_semester: 不限
+task_subject: 英语
+
+答案：B",1
+064a6a6a9e304001bfc1bbcbd94a0a96,"连词成句
+
+you, what, about
+",What about you.,What about you?,,,B,"考查特殊疑问句。What about固定搭配，怎么样，What about you? 那你呢？是特殊疑问句。故选B。
+",易,小学;英语;题型;连词成句;连词成句,语言知识运用,小学,下学期,英语,单选,"<think>
+1. 首先分析题目要求：将三个单词""you, what, about""连成一个正确的句子。
+2. 观察选项：
+   - A选项是""What about you.""（句号结尾）
+   - B选项是""What about you?""（问号结尾）
+   - C和D选项是无效选项
+3. 判断句子类型：
+   - ""What about you""是一个询问对方情况的问句
+   - 问句应该以问号结尾
+4. 排除法：
+   - 排除C和D无效选项
+   - 排除A（句号错误）
+   - 选择B（问号正确）
+5. 大小写检查：
+   - 句子首字母""W""大写正确
+</think>
+
+difficulty: 简单
+knowledge_domain: 英语语法
+knowledge_tree: 句子结构/标点符号使用
+task_grade: 小学三年级
+task_semester: 上学期
+task_subject: 英语
+
+答案：B",1
+3925d34e6e1943a0825f0c7349db7953,"They stopped in a café for a drink and a $$\underline{}$$ of cake.
+",part,little,piece,,C,"考查名词。句意：他们在一个咖啡店停下来喝了一杯，还吃了一块蛋糕。a piece of，一块。故选C。
+",易,小学;英语;知识点;词法;量词,语言知识运用,小学,,英语,单选,"<think>
+1. 首先理解句子意思：他们在一家咖啡馆停下来喝饮料和吃一块蛋糕。
+2. 分析空缺处需要填入的词：需要选择一个与""cake""搭配的量词。
+   - A. ""part""表示部分，但通常不与cake搭配
+   - B. ""little""表示少量，但语法上需要是""a little piece""
+   - C. ""piece""是正确选择，表示""一块""蛋糕
+   - D. ""nan""不是有效英语单词
+3. 固定搭配：英语中""a piece of cake""是常见表达，意为""一块蛋糕""。
+4. 排除法：排除A、B、D选项，C最符合。
+</think>
+
+difficulty: 简单
+knowledge_domain: 词汇搭配
+knowledge_tree: 量词用法
+task_grade: 小学四年级
+task_semester: 上学期
+task_subject: 英语
+
+答案：C",1
+c9312507be1649148e1c81de044a179b,"选出与所给句子意思相同的选项
+
+Jack is a boy. He is in a red coat.
+",Jack's hair is red.,Jack is a boy in a red coat.,,,B,"考查同义句。题干：Jack 是一个男孩。他穿着一件红色的外套。A. Jack 的头发是红色的。B. Jack 是一个穿着红色外套的男孩。B 涵盖了题干的内容。故选 B。
+",较易,小学;英语;题型;句型转换;句型转换,句法-句子分类（语气）-陈述句-肯定句,小学,上学期,英语,单选,"<think>
+1. 首先理解原句的意思：""Jack is a boy. He is in a red coat."" 意思是""杰克是个男孩，他穿着一件红色外套""。
+2. 分析各个选项：
+   A. ""Jack's hair is red."" 意思是""杰克的头发是红色的""，这与原句描述的外套颜色无关，不正确。
+   B. ""Jack is a boy in a red coat."" 意思是""杰克是一个穿着红色外套的男孩""，这与原句意思完全一致。
+   C和D选项为""nan""，表示无意义选项。
+3. 因此最符合原句意思的选项是B。
+</think>
+
+difficulty: 简单
+knowledge_domain: 英语句子理解
+knowledge_tree: 基础英语/句子理解与匹配
+task_grade: 小学三年级
+task_semester: 第一学期
+task_subject: 英语
+
+答案：B",1
+6bf1ca8a427343369f6d3bf0dd8ed76d,"Who $$\underline{}$$ you? 
+",am,is,are,,C,"考查主谓一致。句意：你是谁？主语you为第二人称，be动词用are。在现在时时态下，am用于主语为第一人称单数时，is用于主语为第三人称单数时。故答案为C。
+",较易,小学;英语;知识点;句法;主谓一致,are,小学,上学期,英语,单选,"<think>
+1. 首先分析句子结构：""Who ____ you?"" 这是一个疑问句，主语是""Who""，后面跟着空白处需要填入的动词和宾语""you""。
+2. 英语中be动词的选择要根据主语的人称和数来决定：
+   - ""am""用于第一人称单数""I""
+   - ""is""用于第三人称单数(he/she/it)
+   - ""are""用于第二人称单数/复数(you)和复数形式(we/they)
+3. 这里的主语""Who""可以理解为单数或复数，但宾语是""you""(第二人称)，所以应该使用""are""来保持人称一致。
+4. 选项D""nan""不是有效的英语单词。
+5. 因此最合适的答案是""are""。
+</think>
+
+difficulty: 简单
+knowledge_domain: 基础语法
+knowledge_tree: be动词用法
+task_grade: 三年级
+task_semester: 上学期
+task_subject: 英语
+
+答案：C",1
+775ba4fde0244ca5837292c35630f671,"It is really dangerous to play with fire. Stop $$\underline{}$$ that!
+",to do,doing,do,did,B,"考查非谓语动词。根据前句 ""玩火真的很危险"" 可知后句应为 ""停止玩火"" ，故选B。
+",易,小学;英语;知识点;词法;非谓语动词,词法-非谓语动词-动名词-动名词固定搭配,小学,,英语,单选,"<think>
+1. 首先理解句意：""玩火真的很危险。停止___那个！"" 这是一个关于""停止做某事""的表达。
+2. 英语中""stop doing sth""表示停止正在做的事情，而""stop to do sth""表示停下来去做另一件事。根据句意，这里是要停止""玩火""这个正在进行的危险行为。
+3. 因此应该使用""stop doing""结构，排除A(to do)和C(do)。
+4. 时态方面，这里不需要过去式，排除D(did)。
+5. 正确答案是B(doing)，符合""stop doing sth""的正确用法。
+</think>
+
+difficulty: 简单
+knowledge_domain: 英语语法
+knowledge_tree: 动词用法/动名词
+task_grade: 小学六年级
+task_semester: 上学期
+task_subject: 英语
+
+答案：B",1
+65dad1ce1ad84dd58c76620f5feec10a,"—What is the weather like?
+
+— $$\underline{}$$.
+",It's cool,It is small,It has some leaves,,A,"句意：天气如何？A 很凉爽。B 很小。C 有一些叶子。故选A。
+",较易,小学;英语;知识点;基础知识;情景交际,语言知识运用,小学,,英语,单选,"<think>
+题目问的是""What is the weather like?""，这是在询问天气情况。我们需要选择一个最合适的回答来描述天气。
+
+A. It's cool - 意思是""天气凉爽""，这是描述天气的合适回答。
+B. It is small - 意思是""它很小""，这与天气无关。
+C. It has some leaves - 意思是""它有一些叶子""，这与天气无关。
+D. nan - 这不是一个有效的回答。
+
+因此，最合适的答案是A。
+</think>
+
+difficulty: 简单
+knowledge_domain: 日常交际用语
+knowledge_tree: 天气表达
+task_grade: 小学三年级
+task_semester: 第一学期
+task_subject: 英语
+
+答案：A",1
+47d81a764b9b4c35aa74c19733b37c28,"Do you know $$\underline{}$$ ? 
+",who's child is he,whose child is he,whose child he is,who's child he is,C,"考查一般疑问句。这是一般疑问句中的宾语从句，从句一定是陈述语序。谁的，用疑问词 whose。句意：你知道他是谁的孩子吗？故选：C。
+",较易,小学;英语;知识点;句法;句子分类（结构）,语言知识运用,小学,上学期,英语,单选,"<think>
+这道题考察的是疑问代词和从句的用法。我们需要分析每个选项的语法结构：
+
+1. 首先看句子结构：""Do you know""后面应该接一个宾语从句，宾语从句要用陈述语序（主语+谓语），不能用疑问语序（谓语+主语）。
+   - A和B选项都是疑问语序（is he），所以排除。
+   - C和D选项是陈述语序（he is），符合要求。
+
+2. 然后看所有格形式：
+   - ""who's""是""who is""的缩写，不是所有格形式。
+   - ""whose""才是正确的所有格形式，表示""谁的""。
+   - A和D选项使用了错误的""who's""，排除。
+
+3. 综合以上分析：
+   - A：错误（疑问语序+错误所有格）
+   - B：错误（疑问语序）
+   - C：正确（陈述语序+正确所有格）
+   - D：错误（错误所有格）
+
+因此正确答案是C。
+</think>
+
+difficulty: 中等难度
+knowledge_domain: 英语语法
+knowledge_tree: 疑问代词/宾语从句
+task_grade: 小学六年级
+task_semester: 下学期
+task_subject: 英语
+
+答案：C",1
+2657e07a05cb48a1ba8a192e314519ff,"We don't have chopsticks here. You can eat your noodles $$\underline{}$$ a fork.
+",with,for,of,in,A,"考查介词。表具体工具用with，故选A。
+",易,小学;英语;知识点;词法;介词及介词短语,单项选择,小学,,英语,单选,"<think>
+1. 首先理解题目意思：这里没有筷子，你可以用叉子吃面条。
+2. 分析空格处需要填入的介词：
+   - ""with""表示""用...工具""，符合""用叉子""的语境
+   - ""for""表示""为了""，不符合
+   - ""of""表示""...的""，不符合
+   - ""in""表示""在...里面""，不符合
+3. 最符合语境的介词是""with""，表示使用工具
+</think>
+
+difficulty: 简单
+knowledge_domain: 英语介词用法
+knowledge_tree: 基础语法/介词
+task_grade: 小学三年级
+task_semester: 下学期
+task_subject: 英语
+
+答案：A",1
+2e16c14fe62c4110bb5b398ffdaf870d,"$$\textbf{Look at the text. What does it say? Mark the correct letter A, B or C.}$$
+
+$#table{|This tower's in wonderful green stone, with 497 steps – stupidly. I climbed to the top!<br/>The view's supposed to be brilliant but yesterday was cloudy.<br/> Kenny|}#$
+
+What did Kenny like about the tower? 
+",the view it gave from the top,the material used to build it,the number of steps it has,,B,"根据明信片最后一句的天气可知作者没有享受到美景，故A错误。根据第一句的in wonderful green stone尤其是表明情绪喜好的wonderful可知B选项正确。根据第三行的stupidly可知对于这么多台阶他并不是喜欢的。故本题选B。
+",较易,小学;英语;考查方式;Reading;Reading,Reading-Gist,小学,,英语,单选,"<think>
+1. 首先阅读题目和文本内容，理解Kenny对塔的描述。
+2. 文本中提到塔是用""wonderful green stone""建造的，Kenny用了""wonderful""这个词表达对建筑材料的赞赏。
+3. 关于塔顶的view，Kenny说""supposed to be brilliant but yesterday was cloudy""，说明当天因为多云没能看到好景色，所以A选项不正确。
+4. 关于台阶数量，Kenny用了""stupidly""这个词，明显是负面评价，所以C选项不正确。
+5. D选项""nan""是无意义选项。
+6. 只有B选项""the material used to build it""与文本中""wonderful green stone""的描述一致。
+</think>
+
+difficulty: 简单
+knowledge_domain: 阅读理解
+knowledge_tree: 英语阅读/细节理解
+task_grade: 小学高年级(5-6年级)
+task_semester: 不限
+task_subject: 英语
+
+答案：B",1
+7f0063a7098b42adbd60d344ad3a26d9,"Here $$\underline{}$$ some flowers for my mum.
+",is,am,are,,C,"考查倒装句。根据真正的主语some flowers，一些花为复数，故be动词应用are。故选：C。
+",易,小学;英语;知识点;句法;特殊句式,单项选择,小学,上学期,英语,单选,"<think>
+1. 首先分析句子结构：主语是""some flowers""（一些花），这是复数形式。
+2. 空格处需要填入be动词的正确形式，与复数主语搭配。
+3. 选项分析：
+   A. ""is"" - 单数形式，不正确
+   B. ""am"" - 只用于I作主语，不正确
+   C. ""are"" - 复数形式，正确
+   D. ""nan"" - 不是有效选项
+4. 因此正确答案是C. are，完整句子是""Here are some flowers for my mum.""
+</think>
+
+difficulty: 简单
+knowledge_domain: 英语语法
+knowledge_tree: be动词用法
+task_grade: 小学三年级
+task_semester: 第一学期
+task_subject: 英语
+
+答案：C",1
+29ea0c3ffdb942829e6b9cc8e7faa2ba,"Many candies for the part$$\underline{}$$.
+",fl$$\underline{}$$,sorr$$\underline{}$$,,,B,"考查单词发音。part$$\underline{}$$的划线部分发音为/i/。A. fl$$\underline{}$$ /aɪ/；B. sorr$$\underline{}$$ /i/。由此可知，sorry与题干划线部分发音一致。故选B。
+",易,小学;英语;知识点;基础知识;语音,说,小学,上学期,英语,单选,"<think>
+这道题目要求我们选择一个合适的单词或词根来填空，使得整个句子通顺且符合语法规则。题目给出的句子是""Many candies for the part___.""，我们需要选择一个选项填入下划线部分。
+
+首先，我们来看一下各个选项：
+A. fl___ - 这个选项看起来像是单词""floor""或""flower""的一部分，但都不太符合句子的意思。
+B. sorr___ - 这个选项看起来像是""sorry""的一部分，但""sorry""是""抱歉""的意思，与句子的意思不符。
+C. nan - 这个选项看起来像是""nanny""或""nana""的缩写，但都不太符合句子的意思。
+D. nan - 与选项C相同。
+
+考虑到""party""（派对）这个词与""candies""（糖果）在语境上很搭配，我们可以推测题目可能是想让我们选择""ty""来补全""party""这个词。虽然选项中没有直接给出""ty""，但选项A的""fl___""可能是""fly""的一部分，但不太相关；选项B的""sorr___""可能是""sorry""的一部分，也不相关；选项C和D的""nan""与题目无关。
+
+经过分析，最有可能的是题目有拼写错误，或者选项不完整。根据常见的考试题目设计，可能是想考察""party""这个词，因此最接近的可能是选择A，因为""fl""可以看作是""fly""的一部分，虽然不完全匹配，但在给定的选项中是最有可能的。
+
+然而，考虑到题目可能考察的是""for the part___""中的""part""本身，即""for the part""（为了这个部分），那么可能不需要补充。但这样与""candies""不太搭配。
+
+综合来看，可能是题目设计有误，或者缺少正确选项。在给定的选项中，没有一个完全合适的选项。但根据常见的考试设计，可能会选择A作为最接近的答案。
+</think>
+
+difficulty: 简单
+knowledge_domain: 词汇
+knowledge_tree: 基础词汇拼写
+task_grade: 小学三年级
+task_semester: 上学期
+task_subject: 英语
+
+答案：A",0
+d6a06331ab864f2d8689bf4bf165637b,"Shall we go to the shops now?
+",I'm too tired.,They're very good.,Not at all.,,A,"考查情景交际。—我们现在可以去购物吗？—我太累了。故选A。
+",易,小学;英语;知识点;基础知识;基础知识,基础知识-情景交际,小学,,英语,单选,"<think>
+1. 首先理解题目问句""Shall we go to the shops now?""的意思是""我们现在去商店好吗？""，这是一个征求意见的问句。
+2. 分析各个选项：
+   A. ""I'm too tired.""（我太累了） - 这是对提议的合理回应，表示拒绝的理由
+   B. ""They're very good.""（它们很好） - 这与问句无关，答非所问
+   C. ""Not at all.""（一点也不） - 通常用于回应感谢或道歉，不适用于此场景
+   D. ""nan"" - 这不是有效的英语回答
+3. 最符合英语日常对话习惯的回应是A选项，因为它直接回应了提议并给出了理由。
+</think>
+
+difficulty: 简单
+knowledge_domain: 日常交际用语
+knowledge_tree: 英语口语应答
+task_grade: 小学三年级
+task_semester: 下学期
+task_subject: 英语
+
+答案：A",1
+ffa95db12a27466ea22959e5f4762ac8,"This is my new friend. She is in $$\underline{}$$ .
+",grade six,Six grade,Grade Six,,C,"考查固定搭配。几年级要用 Garde+数字，两者首字母都要大写。句意：这是我的新朋友。她在六年级。故选：C。
+",较易,小学;英语;知识点;基础知识;文化常识,基础知识-文化常识,小学,上学期,英语,单选,"<think>
+1. 首先分析题目要求：需要选择正确的表达方式来表示""六年级""。
+2. 在英语中，表示年级时通常使用""Grade + 数字""的结构，且首字母需要大写。
+3. 选项分析：
+   - A. ""grade six""：首字母没有大写，不符合规范
+   - B. ""Six grade""：顺序错误且首字母没有大写
+   - C. ""Grade Six""：完全符合英语表达规范
+   - D. ""nan""：无意义
+4. 因此正确答案是C。
+</think>
+
+difficulty: 简单
+knowledge_domain: 英语语法
+knowledge_tree: 名词短语结构
+task_grade: 小学六年级
+task_semester: 第一学期
+task_subject: 英语
+
+答案：C",1
+55a60a0d92454864b34e394a19fa0f53,"We're proud that China $$\underline{}$$ stronger and stronger these years.
+",will become,became,is becoming,was becoming,C,"考查现在进行时。根据 these years 可知，这里表示动作正在发生。所以用现在进行时，因此选择 C。
+",易,小学;英语;知识点;词法;动词时态,语言知识运用,小学,,英语,单选,"<think>
+1. 首先分析句子时态：句尾""these years""表示""近年来""，这是一个持续到现在的时间段，需要使用现在进行时或现在完成时。
+2. 观察选项：
+   A. will become（一般将来时）- 表示将来发生的动作，不符合""these years""的时间要求
+   B. became（一般过去时）- 表示过去发生的动作，不能体现""持续到现在""的含义
+   C. is becoming（现在进行时）- 可以表示现阶段持续发生的变化，符合题意
+   D. was becoming（过去进行时）- 表示过去某个时间正在进行的动作，不符合
+3. 最佳选项是C，因为现在进行时可以表示现阶段持续的变化过程，与""these years""时间状语完美匹配。
+4. 句意理解：我们为中国近年来正变得越来越强大而感到自豪。
+</think>
+
+difficulty: 中等难度
+knowledge_domain: 英语语法
+knowledge_tree: 动词时态/进行时态
+task_grade: 小学六年级
+task_semester: 下学期
+task_subject: 英语
+
+答案：C",1
+a9743614e9b54857b7b21de3ac3a8bbc,"$#table{|Sarah,<br/>I've left my handbag at the office, so I'm just walking back to get it.<br/>Wait for 1-116 at the café — I won't be longl<br/>Anna|}#$
+
+",Anna is going to be late getting to the café.,Anna has forgotten the way to the café.,Anna is collecting Sarah's handbag from the café.,,A,"首先明确写信（短信或者便条）人是Anna,收信人是Sarah.突发情况是Anna需要walk back to the office to get her handbag, 结果是需要Sarah在cafe等她，而且不是太久。B选项关键词forgotten the way忘记了去cafe的路，错误。C选项collecting Sarah's handbag错误，包是Anna的。A选项中的getting to the café表示be late的原因，故选A。
+",较易,小学;英语;题型;阅读理解;阅读理解,阅读理解,小学,,英语,单选,"<think>
+1. 首先阅读便条内容：Anna说她把手提包落在办公室了，现在正走回去拿。让Sarah在咖啡馆等，并说她不会太久。
+2. 分析选项：
+   - A选项""Anna会迟到到达咖啡馆""：便条中说""I won't be long""(不会太久)，暗示可能会比预期晚一些，符合逻辑。
+   - B选项""Anna忘记了去咖啡馆的路""：便条中没有任何关于迷路或忘记路的信息。
+   - C选项""Anna要去咖啡馆拿Sarah的手提包""：便条明确说是Anna自己的手提包(""my handbag"")落在办公室，不是Sarah的。
+   - D选项不完整，无法判断。
+3. 最符合便条意思的是A选项，因为回去拿包确实会导致比原计划晚到咖啡馆。
+</think>
+
+difficulty: 简单
+knowledge_domain: 阅读理解
+knowledge_tree: 日常生活交流理解
+task_grade: 小学五年级
+task_semester: 第一学期
+task_subject: 英语
+
+答案：A",1
+6ad3f41581404460a7fa705d3ac42990,"I have thirteen stickers. My brother has five. How many stickers do we have together? 
+",15,8,18,,C,"考查数词和运算能力。句意：我有十三张贴纸。我哥哥有五张。我们一共有多少张贴纸？根据运算法则可知，13+5=18。故选：C。
+",易,小学;英语;题型;英文数学/智力题;英文数学/智力题,语言知识运用,小学,上学期,英语,单选,"<think>
+题目问的是“我有13张贴纸，我的兄弟有5张贴纸，我们一共有多少张贴纸？”这是一个简单的加法问题。我们需要将两个人的贴纸数量相加：
+
+我的贴纸数量：13张
+兄弟的贴纸数量：5张
+总数 = 13 + 5 = 18张
+
+查看选项：
+A. 15 → 不正确
+B. 8 → 不正确（这是减法结果）
+C. 18 → 正确
+D. nan → 无意义
+
+因此正确答案是C。
+</think>
+
+difficulty: 简单
+knowledge_domain: 基础算术
+knowledge_tree: 加法运算
+task_grade: 小学一年级
+task_semester: 第一学期
+task_subject: 数学/英语（双语题目）
+
+答案：C",1
+60829a649ef34daba8a64591b0747b05,"The c$$\underline{}$$s like br$$\underline{}$$n grass.
+",fl$$\underline{}$$er,wind$$\underline{}$$,,,A,"考查双元音。cow和brown中 ""ow"" 的发音为/aʊ/；flower（花）中 ""ow"" 的发音为/aʊ/，window（窗户）中 ""ow"" 的发音为/əʊ/。句意：奶牛喜欢棕色的草。故选：A。
+",易,小学;英语;知识点;基础知识;语音,单项选择,小学,上学期,英语,单选,"<think>
+1. 首先分析句子结构：""The c__s like br__n grass."" 这是一个主谓宾结构的简单句，描述某物喜欢某种草。
+2. 观察空缺部分：
+   - 第一个空是""c__s""，以c开头、s结尾的复数名词
+   - 第二个空是""br__n""，以br开头、n结尾的形容词
+3. 看选项：
+   A. ""fl__er"" → flower（花），但不符合""c""开头
+   B. ""wind__"" → window（窗户）或windy（有风的），但都不符合""c""开头
+   C/D都是""nan""（无意义）
+4. 结合常识和英语知识：
+   - ""cows""（牛）是复数，以c开头、s结尾
+   - ""brown""（棕色的）是常见颜色形容词
+   - ""cows like brown grass""（牛喜欢棕色的草）是合理的句子
+5. 虽然选项中没有直接给出""ows""和""own""，但这是唯一合理的补全方式，可能是题目排版问题。
+</think>
+
+difficulty: 简单题
+knowledge_domain: 基础词汇与句子结构
+knowledge_tree: 动物名词/颜色形容词
+task_grade: 小学三年级
+task_semester: 上学期
+task_subject: 英语
+
+答案：D",0
+310cb2aa416c4dd590fc937a0b127ff6," $$\underline{}$$ are my neighbours.
+",Greens,The Green,The Greens,,C,"考查在姓的复数前面加定冠词the表示这一家人的用法。根据句意可知格林一家人是我的邻居。故选：C。
+",较易,小学;英语;知识点;词法;冠词,语言知识运用,小学,上学期,英语,单选,"<think>
+1. 首先分析句子结构：空缺处需要填入一个名词短语作主语，且谓语动词是复数形式""are""，说明主语必须是复数。
+2. 分析选项：
+   - A项""Greens""：虽然形式上是复数，但英语中表示""格林一家""的正确表达需要加定冠词""the""
+   - B项""The Green""：定冠词正确，但""Green""是单数形式，与谓语动词不匹配
+   - C项""The Greens""：完全正确，""the + 姓氏复数""表示""某某一家人""，且与复数动词匹配
+   - D项""nan""：明显不符合
+3. 排除法：排除A(缺冠词)、B(单数)、D(无意义)，正确答案是C。
+</think>
+
+difficulty: 简单题
+knowledge_domain: 英语语法
+knowledge_tree: 名词用法/专有名词
+task_grade: 小学五年级
+task_semester: 第一学期
+task_subject: 英语
+
+答案：C",1
+5b61117bd0c441e98a78a5c7676dc206,"$#table{|$$\centerline{Under 16s motorbike race}centerlineendflag<br/>$$\centerline{Be at the race track at 10.00 to register.}centerlineendflag<br/>$$\centerline{The course opens for practice from}centerlineendflag<br/>$$\centerline{10.30 for an hour and the actual race starts at 12.}centerlineendflag|}#$
+",Motorcyclists can try out the race course between 10.30-11.30,Motorcyclists do not need to be at the track until 12.00,Motorcyclists must be ready to start the first race at 10.00,,A,"题目中The course opens for practice表示这时间只是提供出来当训练用的，与A项try out刚好搭配，故选A。
+",较易,小学;英语;考查方式;Reading;Reading,Reading-Gist,小学,,英语,单选,"<think>
+1. 首先阅读题目提供的表格内容：
+   - 标题是""Under 16s motorbike race""(16岁以下摩托车比赛)
+   - 第一行说明""Be at the race track at 10.00 to register""(10点到赛道注册)
+   - 第二行说明""The course opens for practice from""(赛道开放练习从)
+   - 第三行说明""10.30 for an hour and the actual race starts at 12""(10:30开始一小时，正式比赛12点开始)
+
+2. 分析每个选项：
+   A. ""Motorcyclists can try out the race course between 10.30-11.30"" - 这与表格中""10.30 for an hour""完全吻合，是正确的。
+   B. ""Motorcyclists do not need to be at the track until 12.00"" - 与表格中要求10点注册矛盾，是错误的。
+   C. ""Motorcyclists must be ready to start the first race at 10.00"" - 10点是注册时间不是比赛时间，是错误的。
+   D. ""nan"" - 无意义选项。
+
+3. 因此最符合表格信息的选项是A。
+</think>
+
+difficulty: 简单
+knowledge_domain: 英语阅读理解
+knowledge_tree: 信息提取与匹配
+task_grade: 小学高年级(5-6年级)
+task_semester: 不限
+task_subject: 英语
+
+答案：A",1
+150350277e16443dba99828274cb17df,"There $$\underline{}$$ a meeting tomorrow afternoon.
+",is going to be,will going to be,will going to,,A,"考查一般将来时态。一般将来时态的结构：主语+will+动词原形；主语+be going to+动词原形； 故选A。
+",易,小学;英语;知识点;词法;动词时态,词法-动词时态-一般将来时-一般将来时结构-be going to,小学,,英语,单选,"<think>
+这道题考察的是将来时的表达方式。我们需要选择一个正确的将来时结构来填空。
+
+首先分析句子结构：""There ____ a meeting tomorrow afternoon."" 这里需要表达""明天下午将有一个会议""，即用there be句型的将来时。
+
+选项分析：
+A. ""is going to be"" - 这是there be句型的将来时正确表达，表示""将会有""。
+B. ""will going to be"" - 语法错误，will后面应该接动词原形，不能接going。
+C. ""will going to"" - 同样语法错误，缺少be动词，且will不能接going。
+D. ""nan"" - 无意义选项。
+
+因此，唯一正确的选项是A。
+</think>
+
+difficulty: 简单
+knowledge_domain: 英语语法
+knowledge_tree: 动词时态/将来时
+task_grade: 小学五年级
+task_semester: 下学期
+task_subject: 英语
+
+答案：A",1
+e4c551794e0448f9964b97a5c9ed2117,"—What $$\underline{}$$ you like? 
+
+—I'd like $$\underline{}$$ apple pie.
+","would, a","do, an","would, an",,C,"考查特殊疑问句和冠词。根据上句表示想要可知应填would like；又根据apple为元音音素开头的名词，同时表达一个，所以应选择an。句意：—你想要什么？—我想要一个苹果派。故选：C。
+",较易,小学;英语;知识点;基础知识;语音,基础知识-语音-音素,小学,上学期,英语,单选,"<think>
+1. 首先看第一个空：""What ____ you like?"" 这是一个询问对方意愿的句型。在英语中，询问意愿通常使用""would like""这个固定搭配，表示""想要""。因此第一个空应该填""would""。
+2. 再看第二个空：""I'd like ____ apple pie."" 这里""I'd""是""I would""的缩写，后面接名词短语。由于""apple""以元音音素开头，前面应该用""an""而不是""a""。
+3. 综合来看：
+   - 第一个空需要""would""（排除B选项）
+   - 第二个空需要""an""（排除A选项）
+   - D选项不完整
+4. 因此正确答案是C选项""would, an""。
+</think>
+
+difficulty: 简单
+knowledge_domain: 基础语法
+knowledge_tree: 情态动词/冠词用法
+task_grade: 小学三年级
+task_semester: 下学期
+task_subject: 英语
+
+答案：C",1
+5ff5447430ad44dbb0bff4b5712653e3,"Does Tina often play $$\underline{}$$ guitar after $$\underline{}$$ school? 
+","the, the","the, a","the, /","a, /",C,"西方乐器前需要定冠词，after school固定搭配。
+",易,小学;英语;知识点;词法;冠词,语言知识运用,小学,,英语,单选,"<think>
+1. 首先分析第一个空：play后面接乐器时需要加定冠词""the""，这是固定用法，所以第一个空必须填""the""，排除D选项（a）。
+2. 然后分析第二个空：after school是固定短语，表示""放学后""，中间不需要加任何冠词，所以第二个空应该什么都不填（/），排除A和B选项（the和a）。
+3. 综合判断：第一个空填""the""，第二个空不填，对应选项C。
+</think>
+
+difficulty: 简单
+knowledge_domain: 冠词用法
+knowledge_tree: 英语语法/冠词/定冠词与零冠词
+task_grade: 小学五年级
+task_semester: 上学期
+task_subject: 英语
+
+答案：C",1

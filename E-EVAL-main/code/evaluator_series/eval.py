@@ -4,11 +4,7 @@ import pandas as pd
 import torch
 from evaluators.chatgpt import ChatGPT_Evaluator
 from evaluators.deepseek import DeepSeek_Evaluator
-from evaluators.Yi import Yi_Evaluator
-from evaluators.chatglm import ChatGLM_Evaluator
-from evaluators.Baichuan import Baichuan_Evaluator
-from evaluators.qwen import Qwen_Evaluator
-from evaluators.ERNIE import ERNIE_Evaluator
+
 
 import time
 choices = ["A", "B", "C", "D"]
@@ -22,6 +18,13 @@ def main(args):
             api_key=args.openai_key,
             model_name=args.model_name
         )
+    elif "gpt-4o" in args.model_name:
+        evaluator=ChatGPT_Evaluator(
+            choices=choices,
+            k=args.ntrain,
+            api_key=args.openai_key,
+            model_name=args.model_name
+        )
     elif "deepseek-reasoner" in args.model_name:
         evaluator=DeepSeek_Evaluator(
             choices=choices,
@@ -29,51 +32,12 @@ def main(args):
             api_key=args.openai_key,
             model_name=args.model_name
         )
-    elif "ernie" in args.model_name:
-        evaluator=ERNIE_Evaluator(
+    elif "deepseek-chat" in args.model_name:
+        evaluator=DeepSeek_Evaluator(
             choices=choices,
             k=args.ntrain,
+            api_key=args.openai_key,
             model_name=args.model_name
-        )
-    elif "chatglm3" in args.model_name:
-        # if args.cuda_device:
-        #     os.environ["CUDA_VISIBLE_DEVICES"] = args.cuda_device
-        device = torch.device(f"cuda:{args.cuda_device}")
-        evaluator=ChatGLM_Evaluator(
-            choices=choices,
-            k=args.ntrain,
-            model_name=args.model_name,
-            device=device
-        )
-    elif "qwen" in args.model_name:
-        # if args.cuda_device:
-        #     os.environ["CUDA_VISIBLE_DEVICES"] = args.cuda_device
-        device = torch.device(f"cuda:{args.cuda_device}")
-        evaluator=Qwen_Evaluator(
-            choices=choices,
-            k=args.ntrain,
-            model_name=args.model_name,
-            device=device
-        )
-    elif "baichuan" in args.model_name:
-        # if args.cuda_device:
-        #     os.environ["CUDA_VISIBLE_DEVICES"] = args.cuda_device
-        device = torch.device(f"cuda:{args.cuda_device}")
-        evaluator=Baichuan_Evaluator(
-            choices=choices,
-            k=args.ntrain,
-            model_name=args.model_name,
-            device=device
-        )
-    elif "Yi" in args.model_name:
-        # if args.cuda_device:
-        #     os.environ["CUDA_VISIBLE_DEVICES"] = args.cuda_device
-        device = torch.device(f"cuda:{args.cuda_device}")
-        evaluator=Yi_Evaluator(
-            choices=choices,
-            k=args.ntrain,
-            model_name=args.model_name,
-            device=device
         )
     else:
         print("Unknown model name")

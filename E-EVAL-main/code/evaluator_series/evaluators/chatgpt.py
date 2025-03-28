@@ -14,7 +14,7 @@ class ChatGPT_Evaluator(Evaluator):
         openai.api_key = api_key
 
     def format_example(self,line,include_answer=True,cot=False):
-        example=line['question']
+        example=line['prompt']
         for choice in self.choices:
             example+=f'\n{choice}. {line[f"{choice}"]}'
 
